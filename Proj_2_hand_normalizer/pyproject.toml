@@ -1,0 +1,15 @@
+[project]
+name = "handnormalizer"
+version = "0.1.0"
+description = "Poker hand normalizer/cleaner for US format."
+requires-python = ">=3.9"
+authors = [{name="Your Name"}]
+
+[project.scripts]
+handnormalizer = "handnormalizer.cli:main"
+
+[tool.black]
+line-length = 88
+
+[tool.ruff]
+line-length = 88
