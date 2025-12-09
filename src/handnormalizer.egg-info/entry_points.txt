@@ -1,0 +1,2 @@
+[console_scripts]
+handnormalizer = handnormalizer.cli:main

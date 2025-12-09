@@ -1,0 +1,5482 @@
+﻿PokerStars Zoom Hand #257442356231:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:10:28 CET [2025/08/22 12:10:28 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: PUMAAA132 (€11.36 in chips)
+Seat 2: RichyPozo (€9.98 in chips)
+Seat 3: noarones (€8 in chips)
+Seat 4: BPinto96 (€19.95 in chips)
+Seat 5: basurdia (€10 in chips)
+Seat 6: eer_miguee (€14.83 in chips)
+RichyPozo: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [4h Ts]
+BPinto96: folds
+basurdia: folds
+eer_miguee: folds
+PUMAAA132 has timed out
+PUMAAA132: folds
+RichyPozo: raises €0.25 to €0.35
+noarones: folds
+Uncalled bet (€0.25) returned to RichyPozo
+RichyPozo collected €0.20 from pot
+RichyPozo: doesn't show hand
+*** SUMMARY ***
+Total pot €0.20 | Rake €0
+Seat 1: PUMAAA132 (button) folded before Flop (didn't bet)
+Seat 2: RichyPozo (small blind) collected (€0.20)
+Seat 3: noarones (big blind) folded before Flop
+Seat 4: BPinto96 folded before Flop (didn't bet)
+Seat 5: basurdia folded before Flop (didn't bet)
+Seat 6: eer_miguee folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442356690:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:10:31 CET [2025/08/22 12:10:31 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: basurdia (€10.10 in chips)
+Seat 2: 1eliasnaiara (€98.68 in chips)
+Seat 3: noarones (€8 in chips)
+Seat 4: SlakA22 (€10.10 in chips)
+Seat 5: JUSANAL (€9.65 in chips)
+Seat 6: TorresSlb (€5.10 in chips)
+1eliasnaiara: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [7c Kh]
+SlakA22: raises €0.10 to €0.20
+JUSANAL: folds
+TorresSlb: folds
+basurdia: folds
+1eliasnaiara: folds
+noarones: folds
+Uncalled bet (€0.10) returned to SlakA22
+SlakA22 collected €0.25 from pot
+SlakA22: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: basurdia (button) folded before Flop (didn't bet)
+Seat 2: 1eliasnaiara (small blind) folded before Flop
+Seat 3: noarones (big blind) folded before Flop
+Seat 4: SlakA22 collected (€0.25)
+Seat 5: JUSANAL folded before Flop (didn't bet)
+Seat 6: TorresSlb folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442357094:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:10:33 CET [2025/08/22 12:10:33 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Kogoro21 (€11.01 in chips)
+Seat 2: eer_miguee (€14.45 in chips)
+Seat 3: noarones (€8 in chips)
+Seat 4: Älejo (€13.71 in chips)
+Seat 5: aixosi (€28.57 in chips)
+Seat 6: harrychoo (€7.01 in chips)
+eer_miguee: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Jd Qh]
+Älejo: folds
+aixosi: folds
+harrychoo: raises €0.20 to €0.30
+Kogoro21: folds
+eer_miguee: folds
+noarones: calls €0.20
+*** FLOP *** [8c 9d 7h]
+noarones: checks
+harrychoo: checks
+*** TURN *** [8c 9d 7h] [9c]
+noarones: checks
+harrychoo: bets €0.31
+noarones: folds
+Uncalled bet (€0.31) returned to harrychoo
+harrychoo collected €0.62 from pot
+harrychoo: doesn't show hand
+*** SUMMARY ***
+Total pot €0.65 | Rake €0.03
+Board [8c 9d 7h 9c]
+Seat 1: Kogoro21 (button) folded before Flop (didn't bet)
+Seat 2: eer_miguee (small blind) folded before Flop
+Seat 3: noarones (big blind) folded on the Turn
+Seat 4: Älejo folded before Flop (didn't bet)
+Seat 5: aixosi folded before Flop (didn't bet)
+Seat 6: harrychoo collected (€0.62)
+
+
+PokerStars Zoom Hand #257442357474:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:10:35 CET [2025/08/22 12:10:35 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: stif3872 (€8.94 in chips)
+Seat 2: Benjam3232 (€10.87 in chips)
+Seat 3: noarones (€8 in chips)
+Seat 4: TorresSlb (€5.10 in chips)
+Seat 5: 1eliasnaiara (€98.63 in chips)
+Seat 6: ggalego (€9.39 in chips)
+Benjam3232: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Kc Js]
+TorresSlb: folds
+1eliasnaiara: folds
+ggalego: folds
+stif3872: folds
+Benjam3232: raises €0.20 to €0.30
+noarones: calls €0.20
+*** FLOP *** [Qc 4h Kh]
+Benjam3232: bets €0.30
+noarones: calls €0.30
+*** TURN *** [Qc 4h Kh] [5h]
+Benjam3232: checks
+noarones: bets €0.75
+Benjam3232: raises €1.32 to €2.07
+noarones: folds
+Uncalled bet (€1.32) returned to Benjam3232
+Benjam3232 collected €2.56 from pot
+Benjam3232: doesn't show hand
+*** SUMMARY ***
+Total pot €2.70 | Rake €0.14
+Board [Qc 4h Kh 5h]
+Seat 1: stif3872 (button) folded before Flop (didn't bet)
+Seat 2: Benjam3232 (small blind) collected (€2.56)
+Seat 3: noarones (big blind) folded on the Turn
+Seat 4: TorresSlb folded before Flop (didn't bet)
+Seat 5: 1eliasnaiara folded before Flop (didn't bet)
+Seat 6: ggalego folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442358948:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:10:43 CET [2025/08/22 12:10:43 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Älejo (€13.71 in chips)
+Seat 2: edurneimpoker (€23.50 in chips)
+Seat 3: basurdia (€10.10 in chips)
+Seat 4: SlakA22 (€10.25 in chips)
+Seat 5: LuisCesarQB (€36.28 in chips)
+Seat 6: noarones (€10 in chips)
+edurneimpoker: posts small blind €0.05
+basurdia: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [9s Ts]
+SlakA22: raises €0.12 to €0.22
+LuisCesarQB: folds
+noarones: folds
+Älejo: folds
+edurneimpoker: folds
+basurdia: raises €0.98 to €1.20
+SlakA22: folds
+Uncalled bet (€0.98) returned to basurdia
+basurdia collected €0.49 from pot
+basurdia: doesn't show hand
+*** SUMMARY ***
+Total pot €0.49 | Rake €0
+Seat 1: Älejo (button) folded before Flop (didn't bet)
+Seat 2: edurneimpoker (small blind) folded before Flop
+Seat 3: basurdia (big blind) collected (€0.49)
+Seat 4: SlakA22 folded before Flop
+Seat 5: LuisCesarQB folded before Flop (didn't bet)
+Seat 6: noarones folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442361706:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:10:59 CET [2025/08/22 12:10:59 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: TIMBRERO (€5.32 in chips)
+Seat 2: noarones (€10 in chips)
+Seat 3: abuecam (€13.34 in chips)
+Seat 4: BPinto96 (€13.40 in chips)
+Seat 5: TorresSlb (€4.80 in chips)
+Seat 6: LuisCesarQB (€19.33 in chips)
+noarones: posts small blind €0.05
+abuecam: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [9s 4h]
+BPinto96: raises €0.12 to €0.22
+TorresSlb: folds
+LuisCesarQB: folds
+TIMBRERO: folds
+noarones: folds
+abuecam: folds
+Uncalled bet (€0.12) returned to BPinto96
+BPinto96 collected €0.25 from pot
+BPinto96: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: TIMBRERO (button) folded before Flop (didn't bet)
+Seat 2: noarones (small blind) folded before Flop
+Seat 3: abuecam (big blind) folded before Flop
+Seat 4: BPinto96 collected (€0.25)
+Seat 5: TorresSlb folded before Flop (didn't bet)
+Seat 6: LuisCesarQB folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442362105:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:11:01 CET [2025/08/22 12:11:01 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: LuisCesarQB (€21.03 in chips)
+Seat 2: noarones (€10 in chips)
+Seat 3: GodZillus (€12.06 in chips)
+Seat 4: Galiler (€13.89 in chips)
+Seat 5: DelaJose04 (€35.37 in chips)
+Seat 6: Arist0kard (€20.17 in chips)
+noarones: posts small blind €0.05
+GodZillus: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [5s Jc]
+Galiler: raises €0.17 to €0.27
+DelaJose04: folds
+Arist0kard: calls €0.27
+LuisCesarQB: folds
+noarones: folds
+GodZillus: folds
+*** FLOP *** [Jh Tc 8s]
+Galiler: checks
+Arist0kard: checks
+*** TURN *** [Jh Tc 8s] [6s]
+Galiler: checks
+Arist0kard: bets €0.43
+Galiler: calls €0.43
+*** RIVER *** [Jh Tc 8s 6s] [4h]
+Galiler: checks
+Arist0kard: bets €1.27
+Galiler: folds
+Uncalled bet (€1.27) returned to Arist0kard
+Arist0kard collected €1.47 from pot
+Arist0kard: doesn't show hand
+*** SUMMARY ***
+Total pot €1.55 | Rake €0.08
+Board [Jh Tc 8s 6s 4h]
+Seat 1: LuisCesarQB (button) folded before Flop (didn't bet)
+Seat 2: noarones (small blind) folded before Flop
+Seat 3: GodZillus (big blind) folded before Flop
+Seat 4: Galiler folded on the River
+Seat 5: DelaJose04 folded before Flop (didn't bet)
+Seat 6: Arist0kard collected (€1.47)
+
+
+PokerStars Zoom Hand #257442362710:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:11:05 CET [2025/08/22 12:11:05 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€9.95 in chips)
+Seat 2: edurneimpoker (€23.45 in chips)
+Seat 3: stif3872 (€9.04 in chips)
+Seat 4: eer_miguee (€14.72 in chips)
+Seat 5: aixosi (€28.42 in chips)
+Seat 6: ggalego (€9.34 in chips)
+edurneimpoker: posts small blind €0.05
+stif3872: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [8c 4c]
+eer_miguee: folds
+aixosi: raises €0.20 to €0.30
+ggalego: folds
+noarones: folds
+edurneimpoker: folds
+stif3872: calls €0.20
+*** FLOP *** [7c Jc Qc]
+stif3872: checks
+aixosi: bets €0.20
+stif3872: raises €0.51 to €0.71
+aixosi: folds
+Uncalled bet (€0.51) returned to stif3872
+stif3872 collected €1 from pot
+stif3872: doesn't show hand
+*** SUMMARY ***
+Total pot €1.05 | Rake €0.05
+Board [7c Jc Qc]
+Seat 1: noarones (button) folded before Flop (didn't bet)
+Seat 2: edurneimpoker (small blind) folded before Flop
+Seat 3: stif3872 (big blind) collected (€1)
+Seat 4: eer_miguee folded before Flop (didn't bet)
+Seat 5: aixosi folded on the Flop
+Seat 6: ggalego folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442363188:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:11:07 CET [2025/08/22 12:11:07 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€9.95 in chips)
+Seat 2: albeert00 (€9.26 in chips)
+Seat 3: BPinto96 (€12.27 in chips)
+Seat 4: pomkuitfromhell (€10 in chips)
+Seat 5: toze78PT (€14.06 in chips)
+Seat 6: GodZillus (€11.96 in chips)
+albeert00: posts small blind €0.05
+BPinto96: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [6c 5c]
+pomkuitfromhell: folds
+toze78PT: folds
+GodZillus: folds
+noarones: raises €0.10 to €0.20
+albeert00: folds
+BPinto96: calls €0.10
+*** FLOP *** [3s 4d 9c]
+BPinto96: checks
+noarones: bets €0.55
+BPinto96: folds
+Uncalled bet (€0.55) returned to noarones
+noarones collected €0.43 from pot
+noarones: doesn't show hand
+*** SUMMARY ***
+Total pot €0.45 | Rake €0.02
+Board [3s 4d 9c]
+Seat 1: noarones (button) collected (€0.43)
+Seat 2: albeert00 (small blind) folded before Flop
+Seat 3: BPinto96 (big blind) folded on the Flop
+Seat 4: pomkuitfromhell folded before Flop (didn't bet)
+Seat 5: toze78PT folded before Flop (didn't bet)
+Seat 6: GodZillus folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442363364:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:11:08 CET [2025/08/22 12:11:08 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: TorresSlb (€4.75 in chips)
+Seat 2: pope's one (€14.62 in chips)
+Seat 3: noarones (€9.95 in chips)
+Seat 4: RasmunsenDios (€13.41 in chips)
+Seat 5: TIMBRERO (€5.32 in chips)
+Seat 6: abuecam (€13.24 in chips)
+pope's one: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [9d 2d]
+RasmunsenDios: folds
+TIMBRERO: folds
+abuecam: folds
+TorresSlb: raises €0.20 to €0.30
+pope's one: folds
+noarones: folds
+Uncalled bet (€0.20) returned to TorresSlb
+TorresSlb collected €0.25 from pot
+TorresSlb: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: TorresSlb (button) collected (€0.25)
+Seat 2: pope's one (small blind) folded before Flop
+Seat 3: noarones (big blind) folded before Flop
+Seat 4: RasmunsenDios folded before Flop (didn't bet)
+Seat 5: TIMBRERO folded before Flop (didn't bet)
+Seat 6: abuecam folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442367064:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:11:29 CET [2025/08/22 12:11:29 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: comm1_86 (€5.95 in chips)
+Seat 2: noarones (€10 in chips)
+Seat 3: basurdia (€10.37 in chips)
+Seat 4: ElPudao (€7.27 in chips)
+Seat 5: edurneimpoker (€23.45 in chips)
+Seat 6: Split2902 (€13.54 in chips)
+noarones: posts small blind €0.05
+basurdia: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Ad 2d]
+ElPudao: raises €0.20 to €0.30
+edurneimpoker: folds
+Split2902: folds
+comm1_86: raises €0.75 to €1.05
+noarones: folds
+basurdia: folds
+ElPudao: folds
+Uncalled bet (€0.75) returned to comm1_86
+comm1_86 collected €0.75 from pot
+comm1_86: doesn't show hand
+*** SUMMARY ***
+Total pot €0.75 | Rake €0
+Seat 1: comm1_86 (button) collected (€0.75)
+Seat 2: noarones (small blind) folded before Flop
+Seat 3: basurdia (big blind) folded before Flop
+Seat 4: ElPudao folded before Flop
+Seat 5: edurneimpoker folded before Flop (didn't bet)
+Seat 6: Split2902 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442367457:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:11:31 CET [2025/08/22 12:11:31 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€9.85 in chips)
+Seat 2: 00789 (€10 in chips)
+Seat 3: piethok (€8 in chips)
+Seat 4: DelaJose04 (€35.52 in chips)
+Seat 5: BPinto96 (€13.18 in chips)
+Seat 6: pope's one (€9.47 in chips)
+00789: posts small blind €0.05
+piethok: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [6d 5s]
+DelaJose04: folds
+BPinto96: folds
+pope's one: raises €0.15 to €0.25
+noarones: folds
+00789: folds
+piethok: raises €0.55 to €0.80
+pope's one: folds
+Uncalled bet (€0.55) returned to piethok
+piethok collected €0.55 from pot
+piethok: doesn't show hand
+*** SUMMARY ***
+Total pot €0.55 | Rake €0
+Seat 1: noarones (button) folded before Flop (didn't bet)
+Seat 2: 00789 (small blind) folded before Flop
+Seat 3: piethok (big blind) collected (€0.55)
+Seat 4: DelaJose04 folded before Flop (didn't bet)
+Seat 5: BPinto96 folded before Flop (didn't bet)
+Seat 6: pope's one folded before Flop
+
+
+PokerStars Zoom Hand #257442367708:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:11:32 CET [2025/08/22 12:11:32 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: aixosi (€27.92 in chips)
+Seat 2: ma6as (€10 in chips)
+Seat 3: basurdia (€10 in chips)
+Seat 4: eer_miguee (€15.10 in chips)
+Seat 5: BPinto96 (€20.05 in chips)
+Seat 6: noarones (€10.18 in chips)
+ma6as: posts small blind €0.05
+basurdia: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [7d 2s]
+eer_miguee: folds
+BPinto96: raises €0.12 to €0.22
+noarones: folds
+aixosi: folds
+ma6as: folds
+basurdia: folds
+Uncalled bet (€0.12) returned to BPinto96
+BPinto96 collected €0.25 from pot
+BPinto96: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: aixosi (button) folded before Flop (didn't bet)
+Seat 2: ma6as (small blind) folded before Flop
+Seat 3: basurdia (big blind) folded before Flop
+Seat 4: eer_miguee folded before Flop (didn't bet)
+Seat 5: BPinto96 collected (€0.25)
+Seat 6: noarones folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442368493:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:11:37 CET [2025/08/22 12:11:37 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pomkuitfromhell (€10 in chips)
+Seat 2: ggalego (€9.24 in chips)
+Seat 3: 00789 (€15.45 in chips)
+Seat 4: noarones (€10 in chips)
+Seat 5: harrychoo (€7.33 in chips)
+Seat 6: toun29 (€5.81 in chips)
+ggalego: posts small blind €0.05
+00789: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Kc 2d]
+noarones: folds
+harrychoo: folds
+toun29: raises €0.20 to €0.30
+pomkuitfromhell: raises €0.45 to €0.75
+ggalego: folds
+00789: folds
+toun29: calls €0.45
+*** FLOP *** [Th Js 2s]
+toun29: checks
+pomkuitfromhell: bets €0.52
+toun29: calls €0.52
+*** TURN *** [Th Js 2s] [Ah]
+toun29: checks
+pomkuitfromhell: bets €0.84
+toun29: raises €0.84 to €1.68
+pomkuitfromhell: calls €0.84
+*** RIVER *** [Th Js 2s Ah] [5c]
+toun29: bets €2.86 and is all-in
+pomkuitfromhell: folds
+Uncalled bet (€2.86) returned to toun29
+toun29 collected €5.75 from pot
+toun29: doesn't show hand
+*** SUMMARY ***
+Total pot €6.05 | Rake €0.30
+Board [Th Js 2s Ah 5c]
+Seat 1: pomkuitfromhell (button) folded on the River
+Seat 2: ggalego (small blind) folded before Flop
+Seat 3: 00789 (big blind) folded before Flop
+Seat 4: noarones folded before Flop (didn't bet)
+Seat 5: harrychoo folded before Flop (didn't bet)
+Seat 6: toun29 collected (€5.75)
+
+
+PokerStars Zoom Hand #257442370313:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:11:47 CET [2025/08/22 12:11:47 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€9.95 in chips)
+Seat 2: BPinto96 (€13.08 in chips)
+Seat 3: LuisCesarQB (€34.60 in chips)
+Seat 4: Piti9312 (€4.12 in chips)
+Seat 5: basurdia (€10.27 in chips)
+Seat 6: NCabral_SCP (€4.27 in chips)
+BPinto96: posts small blind €0.05
+LuisCesarQB: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [5d Qc]
+Piti9312: raises €0.15 to €0.25
+basurdia: raises €0.95 to €1.20
+NCabral_SCP: folds
+noarones: folds
+BPinto96: folds
+LuisCesarQB: folds
+Piti9312: calls €0.95
+*** FLOP *** [Qd 9s Th]
+Piti9312: checks
+basurdia: checks
+*** TURN *** [Qd 9s Th] [7d]
+Piti9312: bets €1.21
+basurdia: calls €1.21
+*** RIVER *** [Qd 9s Th 7d] [3s]
+Piti9312: bets €1.71 and is all-in
+basurdia: folds
+Uncalled bet (€1.71) returned to Piti9312
+Piti9312 collected €4.72 from pot
+Piti9312: doesn't show hand
+*** SUMMARY ***
+Total pot €4.97 | Rake €0.25
+Board [Qd 9s Th 7d 3s]
+Seat 1: noarones (button) folded before Flop (didn't bet)
+Seat 2: BPinto96 (small blind) folded before Flop
+Seat 3: LuisCesarQB (big blind) folded before Flop
+Seat 4: Piti9312 collected (€4.72)
+Seat 5: basurdia folded on the River
+Seat 6: NCabral_SCP folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442370479:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:11:48 CET [2025/08/22 12:11:48 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: SlakA22 (€10 in chips)
+Seat 2: edurneimpoker (€23.45 in chips)
+Seat 3: toni290178 (€13.70 in chips)
+Seat 4: 00789 (€15.35 in chips)
+Seat 5: noarones (€10.18 in chips)
+Seat 6: luckyluke208 (€13.04 in chips)
+edurneimpoker: posts small blind €0.05
+toni290178: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [3d 5d]
+00789: folds
+noarones: folds
+luckyluke208: folds
+SlakA22: raises €0.15 to €0.25
+edurneimpoker: folds
+toni290178: calls €0.15
+*** FLOP *** [Kh 4c 4s]
+toni290178: checks
+SlakA22: bets €0.10
+toni290178: calls €0.10
+*** TURN *** [Kh 4c 4s] [4d]
+toni290178: checks
+SlakA22: bets €0.20
+toni290178: calls €0.20
+*** RIVER *** [Kh 4c 4s 4d] [2d]
+toni290178: checks
+SlakA22: bets €0.25
+toni290178: calls €0.25
+*** SHOW DOWN ***
+SlakA22: shows [Kc 7c] (a full house, Fours full of Kings)
+toni290178: mucks hand
+SlakA22 collected €1.57 from pot
+*** SUMMARY ***
+Total pot €1.65 | Rake €0.08
+Board [Kh 4c 4s 4d 2d]
+Seat 1: SlakA22 (button) showed [Kc 7c] and won (€1.57) with a full house, Fours full of Kings
+Seat 2: edurneimpoker (small blind) folded before Flop
+Seat 3: toni290178 (big blind) mucked [Tc Ad]
+Seat 4: 00789 folded before Flop (didn't bet)
+Seat 5: noarones folded before Flop (didn't bet)
+Seat 6: luckyluke208 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442370797:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:11:50 CET [2025/08/22 12:11:50 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Las Vegas768 (€12.55 in chips)
+Seat 2: BoGosss92 (€12.60 in chips)
+Seat 3: toze78PT (€13.45 in chips)
+Seat 4: 00789 (€10 in chips)
+Seat 5: noarones (€9.85 in chips)
+Seat 6: Split2902 (€10.49 in chips)
+BoGosss92: posts small blind €0.05
+toze78PT: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [2s Qs]
+00789: raises €0.15 to €0.25
+noarones: folds
+Split2902: folds
+Las Vegas768: raises €0.65 to €0.90
+BoGosss92: folds
+toze78PT: folds
+00789: folds
+Uncalled bet (€0.65) returned to Las Vegas768
+Las Vegas768 collected €0.65 from pot
+Las Vegas768: doesn't show hand
+*** SUMMARY ***
+Total pot €0.65 | Rake €0
+Seat 1: Las Vegas768 (button) collected (€0.65)
+Seat 2: BoGosss92 (small blind) folded before Flop
+Seat 3: toze78PT (big blind) folded before Flop
+Seat 4: 00789 folded before Flop
+Seat 5: noarones folded before Flop (didn't bet)
+Seat 6: Split2902 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442370980:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:11:51 CET [2025/08/22 12:11:51 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: kastor59 (€10 in chips)
+Seat 2: noarones (€10 in chips)
+Seat 3: Split2902 (€10.93 in chips)
+Seat 4: basurdia (€10 in chips)
+Seat 5: TrasHeap (€10 in chips)
+Seat 6: 00789 (€15.35 in chips)
+noarones: posts small blind €0.05
+Split2902: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [9d 3h]
+basurdia: folds
+TrasHeap: folds
+00789: raises €0.15 to €0.25
+kastor59: folds
+noarones: folds
+Split2902: calls €0.15
+*** FLOP *** [3c 9s 7h]
+Split2902: checks
+00789: checks
+*** TURN *** [3c 9s 7h] [Ts]
+Split2902: checks
+00789: checks
+*** RIVER *** [3c 9s 7h Ts] [2s]
+Split2902: bets €0.30
+00789: folds
+Uncalled bet (€0.30) returned to Split2902
+Split2902 collected €0.52 from pot
+Split2902: doesn't show hand
+*** SUMMARY ***
+Total pot €0.55 | Rake €0.03
+Board [3c 9s 7h Ts 2s]
+Seat 1: kastor59 (button) folded before Flop (didn't bet)
+Seat 2: noarones (small blind) folded before Flop
+Seat 3: Split2902 (big blind) collected (€0.52)
+Seat 4: basurdia folded before Flop (didn't bet)
+Seat 5: TrasHeap folded before Flop (didn't bet)
+Seat 6: 00789 folded on the River
+
+
+PokerStars Zoom Hand #257442372716:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:12:00 CET [2025/08/22 12:12:00 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: NCabral_SCP (€4.27 in chips)
+Seat 2: noarones (€9.85 in chips)
+Seat 3: PUMAAA132 (€8.83 in chips)
+Seat 4: OG Poker7 (€17.20 in chips)
+Seat 5: comm1_86 (€6.40 in chips)
+Seat 6: 00789 (€10 in chips)
+noarones: posts small blind €0.05
+PUMAAA132: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Kd 7h]
+OG Poker7: folds
+comm1_86: raises €0.25 to €0.35
+00789: raises €0.55 to €0.90
+NCabral_SCP: folds
+noarones: folds
+PUMAAA132: folds
+comm1_86: raises €5.50 to €6.40 and is all-in
+00789: calls €5.50
+*** FLOP *** [8d Ah 3c]
+*** TURN *** [8d Ah 3c] [6c]
+*** RIVER *** [8d Ah 3c 6c] [5c]
+*** SHOW DOWN ***
+comm1_86: shows [2c 2d] (a pair of Deuces)
+00789: shows [Qd Qc] (a pair of Queens)
+00789 collected €12.30 from pot
+*** SUMMARY ***
+Total pot €12.95 | Rake €0.65
+Board [8d Ah 3c 6c 5c]
+Seat 1: NCabral_SCP (button) folded before Flop (didn't bet)
+Seat 2: noarones (small blind) folded before Flop
+Seat 3: PUMAAA132 (big blind) folded before Flop
+Seat 4: OG Poker7 folded before Flop (didn't bet)
+Seat 5: comm1_86 showed [2c 2d] and lost with a pair of Deuces
+Seat 6: 00789 showed [Qd Qc] and won (€12.30) with a pair of Queens
+
+
+PokerStars Zoom Hand #257442372721:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:12:00 CET [2025/08/22 12:12:00 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: basurdia (€10 in chips)
+Seat 2: BPinto96 (€20.20 in chips)
+Seat 3: pope's one (€14.34 in chips)
+Seat 4: Split2902 (€11.09 in chips)
+Seat 5: kayser005 (€15.76 in chips)
+Seat 6: noarones (€10.18 in chips)
+BPinto96: posts small blind €0.05
+pope's one: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [5c 2c]
+Split2902: raises €0.15 to €0.25
+kayser005: folds
+noarones: folds
+basurdia: folds
+BPinto96: folds
+pope's one: calls €0.15
+*** FLOP *** [2h Ac 3s]
+pope's one: checks
+Split2902: bets €0.39
+pope's one: calls €0.39
+*** TURN *** [2h Ac 3s] [Jh]
+pope's one: checks
+Split2902: checks
+*** RIVER *** [2h Ac 3s Jh] [Jd]
+pope's one: checks
+Split2902: checks
+*** SHOW DOWN ***
+pope's one: shows [5d 2d] (two pair, Jacks and Deuces)
+Split2902: shows [7s 7h] (two pair, Jacks and Sevens)
+Split2902 collected €1.26 from pot
+*** SUMMARY ***
+Total pot €1.33 | Rake €0.07
+Board [2h Ac 3s Jh Jd]
+Seat 1: basurdia (button) folded before Flop (didn't bet)
+Seat 2: BPinto96 (small blind) folded before Flop
+Seat 3: pope's one (big blind) showed [5d 2d] and lost with two pair, Jacks and Deuces
+Seat 4: Split2902 showed [7s 7h] and won (€1.26) with two pair, Jacks and Sevens
+Seat 5: kayser005 folded before Flop (didn't bet)
+Seat 6: noarones folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442372885:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:12:01 CET [2025/08/22 12:12:01 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: edurneimpoker (€23.30 in chips)
+Seat 2: OG Poker7 (€13.81 in chips)
+Seat 3: TrasHeap (€10 in chips)
+Seat 4: basurdia (€10 in chips)
+Seat 5: noarones (€9.95 in chips)
+Seat 6: BPinto96 (€13.03 in chips)
+OG Poker7: posts small blind €0.05
+TrasHeap: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Jd Ad]
+basurdia: folds
+noarones: raises €0.15 to €0.25
+BPinto96: folds
+edurneimpoker: folds
+OG Poker7: folds
+TrasHeap: folds
+Uncalled bet (€0.15) returned to noarones
+noarones collected €0.25 from pot
+noarones: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: edurneimpoker (button) folded before Flop (didn't bet)
+Seat 2: OG Poker7 (small blind) folded before Flop
+Seat 3: TrasHeap (big blind) folded before Flop
+Seat 4: basurdia folded before Flop (didn't bet)
+Seat 5: noarones collected (€0.25)
+Seat 6: BPinto96 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442373570:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:12:05 CET [2025/08/22 12:12:05 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Las Vegas768 (€9.87 in chips)
+Seat 2: kayser005 (€15.76 in chips)
+Seat 3: noarones (€10.18 in chips)
+Seat 4: GodZillus (€19.58 in chips)
+Seat 5: ElPudao (€6.97 in chips)
+Seat 6: ma6as (€10.15 in chips)
+kayser005: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [4h 9s]
+GodZillus: folds
+ElPudao: folds
+ma6as: folds
+Las Vegas768: folds
+kayser005: raises €0.20 to €0.30
+noarones: folds
+Uncalled bet (€0.20) returned to kayser005
+kayser005 collected €0.20 from pot
+kayser005: doesn't show hand
+*** SUMMARY ***
+Total pot €0.20 | Rake €0
+Seat 1: Las Vegas768 (button) folded before Flop (didn't bet)
+Seat 2: kayser005 (small blind) collected (€0.20)
+Seat 3: noarones (big blind) folded before Flop
+Seat 4: GodZillus folded before Flop (didn't bet)
+Seat 5: ElPudao folded before Flop (didn't bet)
+Seat 6: ma6as folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442374350:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:12:09 CET [2025/08/22 12:12:09 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: TIMBRERO (€5.82 in chips)
+Seat 2: luckyluke208 (€31.24 in chips)
+Seat 3: RasmunsenDios (€12.64 in chips)
+Seat 4: BPinto96 (€13.03 in chips)
+Seat 5: GodZillus (€19.58 in chips)
+Seat 6: noarones (€9.80 in chips)
+luckyluke208: posts small blind €0.05
+RasmunsenDios: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Qh 4h]
+BPinto96: folds
+GodZillus: folds
+noarones: raises €0.10 to €0.20
+TIMBRERO: folds
+luckyluke208: folds
+RasmunsenDios: calls €0.10
+*** FLOP *** [4c 9d 5h]
+RasmunsenDios: checks
+noarones: checks
+*** TURN *** [4c 9d 5h] [Ts]
+RasmunsenDios: checks
+noarones: checks
+*** RIVER *** [4c 9d 5h Ts] [Kc]
+RasmunsenDios: bets €0.20
+noarones: calls €0.20
+*** SHOW DOWN ***
+RasmunsenDios: shows [Tc As] (a pair of Tens)
+noarones: mucks hand
+RasmunsenDios collected €0.81 from pot
+*** SUMMARY ***
+Total pot €0.85 | Rake €0.04
+Board [4c 9d 5h Ts Kc]
+Seat 1: TIMBRERO (button) folded before Flop (didn't bet)
+Seat 2: luckyluke208 (small blind) folded before Flop
+Seat 3: RasmunsenDios (big blind) showed [Tc As] and won (€0.81) with a pair of Tens
+Seat 4: BPinto96 folded before Flop (didn't bet)
+Seat 5: GodZillus folded before Flop (didn't bet)
+Seat 6: noarones mucked [Qh 4h]
+
+
+PokerStars Zoom Hand #257442374573:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:12:10 CET [2025/08/22 12:12:10 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€9.95 in chips)
+Seat 2: nonoficial (€10.54 in chips)
+Seat 3: Galiler (€13.19 in chips)
+Seat 4: Las Vegas768 (€15.04 in chips)
+Seat 5: aixosi (€26.02 in chips)
+Seat 6: 00789 (€13.43 in chips)
+nonoficial: posts small blind €0.05
+Galiler: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [2h 6h]
+Las Vegas768: raises €0.10 to €0.20
+aixosi: calls €0.20
+00789: folds
+noarones: folds
+nonoficial: folds
+Galiler: folds
+*** FLOP *** [3c 4d 7c]
+Las Vegas768: checks
+aixosi: bets €0.26
+Las Vegas768: folds
+Uncalled bet (€0.26) returned to aixosi
+aixosi collected €0.52 from pot
+aixosi: doesn't show hand
+*** SUMMARY ***
+Total pot €0.55 | Rake €0.03
+Board [3c 4d 7c]
+Seat 1: noarones (button) folded before Flop (didn't bet)
+Seat 2: nonoficial (small blind) folded before Flop
+Seat 3: Galiler (big blind) folded before Flop
+Seat 4: Las Vegas768 folded on the Flop
+Seat 5: aixosi collected (€0.52)
+Seat 6: 00789 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442376167:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:12:20 CET [2025/08/22 12:12:20 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: OG Poker7 (€13.66 in chips)
+Seat 2: 00789 (€10 in chips)
+Seat 3: ma6as (€10.15 in chips)
+Seat 4: GodZillus (€11.96 in chips)
+Seat 5: pomkuitfromhell (€10 in chips)
+Seat 6: noarones (€9.95 in chips)
+00789: posts small blind €0.05
+ma6as: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [7c 4c]
+GodZillus: raises €0.20 to €0.30
+pomkuitfromhell: folds
+noarones: folds
+OG Poker7: folds
+00789: folds
+ma6as: folds
+Uncalled bet (€0.20) returned to GodZillus
+GodZillus collected €0.25 from pot
+GodZillus: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: OG Poker7 (button) folded before Flop (didn't bet)
+Seat 2: 00789 (small blind) folded before Flop
+Seat 3: ma6as (big blind) folded before Flop
+Seat 4: GodZillus collected (€0.25)
+Seat 5: pomkuitfromhell folded before Flop (didn't bet)
+Seat 6: noarones folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442376288:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:12:20 CET [2025/08/22 12:12:20 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: toze78PT (€10 in chips)
+Seat 2: basurdia (€10 in chips)
+Seat 3: noarones (€10.10 in chips)
+Seat 4: Fredkiller800 (€10.57 in chips)
+Seat 5: TIMBRERO (€5.77 in chips)
+Seat 6: nonoficial (€10.49 in chips)
+basurdia: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [7d 7s]
+Fredkiller800: calls €0.10
+TIMBRERO: folds
+nonoficial: folds
+toze78PT: folds
+basurdia: folds
+noarones: checks
+*** FLOP *** [Qs Jd As]
+noarones: checks
+Fredkiller800: checks
+*** TURN *** [Qs Jd As] [Qh]
+noarones: checks
+Fredkiller800: checks
+*** RIVER *** [Qs Jd As Qh] [Jc]
+noarones: checks
+Fredkiller800: bets €2.20
+noarones: folds
+Uncalled bet (€2.20) returned to Fredkiller800
+Fredkiller800 collected €0.24 from pot
+Fredkiller800: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0.01
+Board [Qs Jd As Qh Jc]
+Seat 1: toze78PT (button) folded before Flop (didn't bet)
+Seat 2: basurdia (small blind) folded before Flop
+Seat 3: noarones (big blind) folded on the River
+Seat 4: Fredkiller800 collected (€0.24)
+Seat 5: TIMBRERO folded before Flop (didn't bet)
+Seat 6: nonoficial folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442377022:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:12:24 CET [2025/08/22 12:12:24 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Split2902 (€10.44 in chips)
+Seat 2: canbas0228 (€11.02 in chips)
+Seat 3: noarones (€9.95 in chips)
+Seat 4: Benjam3232 (€29.92 in chips)
+Seat 5: PUMAAA132 (€8.73 in chips)
+Seat 6: Galiler (€13.04 in chips)
+canbas0228: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [6h 8c]
+Benjam3232: folds
+PUMAAA132: folds
+Galiler: folds
+Split2902: folds
+canbas0228: raises €0.20 to €0.30
+noarones: folds
+Uncalled bet (€0.20) returned to canbas0228
+canbas0228 collected €0.20 from pot
+canbas0228: doesn't show hand
+*** SUMMARY ***
+Total pot €0.20 | Rake €0
+Seat 1: Split2902 (button) folded before Flop (didn't bet)
+Seat 2: canbas0228 (small blind) collected (€0.20)
+Seat 3: noarones (big blind) folded before Flop
+Seat 4: Benjam3232 folded before Flop (didn't bet)
+Seat 5: PUMAAA132 folded before Flop (didn't bet)
+Seat 6: Galiler folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442377262:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:12:26 CET [2025/08/22 12:12:26 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: TrasHeap (€10 in chips)
+Seat 2: noarones (€10.08 in chips)
+Seat 3: basurdia (€10.32 in chips)
+Seat 4: GodZillus (€17.49 in chips)
+Seat 5: harrychoo (€6.83 in chips)
+Seat 6: abuecam (€13.14 in chips)
+noarones: posts small blind €0.05
+basurdia: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Kh Ks]
+GodZillus: folds
+harrychoo: folds
+abuecam: folds
+TrasHeap: folds
+noarones: raises €0.20 to €0.30
+basurdia: folds
+Uncalled bet (€0.20) returned to noarones
+noarones collected €0.20 from pot
+noarones: doesn't show hand
+*** SUMMARY ***
+Total pot €0.20 | Rake €0
+Seat 1: TrasHeap (button) folded before Flop (didn't bet)
+Seat 2: noarones (small blind) collected (€0.20)
+Seat 3: basurdia (big blind) folded before Flop
+Seat 4: GodZillus folded before Flop (didn't bet)
+Seat 5: harrychoo folded before Flop (didn't bet)
+Seat 6: abuecam folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442379983:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:12:41 CET [2025/08/22 12:12:41 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: canbas0228 (€11.12 in chips)
+Seat 2: eer_miguee (€15.97 in chips)
+Seat 3: YYYAgooo (€10 in chips)
+Seat 4: OG Poker7 (€17.05 in chips)
+Seat 5: noarones (€9.85 in chips)
+Seat 6: PUMAAA132 (€8.68 in chips)
+eer_miguee: posts small blind €0.05
+YYYAgooo: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Qd Th]
+OG Poker7: folds
+noarones: folds
+PUMAAA132: raises €0.10 to €0.20
+canbas0228: calls €0.20
+eer_miguee: folds
+YYYAgooo: folds
+*** FLOP *** [6s Qc Ad]
+PUMAAA132: bets €0.26
+canbas0228: calls €0.26
+*** TURN *** [6s Qc Ad] [6c]
+PUMAAA132: bets €0.51
+canbas0228: calls €0.51
+*** RIVER *** [6s Qc Ad 6c] [Jd]
+PUMAAA132: checks
+canbas0228: checks
+*** SHOW DOWN ***
+PUMAAA132: shows [Kd 6d] (three of a kind, Sixes)
+canbas0228: mucks hand
+PUMAAA132 collected €1.99 from pot
+*** SUMMARY ***
+Total pot €2.09 | Rake €0.10
+Board [6s Qc Ad 6c Jd]
+Seat 1: canbas0228 (button) mucked [Ac 4s]
+Seat 2: eer_miguee (small blind) folded before Flop
+Seat 3: YYYAgooo (big blind) folded before Flop
+Seat 4: OG Poker7 folded before Flop (didn't bet)
+Seat 5: noarones folded before Flop (didn't bet)
+Seat 6: PUMAAA132 showed [Kd 6d] and won (€1.99) with three of a kind, Sixes
+
+
+PokerStars Zoom Hand #257442381039:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:12:47 CET [2025/08/22 12:12:47 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: ggalego (€9.19 in chips)
+Seat 2: el michi46 (€8.27 in chips)
+Seat 3: Benjam3232 (€29.92 in chips)
+Seat 4: noarones (€9.40 in chips)
+Seat 5: piethok (€8 in chips)
+Seat 6: basurdia (€10 in chips)
+el michi46: posts small blind €0.05
+Benjam3232: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [5c 6d]
+noarones: folds
+piethok: folds
+basurdia: folds
+ggalego: folds
+el michi46: folds
+Uncalled bet (€0.05) returned to Benjam3232
+Benjam3232 collected €0.10 from pot
+Benjam3232: doesn't show hand
+*** SUMMARY ***
+Total pot €0.10 | Rake €0
+Seat 1: ggalego (button) folded before Flop (didn't bet)
+Seat 2: el michi46 (small blind) folded before Flop
+Seat 3: Benjam3232 (big blind) collected (€0.10)
+Seat 4: noarones folded before Flop (didn't bet)
+Seat 5: piethok folded before Flop (didn't bet)
+Seat 6: basurdia folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442381117:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:12:47 CET [2025/08/22 12:12:47 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€10.18 in chips)
+Seat 2: edurneimpoker (€24.83 in chips)
+Seat 3: OG Poker7 (€17.05 in chips)
+Seat 4: luckyluke208 (€13.04 in chips)
+Seat 5: SlakA22 (€10.92 in chips)
+Seat 6: ggalego (€16.61 in chips)
+edurneimpoker: posts small blind €0.05
+OG Poker7: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [2s 6h]
+luckyluke208: folds
+SlakA22: raises €0.12 to €0.22
+ggalego: folds
+noarones: folds
+edurneimpoker: folds
+OG Poker7: folds
+Uncalled bet (€0.12) returned to SlakA22
+SlakA22 collected €0.25 from pot
+SlakA22: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: noarones (button) folded before Flop (didn't bet)
+Seat 2: edurneimpoker (small blind) folded before Flop
+Seat 3: OG Poker7 (big blind) folded before Flop
+Seat 4: luckyluke208 folded before Flop (didn't bet)
+Seat 5: SlakA22 collected (€0.25)
+Seat 6: ggalego folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442381245:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:12:48 CET [2025/08/22 12:12:48 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: JUSANAL (€10.66 in chips)
+Seat 2: BPinto96 (€20.30 in chips)
+Seat 3: KIKE EL DIVI (€19.59 in chips)
+Seat 4: comm1_86 (€5 in chips)
+Seat 5: eer_miguee (€15.92 in chips)
+Seat 6: noarones (€9.85 in chips)
+BPinto96: posts small blind €0.05
+KIKE EL DIVI: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [8h 7c]
+comm1_86: folds
+eer_miguee: folds
+noarones: folds
+JUSANAL: folds
+BPinto96: raises €0.22 to €0.32
+KIKE EL DIVI: calls €0.22
+*** FLOP *** [Td 5h 2h]
+BPinto96: bets €0.19
+KIKE EL DIVI: raises €0.41 to €0.60
+BPinto96: folds
+Uncalled bet (€0.41) returned to KIKE EL DIVI
+KIKE EL DIVI collected €0.97 from pot
+KIKE EL DIVI: doesn't show hand
+*** SUMMARY ***
+Total pot €1.02 | Rake €0.05
+Board [Td 5h 2h]
+Seat 1: JUSANAL (button) folded before Flop (didn't bet)
+Seat 2: BPinto96 (small blind) folded on the Flop
+Seat 3: KIKE EL DIVI (big blind) collected (€0.97)
+Seat 4: comm1_86 folded before Flop (didn't bet)
+Seat 5: eer_miguee folded before Flop (didn't bet)
+Seat 6: noarones folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442381834:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:12:51 CET [2025/08/22 12:12:51 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: cistierna (€6.10 in chips)
+Seat 2: ElPudao (€6.87 in chips)
+Seat 3: LuisCesarQB (€20.68 in chips)
+Seat 4: FLOW4422646 (€9.62 in chips)
+Seat 5: noarones (€10.18 in chips)
+Seat 6: Älejo (€13.96 in chips)
+ElPudao: posts small blind €0.05
+LuisCesarQB: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Ks 7h]
+FLOW4422646: folds
+noarones: folds
+Älejo: folds
+cistierna has timed out
+cistierna: folds
+ElPudao: raises €0.20 to €0.30
+LuisCesarQB: calls €0.20
+*** FLOP *** [Th As Ts]
+ElPudao: checks
+LuisCesarQB: checks
+*** TURN *** [Th As Ts] [3c]
+ElPudao: checks
+LuisCesarQB: bets €0.57
+ElPudao: folds
+Uncalled bet (€0.57) returned to LuisCesarQB
+LuisCesarQB collected €0.57 from pot
+LuisCesarQB: doesn't show hand
+*** SUMMARY ***
+Total pot €0.60 | Rake €0.03
+Board [Th As Ts 3c]
+Seat 1: cistierna (button) folded before Flop (didn't bet)
+Seat 2: ElPudao (small blind) folded on the Turn
+Seat 3: LuisCesarQB (big blind) collected (€0.57)
+Seat 4: FLOW4422646 folded before Flop (didn't bet)
+Seat 5: noarones folded before Flop (didn't bet)
+Seat 6: Älejo folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442382208:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:12:53 CET [2025/08/22 12:12:53 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: toze78PT (€10.05 in chips)
+Seat 2: basurdia (€10 in chips)
+Seat 3: edurneimpoker (€24.78 in chips)
+Seat 4: RasmunsenDios (€13.05 in chips)
+Seat 5: noarones (€9.85 in chips)
+Seat 6: PUMAAA132 (€12.39 in chips)
+basurdia: posts small blind €0.05
+edurneimpoker: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Ks 5d]
+RasmunsenDios: folds
+noarones: folds
+PUMAAA132: folds
+toze78PT has timed out
+toze78PT: folds
+basurdia: raises €0.40 to €0.50
+edurneimpoker: folds
+Uncalled bet (€0.40) returned to basurdia
+basurdia collected €0.20 from pot
+basurdia: doesn't show hand
+*** SUMMARY ***
+Total pot €0.20 | Rake €0
+Seat 1: toze78PT (button) folded before Flop (didn't bet)
+Seat 2: basurdia (small blind) collected (€0.20)
+Seat 3: edurneimpoker (big blind) folded before Flop
+Seat 4: RasmunsenDios folded before Flop (didn't bet)
+Seat 5: noarones folded before Flop (didn't bet)
+Seat 6: PUMAAA132 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442382072:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:12:53 CET [2025/08/22 12:12:53 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: TrasHeap (€10 in chips)
+Seat 2: moh de vegas (€5.31 in chips)
+Seat 3: LuisCesarQB (€19.28 in chips)
+Seat 4: YYYAgooo (€10 in chips)
+Seat 5: noarones (€9.40 in chips)
+Seat 6: pope's one (€13.70 in chips)
+moh de vegas: posts small blind €0.05
+LuisCesarQB: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Qs 9s]
+YYYAgooo: folds
+noarones: raises €0.15 to €0.25
+pope's one: folds
+TrasHeap: calls €0.25
+moh de vegas: raises €0.85 to €1.10
+LuisCesarQB: folds
+noarones: folds
+TrasHeap: folds
+Uncalled bet (€0.85) returned to moh de vegas
+moh de vegas collected €0.85 from pot
+moh de vegas: doesn't show hand
+*** SUMMARY ***
+Total pot €0.85 | Rake €0
+Seat 1: TrasHeap (button) folded before Flop
+Seat 2: moh de vegas (small blind) collected (€0.85)
+Seat 3: LuisCesarQB (big blind) folded before Flop
+Seat 4: YYYAgooo folded before Flop (didn't bet)
+Seat 5: noarones folded before Flop
+Seat 6: pope's one folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442383133:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:12:58 CET [2025/08/22 12:12:58 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Esquiruelo (€10.28 in chips)
+Seat 2: el cordoba6 (€23.11 in chips)
+Seat 3: noarones (€9.85 in chips)
+Seat 4: FLOW4422646 (€9.62 in chips)
+Seat 5: RasmunsenDios (€13.05 in chips)
+Seat 6: TorresSlb (€4.40 in chips)
+el cordoba6: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [3c 3s]
+FLOW4422646: calls €0.10
+RasmunsenDios: folds
+TorresSlb: folds
+Esquiruelo: folds
+el cordoba6: folds
+noarones: checks
+*** FLOP *** [Ah 5s As]
+noarones: checks
+FLOW4422646: checks
+*** TURN *** [Ah 5s As] [Th]
+noarones: checks
+FLOW4422646: checks
+*** RIVER *** [Ah 5s As Th] [2s]
+noarones: checks
+FLOW4422646: checks
+*** SHOW DOWN ***
+noarones: shows [3c 3s] (two pair, Aces and Threes)
+FLOW4422646: shows [6d Ad] (three of a kind, Aces)
+FLOW4422646 collected €0.24 from pot
+*** SUMMARY ***
+Total pot €0.25 | Rake €0.01
+Board [Ah 5s As Th 2s]
+Seat 1: Esquiruelo (button) folded before Flop (didn't bet)
+Seat 2: el cordoba6 (small blind) folded before Flop
+Seat 3: noarones (big blind) showed [3c 3s] and lost with two pair, Aces and Threes
+Seat 4: FLOW4422646 showed [6d Ad] and won (€0.24) with three of a kind, Aces
+Seat 5: RasmunsenDios folded before Flop (didn't bet)
+Seat 6: TorresSlb folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442384381:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:13:05 CET [2025/08/22 12:13:05 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: ggalego (€16.56 in chips)
+Seat 2: JUSANAL (€10.66 in chips)
+Seat 3: CrujeNueces (€5 in chips)
+Seat 4: eer_miguee (€15.82 in chips)
+Seat 5: luckyluke208 (€31.04 in chips)
+Seat 6: noarones (€10 in chips)
+JUSANAL: posts small blind €0.05
+CrujeNueces: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [7d Kd]
+eer_miguee: folds
+luckyluke208: folds
+noarones: raises €0.15 to €0.25
+ggalego: calls €0.25
+JUSANAL: folds
+CrujeNueces: folds
+*** FLOP *** [Th Ah Qs]
+noarones: checks
+ggalego: checks
+*** TURN *** [Th Ah Qs] [2d]
+noarones: bets €0.30
+ggalego: folds
+Uncalled bet (€0.30) returned to noarones
+noarones collected €0.62 from pot
+noarones: doesn't show hand
+*** SUMMARY ***
+Total pot €0.65 | Rake €0.03
+Board [Th Ah Qs 2d]
+Seat 1: ggalego (button) folded on the Turn
+Seat 2: JUSANAL (small blind) folded before Flop
+Seat 3: CrujeNueces (big blind) folded before Flop
+Seat 4: eer_miguee folded before Flop (didn't bet)
+Seat 5: luckyluke208 folded before Flop (didn't bet)
+Seat 6: noarones collected (€0.62)
+
+
+PokerStars Zoom Hand #257442384832:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:13:08 CET [2025/08/22 12:13:08 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: OG Poker7 (€13.83 in chips)
+Seat 2: eer_miguee (€15.82 in chips)
+Seat 3: NCabral_SCP (€5.49 in chips)
+Seat 4: noarones (€10.18 in chips)
+Seat 5: GodZillus (€12.11 in chips)
+Seat 6: Rafastar88 (€3.43 in chips)
+eer_miguee: posts small blind €0.05
+NCabral_SCP: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Qh Tc]
+noarones: folds
+GodZillus: folds
+Rafastar88: folds
+OG Poker7: folds
+eer_miguee: raises €0.20 to €0.30
+NCabral_SCP: folds
+Uncalled bet (€0.20) returned to eer_miguee
+eer_miguee collected €0.20 from pot
+eer_miguee: doesn't show hand
+*** SUMMARY ***
+Total pot €0.20 | Rake €0
+Seat 1: OG Poker7 (button) folded before Flop (didn't bet)
+Seat 2: eer_miguee (small blind) collected (€0.20)
+Seat 3: NCabral_SCP (big blind) folded before Flop
+Seat 4: noarones folded before Flop (didn't bet)
+Seat 5: GodZillus folded before Flop (didn't bet)
+Seat 6: Rafastar88 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442385695:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:13:13 CET [2025/08/22 12:13:13 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: YYYAgooo (€10 in chips)
+Seat 2: kayser005 (€15.76 in chips)
+Seat 3: noarones (€10.18 in chips)
+Seat 4: Rafastar88 (€3.43 in chips)
+Seat 5: Benjam3232 (€10 in chips)
+Seat 6: eer_miguee (€14.38 in chips)
+kayser005: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [3s 7h]
+Rafastar88: folds
+Benjam3232: folds
+eer_miguee: folds
+YYYAgooo: folds
+kayser005: raises €0.20 to €0.30
+noarones: folds
+Uncalled bet (€0.20) returned to kayser005
+kayser005 collected €0.20 from pot
+kayser005: doesn't show hand
+*** SUMMARY ***
+Total pot €0.20 | Rake €0
+Seat 1: YYYAgooo (button) folded before Flop (didn't bet)
+Seat 2: kayser005 (small blind) collected (€0.20)
+Seat 3: noarones (big blind) folded before Flop
+Seat 4: Rafastar88 folded before Flop (didn't bet)
+Seat 5: Benjam3232 folded before Flop (didn't bet)
+Seat 6: eer_miguee folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442387259:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:13:22 CET [2025/08/22 12:13:22 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Las Vegas768 (€13.64 in chips)
+Seat 2: toun29 (€8.51 in chips)
+Seat 3: GodZillus (€12.11 in chips)
+Seat 4: noarones (€9.15 in chips)
+Seat 5: PUMAAA132 (€9.70 in chips)
+Seat 6: toni290178 (€12.70 in chips)
+toun29: posts small blind €0.05
+GodZillus: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [7d 2s]
+noarones: folds
+PUMAAA132: folds
+toni290178: raises €0.20 to €0.30
+Las Vegas768: folds
+toun29: folds
+GodZillus: folds
+Uncalled bet (€0.20) returned to toni290178
+toni290178 collected €0.25 from pot
+toni290178: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: Las Vegas768 (button) folded before Flop (didn't bet)
+Seat 2: toun29 (small blind) folded before Flop
+Seat 3: GodZillus (big blind) folded before Flop
+Seat 4: noarones folded before Flop (didn't bet)
+Seat 5: PUMAAA132 folded before Flop (didn't bet)
+Seat 6: toni290178 collected (€0.25)
+
+
+PokerStars Zoom Hand #257442387695:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:13:24 CET [2025/08/22 12:13:24 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: TIMBRERO (€6.14 in chips)
+Seat 2: noarones (€9.75 in chips)
+Seat 3: sisi_penekes (€9.11 in chips)
+Seat 4: GodZillus (€17.49 in chips)
+Seat 5: comm1_86 (€5.15 in chips)
+Seat 6: FLOW4422646 (€9.76 in chips)
+noarones: posts small blind €0.05
+sisi_penekes: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [2s 5h]
+GodZillus: folds
+comm1_86: raises €0.20 to €0.30
+FLOW4422646: folds
+TIMBRERO: folds
+noarones: folds
+sisi_penekes: folds
+Uncalled bet (€0.20) returned to comm1_86
+comm1_86 collected €0.25 from pot
+comm1_86: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: TIMBRERO (button) folded before Flop (didn't bet)
+Seat 2: noarones (small blind) folded before Flop
+Seat 3: sisi_penekes (big blind) folded before Flop
+Seat 4: GodZillus folded before Flop (didn't bet)
+Seat 5: comm1_86 collected (€0.25)
+Seat 6: FLOW4422646 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442388110:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:13:26 CET [2025/08/22 12:13:26 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€10.08 in chips)
+Seat 2: Esquiruelo (€22.18 in chips)
+Seat 3: pomkuitfromhell (€10.10 in chips)
+Seat 4: LuisCesarQB (€19.18 in chips)
+Seat 5: GodZillus (€19.46 in chips)
+Seat 6: Galiler (€13.53 in chips)
+Esquiruelo: posts small blind €0.05
+pomkuitfromhell: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Tc 5c]
+LuisCesarQB: folds
+GodZillus: folds
+Galiler: folds
+noarones: raises €0.10 to €0.20
+Esquiruelo: raises €0.70 to €0.90
+pomkuitfromhell: folds
+noarones: folds
+Uncalled bet (€0.70) returned to Esquiruelo
+Esquiruelo collected €0.50 from pot
+Esquiruelo: doesn't show hand
+*** SUMMARY ***
+Total pot €0.50 | Rake €0
+Seat 1: noarones (button) folded before Flop
+Seat 2: Esquiruelo (small blind) collected (€0.50)
+Seat 3: pomkuitfromhell (big blind) folded before Flop
+Seat 4: LuisCesarQB folded before Flop (didn't bet)
+Seat 5: GodZillus folded before Flop (didn't bet)
+Seat 6: Galiler folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442388890:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:13:31 CET [2025/08/22 12:13:31 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€9.70 in chips)
+Seat 2: BPinto96 (€10.08 in chips)
+Seat 3: eer_miguee (€15.92 in chips)
+Seat 4: OG Poker7 (€16.90 in chips)
+Seat 5: nonoficial (€10.19 in chips)
+Seat 6: FLOW4422646 (€9.76 in chips)
+BPinto96: posts small blind €0.05
+eer_miguee: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [6c 7c]
+OG Poker7: folds
+nonoficial: folds
+FLOW4422646: folds
+noarones: raises €0.15 to €0.25
+BPinto96: raises €0.80 to €1.05
+eer_miguee: folds
+noarones: calls €0.80
+*** FLOP *** [Jc Kc 3c]
+BPinto96: bets €0.65
+noarones: calls €0.65
+*** TURN *** [Jc Kc 3c] [Qh]
+BPinto96: checks
+noarones: bets €2.05
+BPinto96: folds
+Uncalled bet (€2.05) returned to noarones
+noarones collected €3.32 from pot
+noarones: doesn't show hand
+*** SUMMARY ***
+Total pot €3.50 | Rake €0.18
+Board [Jc Kc 3c Qh]
+Seat 1: noarones (button) collected (€3.32)
+Seat 2: BPinto96 (small blind) folded on the Turn
+Seat 3: eer_miguee (big blind) folded before Flop
+Seat 4: OG Poker7 folded before Flop (didn't bet)
+Seat 5: nonoficial folded before Flop (didn't bet)
+Seat 6: FLOW4422646 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442389131:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:13:32 CET [2025/08/22 12:13:32 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: canbas0228 (€10.15 in chips)
+Seat 2: HURACATTACK (€11.29 in chips)
+Seat 3: noarones (€9.15 in chips)
+Seat 4: RasmunsenDios (€12.80 in chips)
+Seat 5: TIMBRERO (€6.14 in chips)
+Seat 6: eer_miguee (€14.28 in chips)
+HURACATTACK: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [3c 3h]
+RasmunsenDios: folds
+TIMBRERO: folds
+eer_miguee: raises €0.20 to €0.30
+canbas0228: raises €0.75 to €1.05
+HURACATTACK: folds
+noarones has timed out
+noarones: folds
+eer_miguee: folds
+Uncalled bet (€0.75) returned to canbas0228
+canbas0228 collected €0.75 from pot
+canbas0228: doesn't show hand
+*** SUMMARY ***
+Total pot €0.75 | Rake €0
+Seat 1: canbas0228 (button) collected (€0.75)
+Seat 2: HURACATTACK (small blind) folded before Flop
+Seat 3: noarones (big blind) folded before Flop
+Seat 4: RasmunsenDios folded before Flop (didn't bet)
+Seat 5: TIMBRERO folded before Flop (didn't bet)
+Seat 6: eer_miguee folded before Flop
+
+
+PokerStars Zoom Hand #257442390988:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:13:43 CET [2025/08/22 12:13:43 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: CrujeNueces (€5.10 in chips)
+Seat 2: noarones (€9.88 in chips)
+Seat 3: Las Vegas768 (€9.47 in chips)
+Seat 4: LuisCesarQB (€34.41 in chips)
+Seat 5: OG Poker7 (€16.90 in chips)
+Seat 6: 00789 (€10.86 in chips)
+noarones: posts small blind €0.05
+Las Vegas768: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [5c 6h]
+LuisCesarQB: folds
+OG Poker7: raises €0.15 to €0.25
+00789: folds
+CrujeNueces: folds
+noarones: folds
+Las Vegas768: folds
+Uncalled bet (€0.15) returned to OG Poker7
+OG Poker7 collected €0.25 from pot
+OG Poker7: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: CrujeNueces (button) folded before Flop (didn't bet)
+Seat 2: noarones (small blind) folded before Flop
+Seat 3: Las Vegas768 (big blind) folded before Flop
+Seat 4: LuisCesarQB folded before Flop (didn't bet)
+Seat 5: OG Poker7 collected (€0.25)
+Seat 6: 00789 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442392448:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:13:51 CET [2025/08/22 12:13:51 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: eer_miguee (€15.77 in chips)
+Seat 2: abuecam (€12.74 in chips)
+Seat 3: ggalego (€9.19 in chips)
+Seat 4: GodZillus (€12.01 in chips)
+Seat 5: Benjam3232 (€30.28 in chips)
+Seat 6: noarones (€9.83 in chips)
+abuecam: posts small blind €0.05
+ggalego: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [7h Ah]
+GodZillus: folds
+Benjam3232: raises €0.20 to €0.30
+noarones: calls €0.30
+eer_miguee: folds
+abuecam: folds
+ggalego: folds
+*** FLOP *** [Ac 6h 4d]
+Benjam3232: bets €0.21
+noarones: raises €0.34 to €0.55
+Benjam3232: calls €0.34
+*** TURN *** [Ac 6h 4d] [Tc]
+Benjam3232: checks
+noarones: checks
+*** RIVER *** [Ac 6h 4d Tc] [As]
+Benjam3232: bets €2.60
+noarones: calls €2.60
+*** SHOW DOWN ***
+Benjam3232: shows [Kc Js] (a pair of Aces)
+noarones: shows [7h Ah] (three of a kind, Aces)
+noarones collected €6.70 from pot
+*** SUMMARY ***
+Total pot €7.05 | Rake €0.35
+Board [Ac 6h 4d Tc As]
+Seat 1: eer_miguee (button) folded before Flop (didn't bet)
+Seat 2: abuecam (small blind) folded before Flop
+Seat 3: ggalego (big blind) folded before Flop
+Seat 4: GodZillus folded before Flop (didn't bet)
+Seat 5: Benjam3232 showed [Kc Js] and lost with a pair of Aces
+Seat 6: noarones showed [7h Ah] and won (€6.70) with three of a kind, Aces
+
+
+PokerStars Zoom Hand #257442392713:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:13:52 CET [2025/08/22 12:13:52 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: luckyluke208 (€30.89 in chips)
+Seat 2: noarones (€10.37 in chips)
+Seat 3: PUMAAA132 (€12.66 in chips)
+Seat 4: Rafastar88 (€3.13 in chips)
+Seat 5: el michi46 (€7.92 in chips)
+Seat 6: TrasHeap (€10 in chips)
+noarones: posts small blind €0.05
+PUMAAA132: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Kh 6d]
+Rafastar88: folds
+el michi46: raises €0.10 to €0.20
+TrasHeap: folds
+luckyluke208: folds
+noarones: folds
+PUMAAA132: folds
+Uncalled bet (€0.10) returned to el michi46
+el michi46 collected €0.25 from pot
+el michi46: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: luckyluke208 (button) folded before Flop (didn't bet)
+Seat 2: noarones (small blind) folded before Flop
+Seat 3: PUMAAA132 (big blind) folded before Flop
+Seat 4: Rafastar88 folded before Flop (didn't bet)
+Seat 5: el michi46 collected (€0.25)
+Seat 6: TrasHeap folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442393573:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:13:58 CET [2025/08/22 12:13:58 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€10.32 in chips)
+Seat 2: LuisCesarQB (€34.41 in chips)
+Seat 3: aprendiz1976 (€10 in chips)
+Seat 4: GodZillus (€19.41 in chips)
+Seat 5: 00789 (€10.76 in chips)
+Seat 6: el cordoba6 (€36.25 in chips)
+LuisCesarQB: posts small blind €0.05
+aprendiz1976: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [4c 7c]
+GodZillus: folds
+00789: folds
+el cordoba6: folds
+noarones: raises €0.10 to €0.20
+LuisCesarQB: folds
+aprendiz1976: calls €0.10
+*** FLOP *** [Ah Jh Qs]
+aprendiz1976: bets €0.20
+noarones: folds
+Uncalled bet (€0.20) returned to aprendiz1976
+aprendiz1976 collected €0.43 from pot
+aprendiz1976: doesn't show hand
+*** SUMMARY ***
+Total pot €0.45 | Rake €0.02
+Board [Ah Jh Qs]
+Seat 1: noarones (button) folded on the Flop
+Seat 2: LuisCesarQB (small blind) folded before Flop
+Seat 3: aprendiz1976 (big blind) collected (€0.43)
+Seat 4: GodZillus folded before Flop (didn't bet)
+Seat 5: 00789 folded before Flop (didn't bet)
+Seat 6: el cordoba6 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442398996:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:14:28 CET [2025/08/22 12:14:28 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Las Vegas768 (€14.10 in chips)
+Seat 2: pomkuitfromhell (€10 in chips)
+Seat 3: FLOW4422646 (€9.90 in chips)
+Seat 4: eer_miguee (€15.67 in chips)
+Seat 5: noarones (€10.12 in chips)
+Seat 6: Benjam3232 (€10 in chips)
+pomkuitfromhell: posts small blind €0.05
+FLOW4422646: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [7s 8s]
+eer_miguee: folds
+noarones: raises €0.15 to €0.25
+Benjam3232: folds
+Las Vegas768: folds
+pomkuitfromhell: folds
+FLOW4422646: calls €0.15
+*** FLOP *** [Jh 9h 5d]
+FLOW4422646: checks
+noarones: bets €0.20
+FLOW4422646: calls €0.20
+*** TURN *** [Jh 9h 5d] [5h]
+FLOW4422646: checks
+noarones: checks
+*** RIVER *** [Jh 9h 5d 5h] [2c]
+FLOW4422646: checks
+noarones: checks
+*** SHOW DOWN ***
+FLOW4422646: shows [As 9c] (two pair, Nines and Fives)
+noarones: mucks hand
+FLOW4422646 collected €0.90 from pot
+*** SUMMARY ***
+Total pot €0.95 | Rake €0.05
+Board [Jh 9h 5d 5h 2c]
+Seat 1: Las Vegas768 (button) folded before Flop (didn't bet)
+Seat 2: pomkuitfromhell (small blind) folded before Flop
+Seat 3: FLOW4422646 (big blind) showed [As 9c] and won (€0.90) with two pair, Nines and Fives
+Seat 4: eer_miguee folded before Flop (didn't bet)
+Seat 5: noarones mucked [7s 8s]
+Seat 6: Benjam3232 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442399967:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:14:33 CET [2025/08/22 12:14:33 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: 00789 (€11.74 in chips)
+Seat 2: noarones (€9.05 in chips)
+Seat 3: GodZillus (€17.49 in chips)
+Seat 4: OG Poker7 (€13.83 in chips)
+Seat 5: eer_miguee (€13.08 in chips)
+Seat 6: LuisCesarQB (€20.40 in chips)
+noarones: posts small blind €0.05
+GodZillus: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [9s 2c]
+OG Poker7: folds
+eer_miguee: folds
+LuisCesarQB: folds
+00789: raises €0.15 to €0.25
+noarones: folds
+GodZillus: calls €0.15
+*** FLOP *** [Jd 4h As]
+GodZillus: checks
+00789: checks
+*** TURN *** [Jd 4h As] [Qh]
+GodZillus: checks
+00789: checks
+*** RIVER *** [Jd 4h As Qh] [2d]
+GodZillus: checks
+00789: bets €0.34
+GodZillus: calls €0.34
+*** SHOW DOWN ***
+00789: shows [Ac 9c] (a pair of Aces)
+GodZillus: mucks hand
+00789 collected €1.17 from pot
+*** SUMMARY ***
+Total pot €1.23 | Rake €0.06
+Board [Jd 4h As Qh 2d]
+Seat 1: 00789 (button) showed [Ac 9c] and won (€1.17) with a pair of Aces
+Seat 2: noarones (small blind) folded before Flop
+Seat 3: GodZillus (big blind) mucked [Jc 8c]
+Seat 4: OG Poker7 folded before Flop (didn't bet)
+Seat 5: eer_miguee folded before Flop (didn't bet)
+Seat 6: LuisCesarQB folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442402489:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:14:47 CET [2025/08/22 12:14:47 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€9 in chips)
+Seat 2: Split2902 (€13.75 in chips)
+Seat 3: grenha1972 (€11.84 in chips)
+Seat 4: basurdia (€10.45 in chips)
+Seat 5: ma6as (€10 in chips)
+Seat 6: Benjam3232 (€10 in chips)
+Split2902: posts small blind €0.05
+grenha1972: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [5s 9h]
+basurdia: raises €0.30 to €0.40
+ma6as: folds
+Benjam3232: calls €0.40
+noarones: folds
+Split2902: folds
+grenha1972: folds
+*** FLOP *** [3s Tc 8s]
+basurdia: checks
+Benjam3232: checks
+*** TURN *** [3s Tc 8s] [6d]
+basurdia: checks
+Benjam3232: bets €0.45
+basurdia: folds
+Uncalled bet (€0.45) returned to Benjam3232
+Benjam3232 collected €0.90 from pot
+Benjam3232: doesn't show hand
+*** SUMMARY ***
+Total pot €0.95 | Rake €0.05
+Board [3s Tc 8s 6d]
+Seat 1: noarones (button) folded before Flop (didn't bet)
+Seat 2: Split2902 (small blind) folded before Flop
+Seat 3: grenha1972 (big blind) folded before Flop
+Seat 4: basurdia folded on the Turn
+Seat 5: ma6as folded before Flop (didn't bet)
+Seat 6: Benjam3232 collected (€0.90)
+
+
+PokerStars Zoom Hand #257442404645:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:14:59 CET [2025/08/22 12:14:59 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: TIMBRERO (€6.98 in chips)
+Seat 2: grenha1972 (€5.83 in chips)
+Seat 3: edurneimpoker (€25.26 in chips)
+Seat 4: LuisCesarQB (€34.87 in chips)
+Seat 5: aixosi (€27.75 in chips)
+Seat 6: noarones (€9 in chips)
+grenha1972: posts small blind €0.05
+edurneimpoker: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [9c 5s]
+LuisCesarQB: folds
+aixosi: folds
+noarones: folds
+TIMBRERO: raises €0.20 to €0.30
+grenha1972: calls €0.25
+edurneimpoker: raises €0.90 to €1.20
+TIMBRERO: calls €0.90
+grenha1972: folds
+*** FLOP *** [Tc 5h 2c]
+edurneimpoker: bets €1.28
+TIMBRERO: calls €1.28
+*** TURN *** [Tc 5h 2c] [Ah]
+edurneimpoker: bets €2.50
+TIMBRERO: folds
+Uncalled bet (€2.50) returned to edurneimpoker
+edurneimpoker collected €5 from pot
+edurneimpoker: doesn't show hand
+*** SUMMARY ***
+Total pot €5.26 | Rake €0.26
+Board [Tc 5h 2c Ah]
+Seat 1: TIMBRERO (button) folded on the Turn
+Seat 2: grenha1972 (small blind) folded before Flop
+Seat 3: edurneimpoker (big blind) collected (€5)
+Seat 4: LuisCesarQB folded before Flop (didn't bet)
+Seat 5: aixosi folded before Flop (didn't bet)
+Seat 6: noarones folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442405055:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:15:01 CET [2025/08/22 12:15:01 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: BPinto96 (€10 in chips)
+Seat 2: GodZillus (€13.54 in chips)
+Seat 3: PUMAAA132 (€9.55 in chips)
+Seat 4: LuisCesarQB (€39.91 in chips)
+Seat 5: noarones (€11.32 in chips)
+Seat 6: basurdia (€13.45 in chips)
+GodZillus: posts small blind €0.05
+PUMAAA132: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Kc Qc]
+LuisCesarQB: folds
+noarones: raises €0.15 to €0.25
+basurdia: folds
+BPinto96: folds
+GodZillus: folds
+PUMAAA132: folds
+Uncalled bet (€0.15) returned to noarones
+noarones collected €0.25 from pot
+noarones: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: BPinto96 (button) folded before Flop (didn't bet)
+Seat 2: GodZillus (small blind) folded before Flop
+Seat 3: PUMAAA132 (big blind) folded before Flop
+Seat 4: LuisCesarQB folded before Flop (didn't bet)
+Seat 5: noarones collected (€0.25)
+Seat 6: basurdia folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442405517:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:15:04 CET [2025/08/22 12:15:04 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: 00789 (€11.09 in chips)
+Seat 2: KIKE EL DIVI (€20.28 in chips)
+Seat 3: Split2902 (€13.70 in chips)
+Seat 4: RJSilva30 (€5.85 in chips)
+Seat 5: noarones (€9 in chips)
+Seat 6: LuisCesarQB (€34.87 in chips)
+KIKE EL DIVI: posts small blind €0.05
+Split2902: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [4s 6h]
+RJSilva30: raises €0.25 to €0.35
+noarones: folds
+LuisCesarQB: folds
+00789: folds
+KIKE EL DIVI: calls €0.30
+Split2902: folds
+*** FLOP *** [7s 3d 5d]
+KIKE EL DIVI: checks
+RJSilva30: bets €0.76
+KIKE EL DIVI: calls €0.76
+*** TURN *** [7s 3d 5d] [4d]
+KIKE EL DIVI: checks
+RJSilva30: checks
+*** RIVER *** [7s 3d 5d 4d] [Qd]
+KIKE EL DIVI: bets €0.90
+RJSilva30: folds
+Uncalled bet (€0.90) returned to KIKE EL DIVI
+KIKE EL DIVI collected €2.20 from pot
+KIKE EL DIVI: doesn't show hand
+*** SUMMARY ***
+Total pot €2.32 | Rake €0.12
+Board [7s 3d 5d 4d Qd]
+Seat 1: 00789 (button) folded before Flop (didn't bet)
+Seat 2: KIKE EL DIVI (small blind) collected (€2.20)
+Seat 3: Split2902 (big blind) folded before Flop
+Seat 4: RJSilva30 folded on the River
+Seat 5: noarones folded before Flop (didn't bet)
+Seat 6: LuisCesarQB folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442406168:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:15:07 CET [2025/08/22 12:15:07 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€9 in chips)
+Seat 2: OG Poker7 (€10.55 in chips)
+Seat 3: 00789 (€11.09 in chips)
+Seat 4: LuisCesarQB (€34.87 in chips)
+Seat 5: Las Vegas768 (€14 in chips)
+Seat 6: RasmunsenDios (€11.86 in chips)
+OG Poker7: posts small blind €0.05
+00789: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [8h 5d]
+LuisCesarQB: folds
+Las Vegas768: folds
+RasmunsenDios: folds
+noarones: folds
+OG Poker7: folds
+Uncalled bet (€0.05) returned to 00789
+00789 collected €0.10 from pot
+00789: doesn't show hand
+*** SUMMARY ***
+Total pot €0.10 | Rake €0
+Seat 1: noarones (button) folded before Flop (didn't bet)
+Seat 2: OG Poker7 (small blind) folded before Flop
+Seat 3: 00789 (big blind) collected (€0.10)
+Seat 4: LuisCesarQB folded before Flop (didn't bet)
+Seat 5: Las Vegas768 folded before Flop (didn't bet)
+Seat 6: RasmunsenDios folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442407309:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:15:14 CET [2025/08/22 12:15:14 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: kayser005 (€15.56 in chips)
+Seat 2: noarones (€11.47 in chips)
+Seat 3: LuisCesarQB (€34.87 in chips)
+Seat 4: aprendiz1976 (€10 in chips)
+Seat 5: ggalego (€9.04 in chips)
+Seat 6: Split2902 (€13.60 in chips)
+noarones: posts small blind €0.05
+LuisCesarQB: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Kc Ks]
+aprendiz1976: folds
+ggalego: folds
+Split2902: raises €0.15 to €0.25
+kayser005: folds
+noarones: raises €0.65 to €0.90
+LuisCesarQB: folds
+Split2902: folds
+Uncalled bet (€0.65) returned to noarones
+noarones collected €0.60 from pot
+noarones: doesn't show hand
+*** SUMMARY ***
+Total pot €0.60 | Rake €0
+Seat 1: kayser005 (button) folded before Flop (didn't bet)
+Seat 2: noarones (small blind) collected (€0.60)
+Seat 3: LuisCesarQB (big blind) folded before Flop
+Seat 4: aprendiz1976 folded before Flop (didn't bet)
+Seat 5: ggalego folded before Flop (didn't bet)
+Seat 6: Split2902 folded before Flop
+
+
+PokerStars Zoom Hand #257442407459:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:15:15 CET [2025/08/22 12:15:15 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: el cordoba6 (€22.56 in chips)
+Seat 2: luckyluke208 (€12.77 in chips)
+Seat 3: 00789 (€14.80 in chips)
+Seat 4: grenha1972 (€5.53 in chips)
+Seat 5: noarones (€13.08 in chips)
+Seat 6: Benjam3232 (€26.83 in chips)
+luckyluke208: posts small blind €0.05
+00789: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [3s Kc]
+grenha1972: folds
+noarones: folds
+Benjam3232: folds
+el cordoba6: folds
+luckyluke208: folds
+Uncalled bet (€0.05) returned to 00789
+00789 collected €0.10 from pot
+00789: doesn't show hand
+*** SUMMARY ***
+Total pot €0.10 | Rake €0
+Seat 1: el cordoba6 (button) folded before Flop (didn't bet)
+Seat 2: luckyluke208 (small blind) folded before Flop
+Seat 3: 00789 (big blind) collected (€0.10)
+Seat 4: grenha1972 folded before Flop (didn't bet)
+Seat 5: noarones folded before Flop (didn't bet)
+Seat 6: Benjam3232 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442407828:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:15:17 CET [2025/08/22 12:15:17 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: stif3872 (€16.15 in chips)
+Seat 2: noarones (€9 in chips)
+Seat 3: kastor59 (€8.87 in chips)
+Seat 4: Galiler (€13.02 in chips)
+Seat 5: comm1_86 (€4.92 in chips)
+Seat 6: GodZillus (€19.46 in chips)
+noarones: posts small blind €0.05
+kastor59: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Qh Kd]
+Galiler: raises €0.17 to €0.27
+comm1_86: calls €0.27
+GodZillus: folds
+stif3872: folds
+noarones: folds
+kastor59: folds
+*** FLOP *** [Jd 9d Ad]
+Galiler: checks
+comm1_86: bets €0.33
+Galiler: folds
+Uncalled bet (€0.33) returned to comm1_86
+comm1_86 collected €0.66 from pot
+comm1_86: doesn't show hand
+*** SUMMARY ***
+Total pot €0.69 | Rake €0.03
+Board [Jd 9d Ad]
+Seat 1: stif3872 (button) folded before Flop (didn't bet)
+Seat 2: noarones (small blind) folded before Flop
+Seat 3: kastor59 (big blind) folded before Flop
+Seat 4: Galiler folded on the Flop
+Seat 5: comm1_86 collected (€0.66)
+Seat 6: GodZillus folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442408303:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:15:19 CET [2025/08/22 12:15:19 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€13.08 in chips)
+Seat 2: LuisCesarQB (€20.40 in chips)
+Seat 3: aprendiz1976 (€10 in chips)
+Seat 4: ggalego (€15.86 in chips)
+Seat 5: ElPudao (€7.17 in chips)
+Seat 6: el cordoba6 (€22.56 in chips)
+LuisCesarQB: posts small blind €0.05
+aprendiz1976: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [4d Tc]
+ggalego: folds
+ElPudao: folds
+el cordoba6: raises €0.20 to €0.30
+noarones: folds
+LuisCesarQB: folds
+aprendiz1976: folds
+Uncalled bet (€0.20) returned to el cordoba6
+el cordoba6 collected €0.25 from pot
+el cordoba6: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: noarones (button) folded before Flop (didn't bet)
+Seat 2: LuisCesarQB (small blind) folded before Flop
+Seat 3: aprendiz1976 (big blind) folded before Flop
+Seat 4: ggalego folded before Flop (didn't bet)
+Seat 5: ElPudao folded before Flop (didn't bet)
+Seat 6: el cordoba6 collected (€0.25)
+
+
+PokerStars Zoom Hand #257442408723:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:15:22 CET [2025/08/22 12:15:22 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: OG Poker7 (€10.10 in chips)
+Seat 2: FLOW4422646 (€10.35 in chips)
+Seat 3: BPinto96 (€14.55 in chips)
+Seat 4: Esquiruelo (€22.85 in chips)
+Seat 5: RasmunsenDios (€11.86 in chips)
+Seat 6: noarones (€9.67 in chips)
+FLOW4422646: posts small blind €0.05
+BPinto96: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [4h As]
+Esquiruelo: folds
+RasmunsenDios: folds
+noarones: folds
+OG Poker7: raises €0.20 to €0.30
+FLOW4422646: folds
+BPinto96: calls €0.20
+*** FLOP *** [Kh 6h Ks]
+BPinto96: checks
+OG Poker7: bets €0.20
+BPinto96: calls €0.20
+*** TURN *** [Kh 6h Ks] [3c]
+BPinto96: checks
+OG Poker7: bets €0.80
+BPinto96: raises €1.70 to €2.50
+OG Poker7: folds
+Uncalled bet (€1.70) returned to BPinto96
+BPinto96 collected €2.52 from pot
+BPinto96: doesn't show hand
+*** SUMMARY ***
+Total pot €2.65 | Rake €0.13
+Board [Kh 6h Ks 3c]
+Seat 1: OG Poker7 (button) folded on the Turn
+Seat 2: FLOW4422646 (small blind) folded before Flop
+Seat 3: BPinto96 (big blind) collected (€2.52)
+Seat 4: Esquiruelo folded before Flop (didn't bet)
+Seat 5: RasmunsenDios folded before Flop (didn't bet)
+Seat 6: noarones folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442411029:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:15:34 CET [2025/08/22 12:15:34 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: BPinto96 (€19.29 in chips)
+Seat 2: aprendiz1976 (€10 in chips)
+Seat 3: toze78PT (€16.76 in chips)
+Seat 4: eer_miguee (€13.08 in chips)
+Seat 5: LuisCesarQB (€40.13 in chips)
+Seat 6: noarones (€13.08 in chips)
+aprendiz1976: posts small blind €0.05
+toze78PT: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [9h Tc]
+eer_miguee: folds
+LuisCesarQB: folds
+noarones: folds
+BPinto96: raises €0.12 to €0.22
+aprendiz1976: calls €0.17
+toze78PT: folds
+*** FLOP *** [Ac 9c Kd]
+aprendiz1976: bets €0.20
+BPinto96: raises €0.40 to €0.60
+aprendiz1976: calls €0.40
+*** TURN *** [Ac 9c Kd] [3s]
+aprendiz1976: checks
+BPinto96: bets €1.35
+aprendiz1976: calls €1.35
+*** RIVER *** [Ac 9c Kd 3s] [8d]
+aprendiz1976: checks
+BPinto96: checks
+*** SHOW DOWN ***
+aprendiz1976: shows [8c 7c] (a pair of Eights)
+BPinto96: shows [As Jh] (a pair of Aces)
+BPinto96 collected €4.22 from pot
+*** SUMMARY ***
+Total pot €4.44 | Rake €0.22
+Board [Ac 9c Kd 3s 8d]
+Seat 1: BPinto96 (button) showed [As Jh] and won (€4.22) with a pair of Aces
+Seat 2: aprendiz1976 (small blind) showed [8c 7c] and lost with a pair of Eights
+Seat 3: toze78PT (big blind) folded before Flop
+Seat 4: eer_miguee folded before Flop (didn't bet)
+Seat 5: LuisCesarQB folded before Flop (didn't bet)
+Seat 6: noarones folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442411280:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:15:36 CET [2025/08/22 12:15:36 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: sisi_penekes (€7.95 in chips)
+Seat 2: ggalego (€15.86 in chips)
+Seat 3: OG Poker7 (€10.50 in chips)
+Seat 4: noarones (€9.67 in chips)
+Seat 5: abuecam (€10 in chips)
+Seat 6: Las Vegas768 (€13.95 in chips)
+ggalego: posts small blind €0.05
+OG Poker7: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [3c Jc]
+noarones: folds
+abuecam: folds
+Las Vegas768: folds
+sisi_penekes has timed out
+sisi_penekes: folds
+ggalego: folds
+Uncalled bet (€0.05) returned to OG Poker7
+sisi_penekes is disconnected
+OG Poker7 collected €0.10 from pot
+OG Poker7: doesn't show hand
+*** SUMMARY ***
+Total pot €0.10 | Rake €0
+Seat 1: sisi_penekes (button) folded before Flop (didn't bet)
+Seat 2: ggalego (small blind) folded before Flop
+Seat 3: OG Poker7 (big blind) collected (€0.10)
+Seat 4: noarones folded before Flop (didn't bet)
+Seat 5: abuecam folded before Flop (didn't bet)
+Seat 6: Las Vegas768 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442411595:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:15:37 CET [2025/08/22 12:15:37 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Las Vegas768 (€9.13 in chips)
+Seat 2: RasmunsenDios (€14.85 in chips)
+Seat 3: eer_miguee (€13.08 in chips)
+Seat 4: aixosi (€26.02 in chips)
+Seat 5: Split2902 (€13.35 in chips)
+Seat 6: noarones (€11.82 in chips)
+RasmunsenDios: posts small blind €0.05
+eer_miguee: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Jc 5s]
+aixosi: folds
+Split2902: folds
+noarones: folds
+Las Vegas768: raises €0.10 to €0.20
+RasmunsenDios: folds
+eer_miguee: folds
+Uncalled bet (€0.10) returned to Las Vegas768
+Las Vegas768 collected €0.25 from pot
+Las Vegas768: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: Las Vegas768 (button) collected (€0.25)
+Seat 2: RasmunsenDios (small blind) folded before Flop
+Seat 3: eer_miguee (big blind) folded before Flop
+Seat 4: aixosi folded before Flop (didn't bet)
+Seat 5: Split2902 folded before Flop (didn't bet)
+Seat 6: noarones folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442411784:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:15:38 CET [2025/08/22 12:15:38 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: luckyluke208 (€29.74 in chips)
+Seat 2: ElPudao (€7.07 in chips)
+Seat 3: noarones (€13.08 in chips)
+Seat 4: eer_miguee (€16.05 in chips)
+Seat 5: GodZillus (€16.85 in chips)
+Seat 6: basurdia (€10.05 in chips)
+ElPudao: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Qh 9d]
+eer_miguee: raises €0.20 to €0.30
+GodZillus: folds
+basurdia: folds
+luckyluke208: folds
+ElPudao: folds
+noarones: folds
+Uncalled bet (€0.20) returned to eer_miguee
+eer_miguee collected €0.25 from pot
+eer_miguee: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: luckyluke208 (button) folded before Flop (didn't bet)
+Seat 2: ElPudao (small blind) folded before Flop
+Seat 3: noarones (big blind) folded before Flop
+Seat 4: eer_miguee collected (€0.25)
+Seat 5: GodZillus folded before Flop (didn't bet)
+Seat 6: basurdia folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442412105:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:15:40 CET [2025/08/22 12:15:40 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: aixosi (€26.02 in chips)
+Seat 2: Benjam3232 (€26.88 in chips)
+Seat 3: noarones (€8.95 in chips)
+Seat 4: basurdia (€13.18 in chips)
+Seat 5: toun29 (€8.36 in chips)
+Seat 6: ggalego (€15.81 in chips)
+Benjam3232: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [5h 5s]
+basurdia: folds
+toun29: folds
+ggalego: folds
+aixosi: folds
+Benjam3232: folds
+Uncalled bet (€0.05) returned to noarones
+noarones collected €0.10 from pot
+noarones: doesn't show hand
+*** SUMMARY ***
+Total pot €0.10 | Rake €0
+Seat 1: aixosi (button) folded before Flop (didn't bet)
+Seat 2: Benjam3232 (small blind) folded before Flop
+Seat 3: noarones (big blind) collected (€0.10)
+Seat 4: basurdia folded before Flop (didn't bet)
+Seat 5: toun29 folded before Flop (didn't bet)
+Seat 6: ggalego folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442412124:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:15:40 CET [2025/08/22 12:15:40 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: kastor59 (€10 in chips)
+Seat 2: 00789 (€14.85 in chips)
+Seat 3: LuisCesarQB (€19.11 in chips)
+Seat 4: Split2902 (€13.35 in chips)
+Seat 5: noarones (€9.67 in chips)
+Seat 6: toze78PT (€10 in chips)
+00789: posts small blind €0.05
+LuisCesarQB: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [As Qh]
+Split2902: folds
+noarones: raises €0.15 to €0.25
+toze78PT: folds
+kastor59: folds
+00789: folds
+LuisCesarQB: folds
+Uncalled bet (€0.15) returned to noarones
+noarones collected €0.25 from pot
+noarones: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: kastor59 (button) folded before Flop (didn't bet)
+Seat 2: 00789 (small blind) folded before Flop
+Seat 3: LuisCesarQB (big blind) folded before Flop
+Seat 4: Split2902 folded before Flop (didn't bet)
+Seat 5: noarones collected (€0.25)
+Seat 6: toze78PT folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442412460:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:15:42 CET [2025/08/22 12:15:42 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€11.82 in chips)
+Seat 2: LuisCesarQB (€34.72 in chips)
+Seat 3: OG Poker7 (€16.42 in chips)
+Seat 4: edurneimpoker (€27.78 in chips)
+Seat 5: el cordoba6 (€22.71 in chips)
+Seat 6: SlakA22 (€10.22 in chips)
+LuisCesarQB: posts small blind €0.05
+OG Poker7: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [8c 2d]
+edurneimpoker: folds
+el cordoba6: folds
+SlakA22: folds
+noarones: folds
+LuisCesarQB: folds
+Uncalled bet (€0.05) returned to OG Poker7
+OG Poker7 collected €0.10 from pot
+OG Poker7: doesn't show hand
+*** SUMMARY ***
+Total pot €0.10 | Rake €0
+Seat 1: noarones (button) folded before Flop (didn't bet)
+Seat 2: LuisCesarQB (small blind) folded before Flop
+Seat 3: OG Poker7 (big blind) collected (€0.10)
+Seat 4: edurneimpoker folded before Flop (didn't bet)
+Seat 5: el cordoba6 folded before Flop (didn't bet)
+Seat 6: SlakA22 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442413014:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:15:45 CET [2025/08/22 12:15:45 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: kastor59 (€10 in chips)
+Seat 2: Split2902 (€13.35 in chips)
+Seat 3: harrychoo (€3.14 in chips)
+Seat 4: noarones (€12.98 in chips)
+Seat 5: Las Vegas768 (€13.95 in chips)
+Seat 6: 00789 (€12.17 in chips)
+Split2902: posts small blind €0.05
+harrychoo: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [6c Th]
+noarones: folds
+Las Vegas768: raises €0.10 to €0.20
+00789: folds
+kastor59: calls €0.20
+Split2902: folds
+harrychoo: calls €0.10
+*** FLOP *** [6d Ac 9s]
+harrychoo: checks
+Las Vegas768: checks
+kastor59: checks
+*** TURN *** [6d Ac 9s] [5h]
+harrychoo: bets €0.31
+Las Vegas768: raises €0.62 to €0.93
+kastor59: folds
+harrychoo: calls €0.62
+*** RIVER *** [6d Ac 9s 5h] [Js]
+harrychoo: bets €1.19
+Las Vegas768: calls €1.19
+*** SHOW DOWN ***
+harrychoo: shows [Ah Jh] (two pair, Aces and Jacks)
+Las Vegas768: mucks hand
+harrychoo collected €4.65 from pot
+*** SUMMARY ***
+Total pot €4.89 | Rake €0.24
+Board [6d Ac 9s 5h Js]
+Seat 1: kastor59 (button) folded on the Turn
+Seat 2: Split2902 (small blind) folded before Flop
+Seat 3: harrychoo (big blind) showed [Ah Jh] and won (€4.65) with two pair, Aces and Jacks
+Seat 4: noarones folded before Flop (didn't bet)
+Seat 5: Las Vegas768 mucked [Ad 8d]
+Seat 6: 00789 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442413769:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:15:49 CET [2025/08/22 12:15:49 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: RasmunsenDios (€14.80 in chips)
+Seat 2: stif3872 (€16.20 in chips)
+Seat 3: ggalego (€15.81 in chips)
+Seat 4: Split2902 (€13.89 in chips)
+Seat 5: noarones (€10 in chips)
+Seat 6: basurdia (€10.20 in chips)
+stif3872: posts small blind €0.05
+ggalego: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [3s Kh]
+Split2902: folds
+noarones: folds
+basurdia: folds
+RasmunsenDios: raises €0.10 to €0.20
+stif3872: calls €0.15
+ggalego: folds
+*** FLOP *** [Qh 9d Kc]
+stif3872: checks
+RasmunsenDios: checks
+*** TURN *** [Qh 9d Kc] [2h]
+stif3872: bets €0.24
+RasmunsenDios: folds
+Uncalled bet (€0.24) returned to stif3872
+stif3872 collected €0.48 from pot
+stif3872: doesn't show hand
+*** SUMMARY ***
+Total pot €0.50 | Rake €0.02
+Board [Qh 9d Kc 2h]
+Seat 1: RasmunsenDios (button) folded on the Turn
+Seat 2: stif3872 (small blind) collected (€0.48)
+Seat 3: ggalego (big blind) folded before Flop
+Seat 4: Split2902 folded before Flop (didn't bet)
+Seat 5: noarones folded before Flop (didn't bet)
+Seat 6: basurdia folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442413874:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:15:50 CET [2025/08/22 12:15:50 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Split2902 (€13.30 in chips)
+Seat 2: moh de vegas (€5.24 in chips)
+Seat 3: noarones (€9.82 in chips)
+Seat 4: toun29 (€8.36 in chips)
+Seat 5: SlakA22 (€10.22 in chips)
+Seat 6: abuecam (€12.31 in chips)
+moh de vegas: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Kh 7c]
+toun29: folds
+SlakA22: folds
+abuecam: raises €0.13 to €0.23
+Split2902: raises €0.51 to €0.74
+moh de vegas: calls €0.69
+noarones: folds
+abuecam: folds
+*** FLOP *** [Qs 6c 8s]
+moh de vegas: checks
+Split2902: bets €0.57
+moh de vegas: calls €0.57
+*** TURN *** [Qs 6c 8s] [Kd]
+moh de vegas: checks
+Split2902: bets €1.40
+moh de vegas: raises €2.53 to €3.93 and is all-in
+Split2902: calls €2.53
+*** RIVER *** [Qs 6c 8s Kd] [2c]
+*** SHOW DOWN ***
+moh de vegas: shows [Qh Kc] (two pair, Kings and Queens)
+Split2902: shows [6s As] (a pair of Sixes)
+moh de vegas collected €10.27 from pot
+*** SUMMARY ***
+Total pot €10.81 | Rake €0.54
+Board [Qs 6c 8s Kd 2c]
+Seat 1: Split2902 (button) showed [6s As] and lost with a pair of Sixes
+Seat 2: moh de vegas (small blind) showed [Qh Kc] and won (€10.27) with two pair, Kings and Queens
+Seat 3: noarones (big blind) folded before Flop
+Seat 4: toun29 folded before Flop (didn't bet)
+Seat 5: SlakA22 folded before Flop (didn't bet)
+Seat 6: abuecam folded before Flop
+
+
+PokerStars Zoom Hand #257442414073:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:15:51 CET [2025/08/22 12:15:51 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: kastor59 (€8.87 in chips)
+Seat 2: basurdia (€13.18 in chips)
+Seat 3: Split2902 (€10.44 in chips)
+Seat 4: noarones (€11.82 in chips)
+Seat 5: LuisCesarQB (€34.67 in chips)
+Seat 6: aixosi (€25.97 in chips)
+basurdia: posts small blind €0.05
+Split2902: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [4h Tc]
+noarones: folds
+LuisCesarQB: raises €0.15 to €0.25
+aixosi: folds
+kastor59: folds
+basurdia: folds
+Split2902: folds
+Uncalled bet (€0.15) returned to LuisCesarQB
+LuisCesarQB collected €0.25 from pot
+LuisCesarQB: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: kastor59 (button) folded before Flop (didn't bet)
+Seat 2: basurdia (small blind) folded before Flop
+Seat 3: Split2902 (big blind) folded before Flop
+Seat 4: noarones folded before Flop (didn't bet)
+Seat 5: LuisCesarQB collected (€0.25)
+Seat 6: aixosi folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442414573:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:15:54 CET [2025/08/22 12:15:54 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: TIMBRERO (€4.45 in chips)
+Seat 2: noarones (€12.98 in chips)
+Seat 3: inthemox (€10 in chips)
+Seat 4: BoGosss92 (€10.25 in chips)
+Seat 5: GodZillus (€19.56 in chips)
+Seat 6: abuecam (€10 in chips)
+noarones: posts small blind €0.05
+inthemox: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Jd 3h]
+BoGosss92: folds
+GodZillus: folds
+abuecam: raises €0.13 to €0.23
+TIMBRERO: folds
+noarones: folds
+inthemox: folds
+Uncalled bet (€0.13) returned to abuecam
+abuecam collected €0.25 from pot
+abuecam: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: TIMBRERO (button) folded before Flop (didn't bet)
+Seat 2: noarones (small blind) folded before Flop
+Seat 3: inthemox (big blind) folded before Flop
+Seat 4: BoGosss92 folded before Flop (didn't bet)
+Seat 5: GodZillus folded before Flop (didn't bet)
+Seat 6: abuecam collected (€0.25)
+
+
+PokerStars Zoom Hand #257442415440:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:15:58 CET [2025/08/22 12:15:58 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Split2902 (€13.89 in chips)
+Seat 2: luckyluke208 (€29.74 in chips)
+Seat 3: kayser005 (€15.66 in chips)
+Seat 4: sisi_penekes (€7.95 in chips)
+Seat 5: noarones (€12.93 in chips)
+Seat 6: OG Poker7 (€13.83 in chips)
+luckyluke208: posts small blind €0.05
+kayser005: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Qh Ah]
+sisi_penekes: folds
+noarones: raises €0.15 to €0.25
+OG Poker7: folds
+Split2902: folds
+luckyluke208: folds
+kayser005: calls €0.15
+*** FLOP *** [Kd 7h 2s]
+kayser005: checks
+noarones: bets €0.35
+kayser005: calls €0.35
+*** TURN *** [Kd 7h 2s] [9c]
+kayser005: checks
+noarones: checks
+*** RIVER *** [Kd 7h 2s 9c] [Tc]
+kayser005: bets €1.19
+noarones: folds
+Uncalled bet (€1.19) returned to kayser005
+kayser005 collected €1.19 from pot
+kayser005: doesn't show hand
+*** SUMMARY ***
+Total pot €1.25 | Rake €0.06
+Board [Kd 7h 2s 9c Tc]
+Seat 1: Split2902 (button) folded before Flop (didn't bet)
+Seat 2: luckyluke208 (small blind) folded before Flop
+Seat 3: kayser005 (big blind) collected (€1.19)
+Seat 4: sisi_penekes folded before Flop (didn't bet)
+Seat 5: noarones folded on the River
+Seat 6: OG Poker7 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442415627:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:15:59 CET [2025/08/22 12:15:59 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: aprendiz1976 (€10 in chips)
+Seat 2: noarones (€9.90 in chips)
+Seat 3: BoGosss92 (€10.25 in chips)
+Seat 4: canbas0228 (€10.01 in chips)
+Seat 5: 00789 (€14.12 in chips)
+Seat 6: pomkuitfromhell (€10.65 in chips)
+noarones: posts small blind €0.05
+BoGosss92: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [4s Tc]
+canbas0228: folds
+00789: folds
+pomkuitfromhell: folds
+aprendiz1976: folds
+noarones: folds
+Uncalled bet (€0.05) returned to BoGosss92
+BoGosss92 collected €0.10 from pot
+BoGosss92: doesn't show hand
+*** SUMMARY ***
+Total pot €0.10 | Rake €0
+Seat 1: aprendiz1976 (button) folded before Flop (didn't bet)
+Seat 2: noarones (small blind) folded before Flop
+Seat 3: BoGosss92 (big blind) collected (€0.10)
+Seat 4: canbas0228 folded before Flop (didn't bet)
+Seat 5: 00789 folded before Flop (didn't bet)
+Seat 6: pomkuitfromhell folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442415746:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:16:00 CET [2025/08/22 12:16:00 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: aixosi (€27.10 in chips)
+Seat 2: eer_miguee (€16.20 in chips)
+Seat 3: 00789 (€14.80 in chips)
+Seat 4: GodZillus (€19.56 in chips)
+Seat 5: dariotd (€5.11 in chips)
+Seat 6: noarones (€10 in chips)
+eer_miguee: posts small blind €0.05
+00789: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Kh Tc]
+GodZillus: raises €0.20 to €0.30
+dariotd: folds
+noarones: folds
+aixosi: folds
+eer_miguee: folds
+00789: folds
+Uncalled bet (€0.20) returned to GodZillus
+GodZillus collected €0.25 from pot
+GodZillus: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: aixosi (button) folded before Flop (didn't bet)
+Seat 2: eer_miguee (small blind) folded before Flop
+Seat 3: 00789 (big blind) folded before Flop
+Seat 4: GodZillus collected (€0.25)
+Seat 5: dariotd folded before Flop (didn't bet)
+Seat 6: noarones folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442416284:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:16:03 CET [2025/08/22 12:16:03 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: PUMAAA132 (€9.01 in chips)
+Seat 2: Las Vegas768 (€8.76 in chips)
+Seat 3: el cordoba6 (€36.44 in chips)
+Seat 4: noarones (€9.85 in chips)
+Seat 5: TrasHeap (€10.58 in chips)
+Seat 6: sisi_penekes (€7.95 in chips)
+Las Vegas768: posts small blind €0.05
+el cordoba6: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [8s Ks]
+noarones: raises €0.15 to €0.25
+TrasHeap: folds
+sisi_penekes: folds
+PUMAAA132: calls €0.25
+Las Vegas768: folds
+el cordoba6: folds
+*** FLOP *** [3h 8h 5s]
+noarones: checks
+PUMAAA132: bets €0.20
+noarones: raises €0.80 to €1
+PUMAAA132: calls €0.80
+*** TURN *** [3h 8h 5s] [7s]
+noarones: bets €0.35
+PUMAAA132: calls €0.35
+*** RIVER *** [3h 8h 5s 7s] [5d]
+noarones: checks
+PUMAAA132: checks
+*** SHOW DOWN ***
+noarones: shows [8s Ks] (two pair, Eights and Fives)
+PUMAAA132: mucks hand
+noarones collected €3.18 from pot
+*** SUMMARY ***
+Total pot €3.35 | Rake €0.17
+Board [3h 8h 5s 7s 5d]
+Seat 1: PUMAAA132 (button) mucked [As 4s]
+Seat 2: Las Vegas768 (small blind) folded before Flop
+Seat 3: el cordoba6 (big blind) folded before Flop
+Seat 4: noarones showed [8s Ks] and won (€3.18) with two pair, Eights and Fives
+Seat 5: TrasHeap folded before Flop (didn't bet)
+Seat 6: sisi_penekes folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442416666:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:16:05 CET [2025/08/22 12:16:05 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: dariotd (€5.11 in chips)
+Seat 2: HURACATTACK (€10.17 in chips)
+Seat 3: noarones (€11.82 in chips)
+Seat 4: GodZillus (€10 in chips)
+Seat 5: 00789 (€12.17 in chips)
+Seat 6: Esquiruelo (€10 in chips)
+HURACATTACK: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [6c 7c]
+GodZillus: folds
+00789: folds
+Esquiruelo: folds
+dariotd: folds
+HURACATTACK: raises €0.15 to €0.25
+noarones: calls €0.15
+*** FLOP *** [9h 5h 3h]
+HURACATTACK: checks
+noarones: checks
+*** TURN *** [9h 5h 3h] [Th]
+HURACATTACK: checks
+noarones: checks
+*** RIVER *** [9h 5h 3h Th] [4c]
+HURACATTACK: checks
+noarones: checks
+*** SHOW DOWN ***
+HURACATTACK: shows [Td Qs] (a pair of Tens)
+noarones: shows [6c 7c] (a straight, Three to Seven)
+noarones collected €0.48 from pot
+*** SUMMARY ***
+Total pot €0.50 | Rake €0.02
+Board [9h 5h 3h Th 4c]
+Seat 1: dariotd (button) folded before Flop (didn't bet)
+Seat 2: HURACATTACK (small blind) showed [Td Qs] and lost with a pair of Tens
+Seat 3: noarones (big blind) showed [6c 7c] and won (€0.48) with a straight, Three to Seven
+Seat 4: GodZillus folded before Flop (didn't bet)
+Seat 5: 00789 folded before Flop (didn't bet)
+Seat 6: Esquiruelo folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442417344:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:16:09 CET [2025/08/22 12:16:09 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Galiler (€10 in chips)
+Seat 2: comm1_86 (€5.31 in chips)
+Seat 3: basurdia (€13.13 in chips)
+Seat 4: noarones (€10 in chips)
+Seat 5: eer_miguee (€13.28 in chips)
+Seat 6: toze78PT (€16.93 in chips)
+comm1_86: posts small blind €0.05
+basurdia: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Ts 3h]
+noarones: folds
+eer_miguee: raises €0.20 to €0.30
+toze78PT: raises €0.60 to €0.90
+Galiler: folds
+comm1_86: folds
+basurdia: folds
+eer_miguee: calls €0.60
+*** FLOP *** [6s 2c Qd]
+eer_miguee: bets €0.31
+toze78PT: raises €0.59 to €0.90
+eer_miguee: calls €0.59
+*** TURN *** [6s 2c Qd] [Kc]
+eer_miguee: bets €0.10
+toze78PT: raises €1.50 to €1.60
+eer_miguee: folds
+Uncalled bet (€1.50) returned to toze78PT
+toze78PT collected €3.75 from pot
+toze78PT: doesn't show hand
+*** SUMMARY ***
+Total pot €3.95 | Rake €0.20
+Board [6s 2c Qd Kc]
+Seat 1: Galiler (button) folded before Flop (didn't bet)
+Seat 2: comm1_86 (small blind) folded before Flop
+Seat 3: basurdia (big blind) folded before Flop
+Seat 4: noarones folded before Flop (didn't bet)
+Seat 5: eer_miguee folded on the Turn
+Seat 6: toze78PT collected (€3.75)
+
+
+PokerStars Zoom Hand #257442417949:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:16:12 CET [2025/08/22 12:16:12 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Rafastar88 (€1.97 in chips)
+Seat 2: Las Vegas768 (€8.71 in chips)
+Seat 3: noarones (€10 in chips)
+Seat 4: pomkuitfromhell (€11.34 in chips)
+Seat 5: inthemox (€9.85 in chips)
+Seat 6: RasmunsenDios (€11.86 in chips)
+Las Vegas768: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [6s Th]
+pomkuitfromhell: folds
+inthemox: raises €0.20 to €0.30
+RasmunsenDios: calls €0.30
+Rafastar88: folds
+Las Vegas768: folds
+noarones: folds
+*** FLOP *** [8s 5s 4s]
+inthemox: bets €0.36
+RasmunsenDios: raises €0.46 to €0.82
+inthemox: calls €0.46
+*** TURN *** [8s 5s 4s] [Kc]
+inthemox: checks
+RasmunsenDios: checks
+*** RIVER *** [8s 5s 4s Kc] [Jd]
+inthemox: bets €2.27
+RasmunsenDios: folds
+Uncalled bet (€2.27) returned to inthemox
+inthemox collected €2.27 from pot
+inthemox: doesn't show hand
+*** SUMMARY ***
+Total pot €2.39 | Rake €0.12
+Board [8s 5s 4s Kc Jd]
+Seat 1: Rafastar88 (button) folded before Flop (didn't bet)
+Seat 2: Las Vegas768 (small blind) folded before Flop
+Seat 3: noarones (big blind) folded before Flop
+Seat 4: pomkuitfromhell folded before Flop (didn't bet)
+Seat 5: inthemox collected (€2.27)
+Seat 6: RasmunsenDios folded on the River
+
+
+PokerStars Zoom Hand #257442423146:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:16:41 CET [2025/08/22 12:16:41 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: toze78PT (€12.13 in chips)
+Seat 2: noarones (€9.90 in chips)
+Seat 3: 1eliasnaiara (€98.62 in chips)
+Seat 4: FLOW4422646 (€10.15 in chips)
+Seat 5: JUSANAL (€5 in chips)
+Seat 6: grenha1972 (€5.23 in chips)
+noarones: posts small blind €0.05
+1eliasnaiara: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [2c Ts]
+FLOW4422646: calls €0.10
+JUSANAL: calls €0.10
+grenha1972: folds
+toze78PT: calls €0.10
+noarones: folds
+1eliasnaiara: checks
+*** FLOP *** [5s Ah Kd]
+1eliasnaiara: checks
+FLOW4422646: checks
+JUSANAL: bets €0.43
+toze78PT: folds
+1eliasnaiara: folds
+FLOW4422646: folds
+Uncalled bet (€0.43) returned to JUSANAL
+JUSANAL collected €0.43 from pot
+JUSANAL: doesn't show hand
+*** SUMMARY ***
+Total pot €0.45 | Rake €0.02
+Board [5s Ah Kd]
+Seat 1: toze78PT (button) folded on the Flop
+Seat 2: noarones (small blind) folded before Flop
+Seat 3: 1eliasnaiara (big blind) folded on the Flop
+Seat 4: FLOW4422646 folded on the Flop
+Seat 5: JUSANAL collected (€0.43)
+Seat 6: grenha1972 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442423827:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:16:44 CET [2025/08/22 12:16:44 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: ggalego (€15.56 in chips)
+Seat 2: aprendiz1976 (€10.05 in chips)
+Seat 3: BPinto96 (€21.34 in chips)
+Seat 4: GodZillus (€15.95 in chips)
+Seat 5: noarones (€9.85 in chips)
+Seat 6: TrasHeap (€11.19 in chips)
+aprendiz1976: posts small blind €0.05
+BPinto96: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Kd 5c]
+GodZillus: folds
+noarones: folds
+TrasHeap: folds
+ggalego: folds
+aprendiz1976: folds
+Uncalled bet (€0.05) returned to BPinto96
+BPinto96 collected €0.10 from pot
+BPinto96: doesn't show hand
+*** SUMMARY ***
+Total pot €0.10 | Rake €0
+Seat 1: ggalego (button) folded before Flop (didn't bet)
+Seat 2: aprendiz1976 (small blind) folded before Flop
+Seat 3: BPinto96 (big blind) collected (€0.10)
+Seat 4: GodZillus folded before Flop (didn't bet)
+Seat 5: noarones folded before Flop (didn't bet)
+Seat 6: TrasHeap folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442424967:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:16:51 CET [2025/08/22 12:16:51 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€9.85 in chips)
+Seat 2: GodZillus (€15.95 in chips)
+Seat 3: TrasHeap (€11.19 in chips)
+Seat 4: ggalego (€15.56 in chips)
+Seat 5: 1eliasnaiara (€55.01 in chips)
+Seat 6: Las Vegas768 (€15.52 in chips)
+GodZillus: posts small blind €0.05
+TrasHeap: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [8h 9h]
+ggalego: folds
+1eliasnaiara: raises €0.11 to €0.21
+Las Vegas768: folds
+noarones: folds
+GodZillus: folds
+TrasHeap: calls €0.11
+*** FLOP *** [Jh 6h 4c]
+TrasHeap: checks
+1eliasnaiara: checks
+*** TURN *** [Jh 6h 4c] [8s]
+TrasHeap: bets €0.23
+1eliasnaiara: folds
+Uncalled bet (€0.23) returned to TrasHeap
+TrasHeap collected €0.45 from pot
+TrasHeap: doesn't show hand
+*** SUMMARY ***
+Total pot €0.47 | Rake €0.02
+Board [Jh 6h 4c 8s]
+Seat 1: noarones (button) folded before Flop (didn't bet)
+Seat 2: GodZillus (small blind) folded before Flop
+Seat 3: TrasHeap (big blind) collected (€0.45)
+Seat 4: ggalego folded before Flop (didn't bet)
+Seat 5: 1eliasnaiara folded on the Turn
+Seat 6: Las Vegas768 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442426381:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:16:58 CET [2025/08/22 12:16:58 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: BoGosss92 (€10.35 in chips)
+Seat 2: el michi46 (€11.69 in chips)
+Seat 3: GodZillus (€19.88 in chips)
+Seat 4: LuisCesarQB (€19.11 in chips)
+Seat 5: ggalego (€15.56 in chips)
+Seat 6: noarones (€12.05 in chips)
+el michi46: posts small blind €0.05
+GodZillus: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [2d 3h]
+LuisCesarQB: folds
+ggalego: folds
+noarones: folds
+BoGosss92: folds
+el michi46: raises €0.20 to €0.30
+GodZillus: calls €0.20
+*** FLOP *** [Jh 8s 5h]
+el michi46: bets €0.30
+GodZillus: folds
+Uncalled bet (€0.30) returned to el michi46
+el michi46 collected €0.57 from pot
+el michi46: doesn't show hand
+*** SUMMARY ***
+Total pot €0.60 | Rake €0.03
+Board [Jh 8s 5h]
+Seat 1: BoGosss92 (button) folded before Flop (didn't bet)
+Seat 2: el michi46 (small blind) collected (€0.57)
+Seat 3: GodZillus (big blind) folded on the Flop
+Seat 4: LuisCesarQB folded before Flop (didn't bet)
+Seat 5: ggalego folded before Flop (didn't bet)
+Seat 6: noarones folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442427138:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:17:02 CET [2025/08/22 12:17:02 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€11.43 in chips)
+Seat 2: ggalego (€8.64 in chips)
+Seat 3: LuisCesarQB (€19.11 in chips)
+Seat 4: PUMAAA132 (€7.41 in chips)
+Seat 5: 1eliasnaiara (€98.52 in chips)
+Seat 6: kastor59 (€9.80 in chips)
+ggalego: posts small blind €0.05
+LuisCesarQB: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Ah Ts]
+PUMAAA132: folds
+1eliasnaiara: raises €0.11 to €0.21
+kastor59: folds
+noarones: folds
+ggalego: folds
+LuisCesarQB: folds
+Uncalled bet (€0.11) returned to 1eliasnaiara
+1eliasnaiara collected €0.25 from pot
+1eliasnaiara: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: noarones (button) folded before Flop (didn't bet)
+Seat 2: ggalego (small blind) folded before Flop
+Seat 3: LuisCesarQB (big blind) folded before Flop
+Seat 4: PUMAAA132 folded before Flop (didn't bet)
+Seat 5: 1eliasnaiara collected (€0.25)
+Seat 6: kastor59 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442427329:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:17:04 CET [2025/08/22 12:17:04 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€12.05 in chips)
+Seat 2: Rafastar88 (€1.72 in chips)
+Seat 3: Esquiruelo (€21.13 in chips)
+Seat 4: ElPudao (€10.03 in chips)
+Seat 5: 00789 (€11.44 in chips)
+Seat 6: LuisCesarQB (€34.57 in chips)
+Rafastar88: posts small blind €0.05
+Esquiruelo: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [2s 2d]
+ElPudao: folds
+00789: folds
+LuisCesarQB: folds
+noarones: raises €0.10 to €0.20
+Rafastar88: calls €0.15
+Esquiruelo: folds
+*** FLOP *** [8s 5d 4s]
+Rafastar88: checks
+noarones: checks
+*** TURN *** [8s 5d 4s] [Ts]
+Rafastar88: bets €0.24
+noarones: folds
+Uncalled bet (€0.24) returned to Rafastar88
+Rafastar88 collected €0.48 from pot
+Rafastar88: doesn't show hand
+*** SUMMARY ***
+Total pot €0.50 | Rake €0.02
+Board [8s 5d 4s Ts]
+Seat 1: noarones (button) folded on the Turn
+Seat 2: Rafastar88 (small blind) collected (€0.48)
+Seat 3: Esquiruelo (big blind) folded before Flop
+Seat 4: ElPudao folded before Flop (didn't bet)
+Seat 5: 00789 folded before Flop (didn't bet)
+Seat 6: LuisCesarQB folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442428498:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:17:10 CET [2025/08/22 12:17:10 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: comm1_86 (€5.06 in chips)
+Seat 2: LuisCesarQB (€40.38 in chips)
+Seat 3: Galiler (€10 in chips)
+Seat 4: noarones (€9.85 in chips)
+Seat 5: grenha1972 (€13.92 in chips)
+Seat 6: SPEEDOUILLE (€5 in chips)
+LuisCesarQB: posts small blind €0.05
+Galiler: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [9s 7c]
+noarones: folds
+grenha1972: folds
+SPEEDOUILLE: folds
+comm1_86: raises €0.20 to €0.30
+LuisCesarQB: folds
+Galiler: calls €0.20
+*** FLOP *** [8h 7d 2h]
+Galiler: checks
+comm1_86: bets €0.62
+Galiler: folds
+Uncalled bet (€0.62) returned to comm1_86
+comm1_86 collected €0.62 from pot
+comm1_86: doesn't show hand
+*** SUMMARY ***
+Total pot €0.65 | Rake €0.03
+Board [8h 7d 2h]
+Seat 1: comm1_86 (button) collected (€0.62)
+Seat 2: LuisCesarQB (small blind) folded before Flop
+Seat 3: Galiler (big blind) folded on the Flop
+Seat 4: noarones folded before Flop (didn't bet)
+Seat 5: grenha1972 folded before Flop (didn't bet)
+Seat 6: SPEEDOUILLE folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442428908:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:17:12 CET [2025/08/22 12:17:12 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: ggalego (€8.59 in chips)
+Seat 2: CrujeNueces (€5.36 in chips)
+Seat 3: GodZillus (€10 in chips)
+Seat 4: aixosi (€26.49 in chips)
+Seat 5: pomkuitfromhell (€10.74 in chips)
+Seat 6: noarones (€11.43 in chips)
+CrujeNueces: posts small blind €0.05
+GodZillus: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [2h Td]
+aixosi: folds
+pomkuitfromhell: folds
+noarones: folds
+ggalego: folds
+CrujeNueces: folds
+Uncalled bet (€0.05) returned to GodZillus
+GodZillus collected €0.10 from pot
+GodZillus: doesn't show hand
+*** SUMMARY ***
+Total pot €0.10 | Rake €0
+Seat 1: ggalego (button) folded before Flop (didn't bet)
+Seat 2: CrujeNueces (small blind) folded before Flop
+Seat 3: GodZillus (big blind) collected (€0.10)
+Seat 4: aixosi folded before Flop (didn't bet)
+Seat 5: pomkuitfromhell folded before Flop (didn't bet)
+Seat 6: noarones folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442429237:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:17:14 CET [2025/08/22 12:17:14 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: LuisCesarQB (€34.52 in chips)
+Seat 2: sisi_penekes (€8.27 in chips)
+Seat 3: 00789 (€12.50 in chips)
+Seat 4: luckyluke208 (€11.14 in chips)
+Seat 5: eer_miguee (€16.20 in chips)
+Seat 6: noarones (€9.85 in chips)
+sisi_penekes: posts small blind €0.05
+00789: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [7d 6d]
+luckyluke208: folds
+eer_miguee: folds
+noarones: raises €0.15 to €0.25
+LuisCesarQB: calls €0.25
+sisi_penekes: folds
+00789: calls €0.15
+*** FLOP *** [7s 5d 7h]
+00789: checks
+noarones: bets €0.20
+LuisCesarQB: folds
+00789: folds
+Uncalled bet (€0.20) returned to noarones
+noarones collected €0.76 from pot
+noarones: doesn't show hand
+*** SUMMARY ***
+Total pot €0.80 | Rake €0.04
+Board [7s 5d 7h]
+Seat 1: LuisCesarQB (button) folded on the Flop
+Seat 2: sisi_penekes (small blind) folded before Flop
+Seat 3: 00789 (big blind) folded on the Flop
+Seat 4: luckyluke208 folded before Flop (didn't bet)
+Seat 5: eer_miguee folded before Flop (didn't bet)
+Seat 6: noarones collected (€0.76)
+
+
+PokerStars Zoom Hand #257442429787:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:17:17 CET [2025/08/22 12:17:17 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: luckyluke208 (€29.59 in chips)
+Seat 2: Split2902 (€16.06 in chips)
+Seat 3: 00789 (€14.10 in chips)
+Seat 4: noarones (€12.33 in chips)
+Seat 5: PUMAAA132 (€7.41 in chips)
+Seat 6: 1eliasnaiara (€98.67 in chips)
+Split2902: posts small blind €0.05
+00789: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Td 8d]
+noarones: folds
+PUMAAA132: folds
+1eliasnaiara: raises €0.13 to €0.23
+luckyluke208: folds
+Split2902: folds
+00789: calls €0.13
+*** FLOP *** [Ad Kd 6h]
+00789: checks
+1eliasnaiara: bets €0.36
+00789: folds
+Uncalled bet (€0.36) returned to 1eliasnaiara
+1eliasnaiara collected €0.48 from pot
+1eliasnaiara: doesn't show hand
+*** SUMMARY ***
+Total pot €0.51 | Rake €0.03
+Board [Ad Kd 6h]
+Seat 1: luckyluke208 (button) folded before Flop (didn't bet)
+Seat 2: Split2902 (small blind) folded before Flop
+Seat 3: 00789 (big blind) folded on the Flop
+Seat 4: noarones folded before Flop (didn't bet)
+Seat 5: PUMAAA132 folded before Flop (didn't bet)
+Seat 6: 1eliasnaiara collected (€0.48)
+
+
+PokerStars Zoom Hand #257442429919:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:17:18 CET [2025/08/22 12:17:18 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Las Vegas768 (€8.20 in chips)
+Seat 2: aixosi (€26.49 in chips)
+Seat 3: luckyluke208 (€11.14 in chips)
+Seat 4: FLOW4422646 (€10.05 in chips)
+Seat 5: noarones (€11.43 in chips)
+Seat 6: kayser005 (€16.25 in chips)
+aixosi: posts small blind €0.05
+luckyluke208: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Ad Kc]
+FLOW4422646: folds
+noarones: raises €0.15 to €0.25
+kayser005: raises €0.95 to €1.20
+Las Vegas768: folds
+aixosi: folds
+luckyluke208: folds
+noarones: folds
+Uncalled bet (€0.95) returned to kayser005
+kayser005 collected €0.65 from pot
+kayser005: doesn't show hand
+*** SUMMARY ***
+Total pot €0.65 | Rake €0
+Seat 1: Las Vegas768 (button) folded before Flop (didn't bet)
+Seat 2: aixosi (small blind) folded before Flop
+Seat 3: luckyluke208 (big blind) folded before Flop
+Seat 4: FLOW4422646 folded before Flop (didn't bet)
+Seat 5: noarones folded before Flop
+Seat 6: kayser005 collected (€0.65)
+
+
+PokerStars Zoom Hand #257442431671:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:17:27 CET [2025/08/22 12:17:27 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: GodZillus (€10 in chips)
+Seat 2: eer_miguee (€16.20 in chips)
+Seat 3: FLOW4422646 (€10.05 in chips)
+Seat 4: Esquiruelo (€10.43 in chips)
+Seat 5: toun29 (€7.78 in chips)
+Seat 6: noarones (€12.33 in chips)
+eer_miguee: posts small blind €0.05
+FLOW4422646: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Jc 2c]
+Esquiruelo: folds
+toun29: folds
+noarones: folds
+GodZillus: folds
+eer_miguee: folds
+Uncalled bet (€0.05) returned to FLOW4422646
+FLOW4422646 collected €0.10 from pot
+FLOW4422646: doesn't show hand
+*** SUMMARY ***
+Total pot €0.10 | Rake €0
+Seat 1: GodZillus (button) folded before Flop (didn't bet)
+Seat 2: eer_miguee (small blind) folded before Flop
+Seat 3: FLOW4422646 (big blind) collected (€0.10)
+Seat 4: Esquiruelo folded before Flop (didn't bet)
+Seat 5: toun29 folded before Flop (didn't bet)
+Seat 6: noarones folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442432527:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:17:32 CET [2025/08/22 12:17:32 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Las Vegas768 (€10.72 in chips)
+Seat 2: noarones (€12.33 in chips)
+Seat 3: PUMAAA132 (€7.36 in chips)
+Seat 4: eer_miguee (€16.15 in chips)
+Seat 5: LuisCesarQB (€19.40 in chips)
+Seat 6: OG Poker7 (€14.11 in chips)
+noarones: posts small blind €0.05
+PUMAAA132: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Qh 7s]
+eer_miguee: folds
+LuisCesarQB: folds
+OG Poker7 has timed out
+OG Poker7: folds
+Las Vegas768: raises €0.10 to €0.20
+noarones: folds
+PUMAAA132: folds
+Uncalled bet (€0.10) returned to Las Vegas768
+Las Vegas768 collected €0.25 from pot
+Las Vegas768: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: Las Vegas768 (button) collected (€0.25)
+Seat 2: noarones (small blind) folded before Flop
+Seat 3: PUMAAA132 (big blind) folded before Flop
+Seat 4: eer_miguee folded before Flop (didn't bet)
+Seat 5: LuisCesarQB folded before Flop (didn't bet)
+Seat 6: OG Poker7 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442436222:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:17:52 CET [2025/08/22 12:17:52 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Split2902 (€10.57 in chips)
+Seat 2: GodZillus (€14.06 in chips)
+Seat 3: noarones (€12.28 in chips)
+Seat 4: SPEEDOUILLE (€4.85 in chips)
+Seat 5: ggalego (€8.59 in chips)
+Seat 6: el michi46 (€11.96 in chips)
+GodZillus: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [9d 5d]
+SPEEDOUILLE: folds
+ggalego: folds
+el michi46: raises €0.10 to €0.20
+Split2902: raises €0.55 to €0.75
+GodZillus: folds
+noarones: folds
+el michi46: folds
+Uncalled bet (€0.55) returned to Split2902
+Split2902 collected €0.55 from pot
+Split2902: doesn't show hand
+*** SUMMARY ***
+Total pot €0.55 | Rake €0
+Seat 1: Split2902 (button) collected (€0.55)
+Seat 2: GodZillus (small blind) folded before Flop
+Seat 3: noarones (big blind) folded before Flop
+Seat 4: SPEEDOUILLE folded before Flop (didn't bet)
+Seat 5: ggalego folded before Flop (didn't bet)
+Seat 6: el michi46 folded before Flop
+
+
+PokerStars Zoom Hand #257442436985:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:17:56 CET [2025/08/22 12:17:56 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: aprendiz1976 (€10.90 in chips)
+Seat 2: noarones (€11.18 in chips)
+Seat 3: KIKE EL DIVI (€21.11 in chips)
+Seat 4: eer_miguee (€10.59 in chips)
+Seat 5: GodZillus (€10.15 in chips)
+Seat 6: RJSilva30 (€5.45 in chips)
+noarones: posts small blind €0.05
+KIKE EL DIVI: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Jc Ad]
+eer_miguee: folds
+GodZillus: raises €0.20 to €0.30
+RJSilva30: raises €5.15 to €5.45 and is all-in
+aprendiz1976: folds
+noarones: calls €5.40
+KIKE EL DIVI: folds
+GodZillus: folds
+*** FLOP *** [6c 6h 7s]
+*** TURN *** [6c 6h 7s] [5c]
+*** RIVER *** [6c 6h 7s 5c] [3s]
+*** SHOW DOWN ***
+noarones: shows [Jc Ad] (a pair of Sixes)
+RJSilva30: shows [5d 2d] (two pair, Sixes and Fives)
+RJSilva30 collected €10.74 from pot
+*** SUMMARY ***
+Total pot €11.30 | Rake €0.56
+Board [6c 6h 7s 5c 3s]
+Seat 1: aprendiz1976 (button) folded before Flop (didn't bet)
+Seat 2: noarones (small blind) showed [Jc Ad] and lost with a pair of Sixes
+Seat 3: KIKE EL DIVI (big blind) folded before Flop
+Seat 4: eer_miguee folded before Flop (didn't bet)
+Seat 5: GodZillus folded before Flop
+Seat 6: RJSilva30 showed [5d 2d] and won (€10.74) with two pair, Sixes and Fives
+
+
+PokerStars Zoom Hand #257442438500:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:18:05 CET [2025/08/22 12:18:05 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pomkuitfromhell (€10.33 in chips)
+Seat 2: noarones (€11.85 in chips)
+Seat 3: CrujeNueces (€5 in chips)
+Seat 4: NCabral_SCP (€4.28 in chips)
+Seat 5: 00789 (€11.44 in chips)
+Seat 6: Split2902 (€10 in chips)
+noarones: posts small blind €0.05
+CrujeNueces: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Qh Jh]
+NCabral_SCP: folds
+00789: folds
+Split2902: folds
+pomkuitfromhell: folds
+noarones: raises €0.15 to €0.25
+CrujeNueces: calls €0.15
+*** FLOP *** [Qc 3d 2s]
+noarones: checks
+CrujeNueces: bets €0.24
+noarones: calls €0.24
+*** TURN *** [Qc 3d 2s] [4d]
+noarones: checks
+CrujeNueces: checks
+*** RIVER *** [Qc 3d 2s 4d] [3h]
+noarones: bets €0.65
+CrujeNueces: folds
+Uncalled bet (€0.65) returned to noarones
+noarones collected €0.93 from pot
+noarones: doesn't show hand
+*** SUMMARY ***
+Total pot €0.98 | Rake €0.05
+Board [Qc 3d 2s 4d 3h]
+Seat 1: pomkuitfromhell (button) folded before Flop (didn't bet)
+Seat 2: noarones (small blind) collected (€0.93)
+Seat 3: CrujeNueces (big blind) folded on the River
+Seat 4: NCabral_SCP folded before Flop (didn't bet)
+Seat 5: 00789 folded before Flop (didn't bet)
+Seat 6: Split2902 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442439591:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:18:11 CET [2025/08/22 12:18:11 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: SlakA22 (€10 in chips)
+Seat 2: Las Vegas768 (€8.24 in chips)
+Seat 3: 1eliasnaiara (€99.02 in chips)
+Seat 4: RasmunsenDios (€15.11 in chips)
+Seat 5: noarones (€10.36 in chips)
+Seat 6: Polandrus (€10.30 in chips)
+Las Vegas768: posts small blind €0.05
+1eliasnaiara: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Qd Jh]
+RasmunsenDios: folds
+noarones: raises €0.15 to €0.25
+Polandrus: folds
+SlakA22: folds
+Las Vegas768: calls €0.20
+1eliasnaiara: calls €0.15
+*** FLOP *** [2h 9c 9h]
+Las Vegas768: checks
+1eliasnaiara: checks
+noarones: checks
+*** TURN *** [2h 9c 9h] [Kh]
+Las Vegas768: checks
+1eliasnaiara: checks
+noarones: checks
+*** RIVER *** [2h 9c 9h Kh] [6d]
+Las Vegas768: checks
+1eliasnaiara: checks
+noarones: checks
+*** SHOW DOWN ***
+Las Vegas768: shows [5c 5h] (two pair, Nines and Fives)
+1eliasnaiara: shows [8h 8s] (two pair, Nines and Eights)
+noarones: mucks hand
+1eliasnaiara collected €0.71 from pot
+*** SUMMARY ***
+Total pot €0.75 | Rake €0.04
+Board [2h 9c 9h Kh 6d]
+Seat 1: SlakA22 (button) folded before Flop (didn't bet)
+Seat 2: Las Vegas768 (small blind) showed [5c 5h] and lost with two pair, Nines and Fives
+Seat 3: 1eliasnaiara (big blind) showed [8h 8s] and won (€0.71) with two pair, Nines and Eights
+Seat 4: RasmunsenDios folded before Flop (didn't bet)
+Seat 5: noarones mucked [Qd Jh]
+Seat 6: Polandrus folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442440980:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:18:18 CET [2025/08/22 12:18:18 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€12.18 in chips)
+Seat 2: Galiler (€10 in chips)
+Seat 3: 00789 (€14.52 in chips)
+Seat 4: Fredkiller800 (€10.30 in chips)
+Seat 5: BPinto96 (€21.48 in chips)
+Seat 6: 1eliasnaiara (€54.45 in chips)
+Galiler: posts small blind €0.05
+00789: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Th Qd]
+Fredkiller800: folds
+BPinto96: folds
+1eliasnaiara: folds
+noarones: raises €0.10 to €0.20
+Galiler: folds
+00789: folds
+Uncalled bet (€0.10) returned to noarones
+noarones collected €0.25 from pot
+noarones: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: noarones (button) collected (€0.25)
+Seat 2: Galiler (small blind) folded before Flop
+Seat 3: 00789 (big blind) folded before Flop
+Seat 4: Fredkiller800 folded before Flop (didn't bet)
+Seat 5: BPinto96 folded before Flop (didn't bet)
+Seat 6: 1eliasnaiara folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442441908:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:18:23 CET [2025/08/22 12:18:23 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: NCabral_SCP (€4.23 in chips)
+Seat 2: JUSANAL (€5.23 in chips)
+Seat 3: noarones (€10 in chips)
+Seat 4: 1eliasnaiara (€54.45 in chips)
+Seat 5: RJSilva30 (€10.74 in chips)
+Seat 6: inthemox (€11.17 in chips)
+JUSANAL: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [6h Td]
+1eliasnaiara: folds
+RJSilva30: raises €0.25 to €0.35
+inthemox: folds
+NCabral_SCP: folds
+JUSANAL: raises €1.15 to €1.50
+noarones: folds
+RJSilva30: calls €1.15
+*** FLOP *** [Qh 2c Js]
+JUSANAL: bets €1.47
+RJSilva30: raises €5.88 to €7.35
+JUSANAL: calls €2.26 and is all-in
+Uncalled bet (€3.62) returned to RJSilva30
+*** TURN *** [Qh 2c Js] [Qs]
+*** RIVER *** [Qh 2c Js Qs] [Tc]
+*** SHOW DOWN ***
+JUSANAL: shows [Kc As] (a straight, Ten to Ace)
+RJSilva30: shows [4d 2d] (two pair, Queens and Deuces)
+JUSANAL collected €10.03 from pot
+*** SUMMARY ***
+Total pot €10.56 | Rake €0.53
+Board [Qh 2c Js Qs Tc]
+Seat 1: NCabral_SCP (button) folded before Flop (didn't bet)
+Seat 2: JUSANAL (small blind) showed [Kc As] and won (€10.03) with a straight, Ten to Ace
+Seat 3: noarones (big blind) folded before Flop
+Seat 4: 1eliasnaiara folded before Flop (didn't bet)
+Seat 5: RJSilva30 showed [4d 2d] and lost with two pair, Queens and Deuces
+Seat 6: inthemox folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442443209:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:18:30 CET [2025/08/22 12:18:30 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: BPinto96 (€12.98 in chips)
+Seat 2: NAlexandru22 (€14.03 in chips)
+Seat 3: carco82 (€10.59 in chips)
+Seat 4: grenha1972 (€5.46 in chips)
+Seat 5: noarones (€12.33 in chips)
+Seat 6: eer_miguee (€16.30 in chips)
+NAlexandru22: posts small blind €0.05
+carco82: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [5c 7c]
+grenha1972: folds
+noarones: folds
+eer_miguee: folds
+BPinto96: folds
+NAlexandru22: calls €0.05
+carco82: checks
+*** FLOP *** [6c 2c 9c]
+NAlexandru22: checks
+carco82: checks
+*** TURN *** [6c 2c 9c] [9h]
+NAlexandru22: checks
+carco82: bets €0.10
+NAlexandru22: folds
+Uncalled bet (€0.10) returned to carco82
+carco82 collected €0.19 from pot
+carco82: doesn't show hand
+*** SUMMARY ***
+Total pot €0.20 | Rake €0.01
+Board [6c 2c 9c 9h]
+Seat 1: BPinto96 (button) folded before Flop (didn't bet)
+Seat 2: NAlexandru22 (small blind) folded on the Turn
+Seat 3: carco82 (big blind) collected (€0.19)
+Seat 4: grenha1972 folded before Flop (didn't bet)
+Seat 5: noarones folded before Flop (didn't bet)
+Seat 6: eer_miguee folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442444188:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:18:35 CET [2025/08/22 12:18:35 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: kastor59 (€10.19 in chips)
+Seat 2: el michi46 (€11.66 in chips)
+Seat 3: toun29 (€7.01 in chips)
+Seat 4: noarones (€9.90 in chips)
+Seat 5: ma6as (€12 in chips)
+Seat 6: pomkuitfromhell (€10.44 in chips)
+el michi46: posts small blind €0.05
+toun29: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [5s 2s]
+noarones: folds
+ma6as: raises €0.15 to €0.25
+pomkuitfromhell: folds
+kastor59: folds
+el michi46: folds
+toun29: calls €0.15
+*** FLOP *** [4c 4s 9s]
+toun29: checks
+ma6as: checks
+*** TURN *** [4c 4s 9s] [8c]
+toun29: bets €0.26
+ma6as: calls €0.26
+*** RIVER *** [4c 4s 9s 8c] [9h]
+toun29: bets €0.40
+ma6as: calls €0.40
+*** SHOW DOWN ***
+toun29: shows [Jh 8d] (two pair, Nines and Eights)
+ma6as: mucks hand
+toun29 collected €1.78 from pot
+*** SUMMARY ***
+Total pot €1.87 | Rake €0.09
+Board [4c 4s 9s 8c 9h]
+Seat 1: kastor59 (button) folded before Flop (didn't bet)
+Seat 2: el michi46 (small blind) folded before Flop
+Seat 3: toun29 (big blind) showed [Jh 8d] and won (€1.78) with two pair, Nines and Eights
+Seat 4: noarones folded before Flop (didn't bet)
+Seat 5: ma6as mucked [Ac Th]
+Seat 6: pomkuitfromhell folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442444553:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:18:37 CET [2025/08/22 12:18:37 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: ma6as (€10 in chips)
+Seat 2: BPinto96 (€15.73 in chips)
+Seat 3: nildouille (€10 in chips)
+Seat 4: Split2902 (€10.32 in chips)
+Seat 5: basurdia (€12.63 in chips)
+Seat 6: noarones (€12.33 in chips)
+BPinto96: posts small blind €0.05
+nildouille: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [8d Ts]
+Split2902: folds
+basurdia: folds
+noarones: folds
+ma6as: raises €0.15 to €0.25
+BPinto96: folds
+nildouille: folds
+Uncalled bet (€0.15) returned to ma6as
+ma6as collected €0.25 from pot
+ma6as: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: ma6as (button) collected (€0.25)
+Seat 2: BPinto96 (small blind) folded before Flop
+Seat 3: nildouille (big blind) folded before Flop
+Seat 4: Split2902 folded before Flop (didn't bet)
+Seat 5: basurdia folded before Flop (didn't bet)
+Seat 6: noarones folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442444885:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:18:39 CET [2025/08/22 12:18:39 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€9.90 in chips)
+Seat 2: luckyluke208 (€29.44 in chips)
+Seat 3: BoGosss92 (€10.23 in chips)
+Seat 4: aixosi (€25.69 in chips)
+Seat 5: pope's one (€12.25 in chips)
+Seat 6: RasmunsenDios (€10.44 in chips)
+luckyluke208: posts small blind €0.05
+BoGosss92: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [5s Th]
+aixosi: folds
+pope's one: folds
+RasmunsenDios: folds
+noarones: folds
+luckyluke208: folds
+Uncalled bet (€0.05) returned to BoGosss92
+BoGosss92 collected €0.10 from pot
+BoGosss92: doesn't show hand
+*** SUMMARY ***
+Total pot €0.10 | Rake €0
+Seat 1: noarones (button) folded before Flop (didn't bet)
+Seat 2: luckyluke208 (small blind) folded before Flop
+Seat 3: BoGosss92 (big blind) collected (€0.10)
+Seat 4: aixosi folded before Flop (didn't bet)
+Seat 5: pope's one folded before Flop (didn't bet)
+Seat 6: RasmunsenDios folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442445835:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:18:44 CET [2025/08/22 12:18:44 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: luckyluke208 (€29.39 in chips)
+Seat 2: cistierna (€5.90 in chips)
+Seat 3: LuisCesarQB (€18.71 in chips)
+Seat 4: noarones (€9.90 in chips)
+Seat 5: SANAZ61 (€9.85 in chips)
+Seat 6: pope's one (€12.25 in chips)
+cistierna: posts small blind €0.05
+LuisCesarQB: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [As 7s]
+noarones: raises €0.15 to €0.25
+SANAZ61: folds
+pope's one: folds
+luckyluke208: folds
+cistierna: calls €0.20
+LuisCesarQB: raises €1.25 to €1.50
+noarones: folds
+cistierna: calls €1.25
+*** FLOP *** [7d 9h 2c]
+cistierna has timed out
+cistierna: checks
+LuisCesarQB: bets €4.64
+cistierna: folds
+Uncalled bet (€4.64) returned to LuisCesarQB
+LuisCesarQB collected €3.09 from pot
+LuisCesarQB: doesn't show hand
+*** SUMMARY ***
+Total pot €3.25 | Rake €0.16
+Board [7d 9h 2c]
+Seat 1: luckyluke208 (button) folded before Flop (didn't bet)
+Seat 2: cistierna (small blind) folded on the Flop
+Seat 3: LuisCesarQB (big blind) collected (€3.09)
+Seat 4: noarones folded before Flop
+Seat 5: SANAZ61 folded before Flop (didn't bet)
+Seat 6: pope's one folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442446006:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:18:45 CET [2025/08/22 12:18:45 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: sisi_penekes (€8.42 in chips)
+Seat 2: 1eliasnaiara (€54.50 in chips)
+Seat 3: KerenR (€10 in chips)
+Seat 4: 00789 (€14.48 in chips)
+Seat 5: noarones (€12.33 in chips)
+Seat 6: Benjam3232 (€12.14 in chips)
+1eliasnaiara: posts small blind €0.05
+KerenR: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Jh 9c]
+00789: folds
+noarones: folds
+Benjam3232: folds
+sisi_penekes: folds
+1eliasnaiara: folds
+Uncalled bet (€0.05) returned to KerenR
+KerenR collected €0.10 from pot
+KerenR: doesn't show hand
+*** SUMMARY ***
+Total pot €0.10 | Rake €0
+Seat 1: sisi_penekes (button) folded before Flop (didn't bet)
+Seat 2: 1eliasnaiara (small blind) folded before Flop
+Seat 3: KerenR (big blind) collected (€0.10)
+Seat 4: 00789 folded before Flop (didn't bet)
+Seat 5: noarones folded before Flop (didn't bet)
+Seat 6: Benjam3232 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442446495:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:18:48 CET [2025/08/22 12:18:48 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: el michi46 (€11.61 in chips)
+Seat 2: noarones (€12.33 in chips)
+Seat 3: 00789 (€14.48 in chips)
+Seat 4: basurdia (€12.58 in chips)
+Seat 5: LuisCesarQB (€34.02 in chips)
+Seat 6: kastor59 (€10.19 in chips)
+noarones: posts small blind €0.05
+00789: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Qc Qd]
+basurdia: folds
+LuisCesarQB: folds
+kastor59: folds
+el michi46: folds
+noarones: raises €0.10 to €0.20
+00789: folds
+Uncalled bet (€0.10) returned to noarones
+noarones collected €0.20 from pot
+noarones: doesn't show hand
+*** SUMMARY ***
+Total pot €0.20 | Rake €0
+Seat 1: el michi46 (button) folded before Flop (didn't bet)
+Seat 2: noarones (small blind) collected (€0.20)
+Seat 3: 00789 (big blind) folded before Flop
+Seat 4: basurdia folded before Flop (didn't bet)
+Seat 5: LuisCesarQB folded before Flop (didn't bet)
+Seat 6: kastor59 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442449601:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:19:05 CET [2025/08/22 12:19:05 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: basurdia (€10.31 in chips)
+Seat 2: stif3872 (€17.69 in chips)
+Seat 3: noarones (€12.43 in chips)
+Seat 4: SANAZ61 (€9.90 in chips)
+Seat 5: toze78PT (€13.47 in chips)
+Seat 6: Split2902 (€10.97 in chips)
+stif3872: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [8c 3s]
+SANAZ61: folds
+toze78PT: folds
+Split2902: folds
+basurdia: folds
+stif3872: calls €0.05
+noarones: checks
+*** FLOP *** [2h 9h Ks]
+stif3872: checks
+noarones: checks
+*** TURN *** [2h 9h Ks] [6d]
+stif3872: bets €0.19
+noarones: folds
+Uncalled bet (€0.19) returned to stif3872
+stif3872 collected €0.19 from pot
+stif3872: doesn't show hand
+*** SUMMARY ***
+Total pot €0.20 | Rake €0.01
+Board [2h 9h Ks 6d]
+Seat 1: basurdia (button) folded before Flop (didn't bet)
+Seat 2: stif3872 (small blind) collected (€0.19)
+Seat 3: noarones (big blind) folded on the Turn
+Seat 4: SANAZ61 folded before Flop (didn't bet)
+Seat 5: toze78PT folded before Flop (didn't bet)
+Seat 6: Split2902 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442452451:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:19:20 CET [2025/08/22 12:19:20 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: basurdia (€10.15 in chips)
+Seat 2: noarones (€10.11 in chips)
+Seat 3: ggalego (€15.21 in chips)
+Seat 4: 00789 (€14.17 in chips)
+Seat 5: Las Vegas768 (€7.99 in chips)
+Seat 6: CrujeNueces (€5.15 in chips)
+noarones: posts small blind €0.05
+ggalego: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [3s Td]
+00789: folds
+Las Vegas768: raises €0.10 to €0.20
+CrujeNueces: folds
+basurdia: folds
+noarones: folds
+ggalego: raises €0.55 to €0.75
+Las Vegas768: folds
+Uncalled bet (€0.55) returned to ggalego
+ggalego collected €0.45 from pot
+ggalego: doesn't show hand
+*** SUMMARY ***
+Total pot €0.45 | Rake €0
+Seat 1: basurdia (button) folded before Flop (didn't bet)
+Seat 2: noarones (small blind) folded before Flop
+Seat 3: ggalego (big blind) collected (€0.45)
+Seat 4: 00789 folded before Flop (didn't bet)
+Seat 5: Las Vegas768 folded before Flop
+Seat 6: CrujeNueces folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442455414:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:19:36 CET [2025/08/22 12:19:36 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: GodZillus (€17.25 in chips)
+Seat 2: PUMAAA132 (€7.61 in chips)
+Seat 3: noarones (€10.06 in chips)
+Seat 4: el cordoba6 (€23.72 in chips)
+Seat 5: BoGosss92 (€10.20 in chips)
+Seat 6: kayser005 (€16.76 in chips)
+PUMAAA132: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Kh Ac]
+el cordoba6: folds
+BoGosss92: folds
+kayser005: folds
+GodZillus: folds
+PUMAAA132: raises €0.20 to €0.30
+noarones: raises €3.05 to €3.35
+PUMAAA132: folds
+Uncalled bet (€3.05) returned to noarones
+noarones collected €0.60 from pot
+noarones: doesn't show hand
+*** SUMMARY ***
+Total pot €0.60 | Rake €0
+Seat 1: GodZillus (button) folded before Flop (didn't bet)
+Seat 2: PUMAAA132 (small blind) folded before Flop
+Seat 3: noarones (big blind) collected (€0.60)
+Seat 4: el cordoba6 folded before Flop (didn't bet)
+Seat 5: BoGosss92 folded before Flop (didn't bet)
+Seat 6: kayser005 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442455659:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:19:37 CET [2025/08/22 12:19:37 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: OG Poker7 (€10 in chips)
+Seat 2: ma6as (€12.52 in chips)
+Seat 3: SANAZ61 (€9.25 in chips)
+Seat 4: noarones (€12.33 in chips)
+Seat 5: Split2902 (€13.18 in chips)
+Seat 6: BPinto96 (€15.31 in chips)
+ma6as: posts small blind €0.05
+SANAZ61: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [7c 9s]
+noarones: folds
+Split2902: raises €0.15 to €0.25
+BPinto96: folds
+OG Poker7: folds
+ma6as: folds
+SANAZ61: folds
+Uncalled bet (€0.15) returned to Split2902
+Split2902 collected €0.25 from pot
+Split2902: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: OG Poker7 (button) folded before Flop (didn't bet)
+Seat 2: ma6as (small blind) folded before Flop
+Seat 3: SANAZ61 (big blind) folded before Flop
+Seat 4: noarones folded before Flop (didn't bet)
+Seat 5: Split2902 collected (€0.25)
+Seat 6: BPinto96 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442455833:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:19:38 CET [2025/08/22 12:19:38 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: RasmunsenDios (€15.46 in chips)
+Seat 2: NCabral_SCP (€3.79 in chips)
+Seat 3: eer_miguee (€10.10 in chips)
+Seat 4: pomkuitfromhell (€10 in chips)
+Seat 5: TIMBRERO (€6.07 in chips)
+Seat 6: noarones (€9.65 in chips)
+NCabral_SCP: posts small blind €0.05
+eer_miguee: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [5c 4s]
+pomkuitfromhell: folds
+TIMBRERO: raises €0.20 to €0.30
+noarones: folds
+RasmunsenDios: calls €0.30
+NCabral_SCP: folds
+eer_miguee: folds
+*** FLOP *** [7d 2d Ks]
+TIMBRERO: bets €0.30
+RasmunsenDios: calls €0.30
+*** TURN *** [7d 2d Ks] [8h]
+TIMBRERO: bets €0.50
+RasmunsenDios: folds
+Uncalled bet (€0.50) returned to TIMBRERO
+TIMBRERO collected €1.28 from pot
+TIMBRERO: doesn't show hand
+*** SUMMARY ***
+Total pot €1.35 | Rake €0.07
+Board [7d 2d Ks 8h]
+Seat 1: RasmunsenDios (button) folded on the Turn
+Seat 2: NCabral_SCP (small blind) folded before Flop
+Seat 3: eer_miguee (big blind) folded before Flop
+Seat 4: pomkuitfromhell folded before Flop (didn't bet)
+Seat 5: TIMBRERO collected (€1.28)
+Seat 6: noarones folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442455968:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:19:39 CET [2025/08/22 12:19:39 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: ElPudao (€9.36 in chips)
+Seat 2: ma6as (€10.99 in chips)
+Seat 3: noarones (€12.29 in chips)
+Seat 4: Las Vegas768 (€11.33 in chips)
+Seat 5: BPinto96 (€15.03 in chips)
+Seat 6: abuecam (€10.05 in chips)
+ma6as: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [7d 6s]
+Las Vegas768: folds
+BPinto96: folds
+abuecam: raises €0.13 to €0.23
+ElPudao: calls €0.23
+ma6as: calls €0.18
+noarones: folds
+*** FLOP *** [4d Qh 4c]
+ma6as: checks
+abuecam: checks
+ElPudao: checks
+*** TURN *** [4d Qh 4c] [Tc]
+ma6as: checks
+abuecam: bets €0.38
+ElPudao: folds
+ma6as: folds
+Uncalled bet (€0.38) returned to abuecam
+abuecam collected €0.75 from pot
+abuecam: doesn't show hand
+*** SUMMARY ***
+Total pot €0.79 | Rake €0.04
+Board [4d Qh 4c Tc]
+Seat 1: ElPudao (button) folded on the Turn
+Seat 2: ma6as (small blind) folded on the Turn
+Seat 3: noarones (big blind) folded before Flop
+Seat 4: Las Vegas768 folded before Flop (didn't bet)
+Seat 5: BPinto96 folded before Flop (didn't bet)
+Seat 6: abuecam collected (€0.75)
+
+
+PokerStars Zoom Hand #257442456328:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:19:41 CET [2025/08/22 12:19:41 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: comm1_86 (€7.99 in chips)
+Seat 2: LuisCesarQB (€20.30 in chips)
+Seat 3: ggalego (€9.44 in chips)
+Seat 4: carco82 (€10.68 in chips)
+Seat 5: noarones (€10 in chips)
+Seat 6: toze78PT (€13.52 in chips)
+LuisCesarQB: posts small blind €0.05
+ggalego: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [2s 5h]
+carco82: folds
+noarones: folds
+toze78PT: folds
+comm1_86: folds
+LuisCesarQB: folds
+Uncalled bet (€0.05) returned to ggalego
+ggalego collected €0.10 from pot
+ggalego: doesn't show hand
+*** SUMMARY ***
+Total pot €0.10 | Rake €0
+Seat 1: comm1_86 (button) folded before Flop (didn't bet)
+Seat 2: LuisCesarQB (small blind) folded before Flop
+Seat 3: ggalego (big blind) collected (€0.10)
+Seat 4: carco82 folded before Flop (didn't bet)
+Seat 5: noarones folded before Flop (didn't bet)
+Seat 6: toze78PT folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442456472:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:19:42 CET [2025/08/22 12:19:42 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€12.33 in chips)
+Seat 2: BoGosss92 (€10.20 in chips)
+Seat 3: Las Vegas768 (€7.79 in chips)
+Seat 4: LuisCesarQB (€18.62 in chips)
+Seat 5: ma6as (€12.47 in chips)
+Seat 6: NCabral_SCP (€3.74 in chips)
+BoGosss92: posts small blind €0.05
+Las Vegas768: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [7d Th]
+LuisCesarQB: folds
+ma6as: raises €0.15 to €0.25
+NCabral_SCP: folds
+noarones: folds
+BoGosss92: folds
+Las Vegas768: folds
+Uncalled bet (€0.15) returned to ma6as
+ma6as collected €0.25 from pot
+ma6as: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: noarones (button) folded before Flop (didn't bet)
+Seat 2: BoGosss92 (small blind) folded before Flop
+Seat 3: Las Vegas768 (big blind) folded before Flop
+Seat 4: LuisCesarQB folded before Flop (didn't bet)
+Seat 5: ma6as collected (€0.25)
+Seat 6: NCabral_SCP folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442457930:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:19:50 CET [2025/08/22 12:19:50 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: 00789 (€11.26 in chips)
+Seat 2: LuisCesarQB (€38.98 in chips)
+Seat 3: noarones (€10 in chips)
+Seat 4: ggalego (€15.46 in chips)
+Seat 5: Split2902 (€10 in chips)
+Seat 6: eer_miguee (€10 in chips)
+LuisCesarQB: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Tc 5c]
+ggalego: folds
+Split2902: folds
+eer_miguee: folds
+00789: raises €0.15 to €0.25
+LuisCesarQB: folds
+noarones: calls €0.15
+*** FLOP *** [6d 4h Ah]
+noarones: checks
+00789: bets €0.17
+noarones: folds
+Uncalled bet (€0.17) returned to 00789
+00789 collected €0.52 from pot
+00789: doesn't show hand
+*** SUMMARY ***
+Total pot €0.55 | Rake €0.03
+Board [6d 4h Ah]
+Seat 1: 00789 (button) collected (€0.52)
+Seat 2: LuisCesarQB (small blind) folded before Flop
+Seat 3: noarones (big blind) folded on the Flop
+Seat 4: ggalego folded before Flop (didn't bet)
+Seat 5: Split2902 folded before Flop (didn't bet)
+Seat 6: eer_miguee folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442459069:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:19:56 CET [2025/08/22 12:19:56 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Benjam3232 (€11.99 in chips)
+Seat 2: pomkuitfromhell (€10.05 in chips)
+Seat 3: kastor59 (€8.36 in chips)
+Seat 4: noarones (€12.19 in chips)
+Seat 5: 00789 (€14.22 in chips)
+Seat 6: TrasHeap (€11.08 in chips)
+pomkuitfromhell: posts small blind €0.05
+kastor59: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [9d Ks]
+noarones: folds
+00789: folds
+TrasHeap: folds
+Benjam3232 has timed out
+Benjam3232: folds
+pomkuitfromhell: folds
+Uncalled bet (€0.05) returned to kastor59
+kastor59 collected €0.10 from pot
+kastor59: doesn't show hand
+*** SUMMARY ***
+Total pot €0.10 | Rake €0
+Seat 1: Benjam3232 (button) folded before Flop (didn't bet)
+Seat 2: pomkuitfromhell (small blind) folded before Flop
+Seat 3: kastor59 (big blind) collected (€0.10)
+Seat 4: noarones folded before Flop (didn't bet)
+Seat 5: 00789 folded before Flop (didn't bet)
+Seat 6: TrasHeap folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442459158:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:19:57 CET [2025/08/22 12:19:57 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: 1eliasnaiara (€100.11 in chips)
+Seat 2: pomkuitfromhell (€10.24 in chips)
+Seat 3: OG Poker7 (€10.79 in chips)
+Seat 4: LuisCesarQB (€20.25 in chips)
+Seat 5: noarones (€12.33 in chips)
+Seat 6: el michi46 (€11.53 in chips)
+pomkuitfromhell: posts small blind €0.05
+OG Poker7: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [3h Ts]
+LuisCesarQB: folds
+noarones: folds
+el michi46: raises €0.20 to €0.30
+1eliasnaiara: folds
+pomkuitfromhell: folds
+OG Poker7: calls €0.20
+*** FLOP *** [7s Qh 6s]
+OG Poker7: checks
+el michi46: bets €0.31
+OG Poker7: calls €0.31
+*** TURN *** [7s Qh 6s] [Jh]
+OG Poker7: checks
+el michi46: checks
+*** RIVER *** [7s Qh 6s Jh] [2s]
+OG Poker7: checks
+el michi46: checks
+*** SHOW DOWN ***
+OG Poker7: shows [Qs 9h] (a pair of Queens)
+el michi46: mucks hand
+OG Poker7 collected €1.21 from pot
+*** SUMMARY ***
+Total pot €1.27 | Rake €0.06
+Board [7s Qh 6s Jh 2s]
+Seat 1: 1eliasnaiara (button) folded before Flop (didn't bet)
+Seat 2: pomkuitfromhell (small blind) folded before Flop
+Seat 3: OG Poker7 (big blind) showed [Qs 9h] and won (€1.21) with a pair of Queens
+Seat 4: LuisCesarQB folded before Flop (didn't bet)
+Seat 5: noarones folded before Flop (didn't bet)
+Seat 6: el michi46 mucked [Ac Js]
+
+
+PokerStars Zoom Hand #257442459457:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:19:58 CET [2025/08/22 12:19:58 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€10.36 in chips)
+Seat 2: GodZillus (€17.99 in chips)
+Seat 3: eer_miguee (€17.55 in chips)
+Seat 4: BPinto96 (€15.31 in chips)
+Seat 5: basurdia (€10 in chips)
+Seat 6: SlakA22 (€10 in chips)
+GodZillus: posts small blind €0.05
+eer_miguee: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [9c Jd]
+BPinto96: folds
+basurdia: folds
+SlakA22: folds
+noarones: raises €0.10 to €0.20
+GodZillus: folds
+eer_miguee: folds
+Uncalled bet (€0.10) returned to noarones
+noarones collected €0.25 from pot
+noarones: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: noarones (button) collected (€0.25)
+Seat 2: GodZillus (small blind) folded before Flop
+Seat 3: eer_miguee (big blind) folded before Flop
+Seat 4: BPinto96 folded before Flop (didn't bet)
+Seat 5: basurdia folded before Flop (didn't bet)
+Seat 6: SlakA22 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442459827:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:20:00 CET [2025/08/22 12:20:00 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: harrychoo (€3.13 in chips)
+Seat 2: SANAZ61 (€9.15 in chips)
+Seat 3: Las Vegas768 (€11.33 in chips)
+Seat 4: BoGosss92 (€10.15 in chips)
+Seat 5: noarones (€12.19 in chips)
+Seat 6: ggalego (€9.44 in chips)
+SANAZ61: posts small blind €0.05
+Las Vegas768: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Qs 9c]
+BoGosss92: folds
+noarones: folds
+ggalego: folds
+harrychoo: folds
+SANAZ61: raises €0.20 to €0.30
+Las Vegas768: folds
+Uncalled bet (€0.20) returned to SANAZ61
+SANAZ61 collected €0.20 from pot
+SANAZ61: doesn't show hand
+*** SUMMARY ***
+Total pot €0.20 | Rake €0
+Seat 1: harrychoo (button) folded before Flop (didn't bet)
+Seat 2: SANAZ61 (small blind) collected (€0.20)
+Seat 3: Las Vegas768 (big blind) folded before Flop
+Seat 4: BoGosss92 folded before Flop (didn't bet)
+Seat 5: noarones folded before Flop (didn't bet)
+Seat 6: ggalego folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442460334:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:20:03 CET [2025/08/22 12:20:03 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: kayser005 (€16.71 in chips)
+Seat 2: Split2902 (€10 in chips)
+Seat 3: PUMAAA132 (€7.31 in chips)
+Seat 4: noarones (€12.19 in chips)
+Seat 5: pomkuitfromhell (€10.19 in chips)
+Seat 6: el cordoba6 (€23.62 in chips)
+Split2902: posts small blind €0.05
+PUMAAA132: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Qc 3h]
+noarones: folds
+pomkuitfromhell: folds
+el cordoba6: folds
+kayser005: raises €0.20 to €0.30
+Split2902: folds
+PUMAAA132: folds
+Uncalled bet (€0.20) returned to kayser005
+kayser005 collected €0.25 from pot
+kayser005: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: kayser005 (button) collected (€0.25)
+Seat 2: Split2902 (small blind) folded before Flop
+Seat 3: PUMAAA132 (big blind) folded before Flop
+Seat 4: noarones folded before Flop (didn't bet)
+Seat 5: pomkuitfromhell folded before Flop (didn't bet)
+Seat 6: el cordoba6 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442460426:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:20:04 CET [2025/08/22 12:20:04 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: basurdia (€10 in chips)
+Seat 2: PUMAAA132 (€13.48 in chips)
+Seat 3: inthemox (€10.77 in chips)
+Seat 4: noarones (€12.33 in chips)
+Seat 5: GodZillus (€17.30 in chips)
+Seat 6: luckyluke208 (€29.29 in chips)
+PUMAAA132: posts small blind €0.05
+inthemox: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [6d 7s]
+noarones: folds
+GodZillus: raises €0.20 to €0.30
+luckyluke208: folds
+basurdia: folds
+PUMAAA132: folds
+inthemox: calls €0.20
+*** FLOP *** [5h 4h Kd]
+inthemox: checks
+GodZillus: bets €0.47
+inthemox: calls €0.47
+*** TURN *** [5h 4h Kd] [Jd]
+inthemox: checks
+GodZillus: bets €1.51
+inthemox: calls €1.51
+*** RIVER *** [5h 4h Kd Jd] [Ad]
+inthemox: checks
+GodZillus: checks
+*** SHOW DOWN ***
+inthemox: shows [Ks Qs] (a pair of Kings)
+GodZillus: shows [Kh Qc] (a pair of Kings)
+inthemox collected €2.19 from pot
+GodZillus collected €2.19 from pot
+*** SUMMARY ***
+Total pot €4.61 | Rake €0.23
+Board [5h 4h Kd Jd Ad]
+Seat 1: basurdia (button) folded before Flop (didn't bet)
+Seat 2: PUMAAA132 (small blind) folded before Flop
+Seat 3: inthemox (big blind) showed [Ks Qs] and won (€2.19) with a pair of Kings
+Seat 4: noarones folded before Flop (didn't bet)
+Seat 5: GodZillus showed [Kh Qc] and won (€2.19) with a pair of Kings
+Seat 6: luckyluke208 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442461062:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:20:07 CET [2025/08/22 12:20:07 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: NAlexandru22 (€13.44 in chips)
+Seat 2: grenha1972 (€11.47 in chips)
+Seat 3: noarones (€12.33 in chips)
+Seat 4: BoGosss92 (€10.03 in chips)
+Seat 5: el cordoba6 (€23.62 in chips)
+Seat 6: pomkuitfromhell (€10.19 in chips)
+grenha1972: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [6h Td]
+BoGosss92: folds
+el cordoba6: raises €0.20 to €0.30
+pomkuitfromhell: folds
+NAlexandru22: folds
+grenha1972: folds
+noarones: folds
+Uncalled bet (€0.20) returned to el cordoba6
+el cordoba6 collected €0.25 from pot
+el cordoba6: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: NAlexandru22 (button) folded before Flop (didn't bet)
+Seat 2: grenha1972 (small blind) folded before Flop
+Seat 3: noarones (big blind) folded before Flop
+Seat 4: BoGosss92 folded before Flop (didn't bet)
+Seat 5: el cordoba6 collected (€0.25)
+Seat 6: pomkuitfromhell folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442461177:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:20:08 CET [2025/08/22 12:20:08 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: fredich13012 (€4.85 in chips)
+Seat 2: noarones (€12.19 in chips)
+Seat 3: harrychoo (€3.13 in chips)
+Seat 4: basurdia (€15.06 in chips)
+Seat 5: Polandrus (€10.27 in chips)
+Seat 6: toun29 (€8.45 in chips)
+noarones: posts small blind €0.05
+harrychoo: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Qc 5d]
+basurdia: folds
+Polandrus: folds
+toun29: folds
+fredich13012: calls €0.10
+noarones: folds
+harrychoo: checks
+*** FLOP *** [4d Th 2s]
+harrychoo: checks
+fredich13012: bets €0.10
+harrychoo: calls €0.10
+*** TURN *** [4d Th 2s] [3c]
+harrychoo: checks
+fredich13012: bets €0.43
+harrychoo: calls €0.43
+*** RIVER *** [4d Th 2s 3c] [3s]
+harrychoo: checks
+fredich13012: bets €1.24
+harrychoo: calls €1.24
+*** SHOW DOWN ***
+fredich13012: shows [2d 2h] (a full house, Deuces full of Threes)
+harrychoo: mucks hand
+fredich13012 collected €3.60 from pot
+*** SUMMARY ***
+Total pot €3.79 | Rake €0.19
+Board [4d Th 2s 3c 3s]
+Seat 1: fredich13012 (button) showed [2d 2h] and won (€3.60) with a full house, Deuces full of Threes
+Seat 2: noarones (small blind) folded before Flop
+Seat 3: harrychoo (big blind) mucked [Td 7c]
+Seat 4: basurdia folded before Flop (didn't bet)
+Seat 5: Polandrus folded before Flop (didn't bet)
+Seat 6: toun29 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442461834:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:20:11 CET [2025/08/22 12:20:11 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: TrasHeap (€11.08 in chips)
+Seat 2: noarones (€9.75 in chips)
+Seat 3: carco82 (€10.45 in chips)
+Seat 4: RasmunsenDios (€14.86 in chips)
+Seat 5: ggalego (€9.44 in chips)
+Seat 6: GodZillus (€11.87 in chips)
+noarones: posts small blind €0.05
+carco82: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Jc 8c]
+RasmunsenDios: folds
+ggalego: folds
+GodZillus: folds
+TrasHeap: folds
+noarones: raises €0.15 to €0.25
+carco82: folds
+Uncalled bet (€0.15) returned to noarones
+noarones collected €0.20 from pot
+noarones: doesn't show hand
+*** SUMMARY ***
+Total pot €0.20 | Rake €0
+Seat 1: TrasHeap (button) folded before Flop (didn't bet)
+Seat 2: noarones (small blind) collected (€0.20)
+Seat 3: carco82 (big blind) folded before Flop
+Seat 4: RasmunsenDios folded before Flop (didn't bet)
+Seat 5: ggalego folded before Flop (didn't bet)
+Seat 6: GodZillus folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442462211:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:20:13 CET [2025/08/22 12:20:13 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: 00789 (€14.33 in chips)
+Seat 2: sisi_penekes (€8.04 in chips)
+Seat 3: grenha1972 (€4.69 in chips)
+Seat 4: RJSilva30 (€10.90 in chips)
+Seat 5: noarones (€12.14 in chips)
+Seat 6: carco82 (€10 in chips)
+sisi_penekes: posts small blind €0.05
+grenha1972: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [5c 7h]
+RJSilva30 has timed out
+RJSilva30: folds
+noarones: folds
+carco82: folds
+00789: folds
+sisi_penekes: folds
+Uncalled bet (€0.05) returned to grenha1972
+grenha1972 collected €0.10 from pot
+grenha1972: doesn't show hand
+*** SUMMARY ***
+Total pot €0.10 | Rake €0
+Seat 1: 00789 (button) folded before Flop (didn't bet)
+Seat 2: sisi_penekes (small blind) folded before Flop
+Seat 3: grenha1972 (big blind) collected (€0.10)
+Seat 4: RJSilva30 folded before Flop (didn't bet)
+Seat 5: noarones folded before Flop (didn't bet)
+Seat 6: carco82 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442462376:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:20:14 CET [2025/08/22 12:20:14 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: LuisCesarQB (€38.93 in chips)
+Seat 2: toun29 (€8.45 in chips)
+Seat 3: Esquiruelo (€21.28 in chips)
+Seat 4: noarones (€10.51 in chips)
+Seat 5: BPinto96 (€15.03 in chips)
+Seat 6: pomkuitfromhell (€10.15 in chips)
+toun29: posts small blind €0.05
+Esquiruelo: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [2d Kd]
+noarones: raises €0.15 to €0.25
+BPinto96: folds
+pomkuitfromhell: folds
+LuisCesarQB: folds
+toun29: calls €0.20
+Esquiruelo: raises €1.10 to €1.35
+noarones: folds
+toun29: calls €1.10
+*** FLOP *** [Qh 5c 7d]
+toun29: checks
+Esquiruelo: bets €0.84
+toun29: calls €0.84
+*** TURN *** [Qh 5c 7d] [Qs]
+toun29: checks
+Esquiruelo: bets €1.32
+toun29: raises €1.32 to €2.64
+Esquiruelo: folds
+Uncalled bet (€1.32) returned to toun29
+toun29 collected €6.91 from pot
+toun29: doesn't show hand
+*** SUMMARY ***
+Total pot €7.27 | Rake €0.36
+Board [Qh 5c 7d Qs]
+Seat 1: LuisCesarQB (button) folded before Flop (didn't bet)
+Seat 2: toun29 (small blind) collected (€6.91)
+Seat 3: Esquiruelo (big blind) folded on the Turn
+Seat 4: noarones folded before Flop
+Seat 5: BPinto96 folded before Flop (didn't bet)
+Seat 6: pomkuitfromhell folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442463135:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:20:18 CET [2025/08/22 12:20:18 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€12.14 in chips)
+Seat 2: Las Vegas768 (€11.23 in chips)
+Seat 3: ggalego (€15.46 in chips)
+Seat 4: 1eliasnaiara (€54.60 in chips)
+Seat 5: TrasHeap (€11.08 in chips)
+Seat 6: NAlexandru22 (€13.39 in chips)
+Las Vegas768: posts small blind €0.05
+ggalego: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Ts Jh]
+1eliasnaiara: raises €0.10 to €0.20
+TrasHeap: folds
+NAlexandru22: folds
+noarones: folds
+Las Vegas768: raises €0.90 to €1.10
+ggalego: folds
+1eliasnaiara: calls €0.90
+*** FLOP *** [2s 9h Js]
+Las Vegas768: bets €1.78
+1eliasnaiara: folds
+Uncalled bet (€1.78) returned to Las Vegas768
+Las Vegas768 collected €2.18 from pot
+Las Vegas768: doesn't show hand
+*** SUMMARY ***
+Total pot €2.30 | Rake €0.12
+Board [2s 9h Js]
+Seat 1: noarones (button) folded before Flop (didn't bet)
+Seat 2: Las Vegas768 (small blind) collected (€2.18)
+Seat 3: ggalego (big blind) folded before Flop
+Seat 4: 1eliasnaiara folded on the Flop
+Seat 5: TrasHeap folded before Flop (didn't bet)
+Seat 6: NAlexandru22 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442463576:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:20:20 CET [2025/08/22 12:20:20 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: SANAZ61 (€9.25 in chips)
+Seat 2: noarones (€12.23 in chips)
+Seat 3: Galiler (€11.28 in chips)
+Seat 4: pomkuitfromhell (€10.15 in chips)
+Seat 5: stif3872 (€18.17 in chips)
+Seat 6: Split2902 (€16.56 in chips)
+noarones: posts small blind €0.05
+Galiler: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Ah 3c]
+pomkuitfromhell: folds
+stif3872: folds
+Split2902: folds
+SANAZ61: folds
+noarones: raises €0.10 to €0.20
+Galiler: calls €0.10
+*** FLOP *** [9c 3s Jc]
+noarones: checks
+Galiler: bets €0.19
+noarones: raises €0.71 to €0.90
+Galiler: calls €0.71
+*** TURN *** [9c 3s Jc] [Ks]
+noarones: checks
+Galiler: checks
+*** RIVER *** [9c 3s Jc Ks] [4s]
+noarones: checks
+Galiler: checks
+*** SHOW DOWN ***
+noarones: shows [Ah 3c] (a pair of Threes)
+Galiler: shows [9s 7d] (a pair of Nines)
+Galiler collected €2.09 from pot
+*** SUMMARY ***
+Total pot €2.20 | Rake €0.11
+Board [9c 3s Jc Ks 4s]
+Seat 1: SANAZ61 (button) folded before Flop (didn't bet)
+Seat 2: noarones (small blind) showed [Ah 3c] and lost with a pair of Threes
+Seat 3: Galiler (big blind) showed [9s 7d] and won (€2.09) with a pair of Nines
+Seat 4: pomkuitfromhell folded before Flop (didn't bet)
+Seat 5: stif3872 folded before Flop (didn't bet)
+Seat 6: Split2902 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442464296:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:20:24 CET [2025/08/22 12:20:24 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: alexzh66 (€11.79 in chips)
+Seat 2: ggalego (€15.36 in chips)
+Seat 3: pomkuitfromhell (€10.15 in chips)
+Seat 4: abuecam (€10 in chips)
+Seat 5: kastor59 (€7.06 in chips)
+Seat 6: noarones (€12.14 in chips)
+ggalego: posts small blind €0.05
+pomkuitfromhell: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [4s Kh]
+abuecam: folds
+kastor59: raises €0.10 to €0.20
+noarones: folds
+alexzh66: folds
+ggalego: folds
+pomkuitfromhell: folds
+Uncalled bet (€0.10) returned to kastor59
+kastor59 collected €0.25 from pot
+kastor59: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: alexzh66 (button) folded before Flop (didn't bet)
+Seat 2: ggalego (small blind) folded before Flop
+Seat 3: pomkuitfromhell (big blind) folded before Flop
+Seat 4: abuecam folded before Flop (didn't bet)
+Seat 5: kastor59 collected (€0.25)
+Seat 6: noarones folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442464847:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:20:27 CET [2025/08/22 12:20:27 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: OG Poker7 (€10 in chips)
+Seat 2: eer_miguee (€17.45 in chips)
+Seat 3: noarones (€12.14 in chips)
+Seat 4: FLOW4422646 (€2.71 in chips)
+Seat 5: NCabral_SCP (€4.05 in chips)
+Seat 6: luckyluke208 (€29.24 in chips)
+eer_miguee: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [6c Ks]
+FLOW4422646: raises €0.40 to €0.50
+NCabral_SCP: folds
+luckyluke208: folds
+OG Poker7: folds
+eer_miguee: folds
+noarones: folds
+Uncalled bet (€0.40) returned to FLOW4422646
+FLOW4422646 collected €0.25 from pot
+FLOW4422646: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: OG Poker7 (button) folded before Flop (didn't bet)
+Seat 2: eer_miguee (small blind) folded before Flop
+Seat 3: noarones (big blind) folded before Flop
+Seat 4: FLOW4422646 collected (€0.25)
+Seat 5: NCabral_SCP folded before Flop (didn't bet)
+Seat 6: luckyluke208 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442466221:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:20:35 CET [2025/08/22 12:20:35 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: OG Poker7 (€16.70 in chips)
+Seat 2: pomkuitfromhell (€10.05 in chips)
+Seat 3: GodZillus (€11.82 in chips)
+Seat 4: canbas0228 (€9.23 in chips)
+Seat 5: LuisCesarQB (€18.62 in chips)
+Seat 6: noarones (€9.85 in chips)
+pomkuitfromhell: posts small blind €0.05
+GodZillus: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Kh 9h]
+canbas0228: folds
+LuisCesarQB: folds
+noarones: raises €0.15 to €0.25
+OG Poker7: folds
+pomkuitfromhell: folds
+GodZillus: folds
+Uncalled bet (€0.15) returned to noarones
+noarones collected €0.25 from pot
+noarones: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: OG Poker7 (button) folded before Flop (didn't bet)
+Seat 2: pomkuitfromhell (small blind) folded before Flop
+Seat 3: GodZillus (big blind) folded before Flop
+Seat 4: canbas0228 folded before Flop (didn't bet)
+Seat 5: LuisCesarQB folded before Flop (didn't bet)
+Seat 6: noarones collected (€0.25)
+
+
+PokerStars Zoom Hand #257442466296:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:20:35 CET [2025/08/22 12:20:35 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: ggalego (€15.31 in chips)
+Seat 2: PUMAAA132 (€7.21 in chips)
+Seat 3: TIMBRERO (€6.70 in chips)
+Seat 4: toze78PT (€17.02 in chips)
+Seat 5: BoGosss92 (€10.10 in chips)
+Seat 6: noarones (€10.26 in chips)
+PUMAAA132: posts small blind €0.05
+TIMBRERO: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [4d 2s]
+toze78PT: folds
+BoGosss92: folds
+noarones: folds
+ggalego: folds
+PUMAAA132: raises €0.20 to €0.30
+TIMBRERO: calls €0.20
+*** FLOP *** [6d Tc 7s]
+PUMAAA132: checks
+TIMBRERO: bets €0.30
+PUMAAA132: calls €0.30
+*** TURN *** [6d Tc 7s] [2c]
+PUMAAA132: checks
+TIMBRERO: checks
+*** RIVER *** [6d Tc 7s 2c] [Jd]
+PUMAAA132: checks
+TIMBRERO: checks
+*** SHOW DOWN ***
+PUMAAA132: shows [Ah 7c] (a pair of Sevens)
+TIMBRERO: mucks hand
+PUMAAA132 collected €1.14 from pot
+*** SUMMARY ***
+Total pot €1.20 | Rake €0.06
+Board [6d Tc 7s 2c Jd]
+Seat 1: ggalego (button) folded before Flop (didn't bet)
+Seat 2: PUMAAA132 (small blind) showed [Ah 7c] and won (€1.14) with a pair of Sevens
+Seat 3: TIMBRERO (big blind) mucked [4h 4c]
+Seat 4: toze78PT folded before Flop (didn't bet)
+Seat 5: BoGosss92 folded before Flop (didn't bet)
+Seat 6: noarones folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442467451:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:20:41 CET [2025/08/22 12:20:41 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pomkuitfromhell (€10 in chips)
+Seat 2: BPinto96 (€10.33 in chips)
+Seat 3: aprendiz1976 (€12.93 in chips)
+Seat 4: noarones (€12.04 in chips)
+Seat 5: Las Vegas768 (€12.31 in chips)
+Seat 6: basurdia (€10.54 in chips)
+BPinto96: posts small blind €0.05
+aprendiz1976: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [8h 7d]
+noarones: folds
+Las Vegas768: folds
+basurdia: raises €0.20 to €0.30
+pomkuitfromhell: raises €0.60 to €0.90
+BPinto96: folds
+aprendiz1976: folds
+basurdia: calls €0.60
+*** FLOP *** [Kd 8c Kc]
+basurdia: checks
+pomkuitfromhell: bets €0.61
+basurdia: folds
+Uncalled bet (€0.61) returned to pomkuitfromhell
+pomkuitfromhell collected €1.85 from pot
+pomkuitfromhell: doesn't show hand
+*** SUMMARY ***
+Total pot €1.95 | Rake €0.10
+Board [Kd 8c Kc]
+Seat 1: pomkuitfromhell (button) collected (€1.85)
+Seat 2: BPinto96 (small blind) folded before Flop
+Seat 3: aprendiz1976 (big blind) folded before Flop
+Seat 4: noarones folded before Flop (didn't bet)
+Seat 5: Las Vegas768 folded before Flop (didn't bet)
+Seat 6: basurdia folded on the Flop
+
+
+PokerStars Zoom Hand #257442468144:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:20:45 CET [2025/08/22 12:20:45 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€10 in chips)
+Seat 2: LuisCesarQB (€34.66 in chips)
+Seat 3: CrujeNueces (€5 in chips)
+Seat 4: 00789 (€15.11 in chips)
+Seat 5: Esquiruelo (€11.38 in chips)
+Seat 6: inthemox (€10.63 in chips)
+LuisCesarQB: posts small blind €0.05
+CrujeNueces: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Td 3s]
+00789: raises €0.15 to €0.25
+Esquiruelo: folds
+inthemox: folds
+noarones: folds
+LuisCesarQB: folds
+CrujeNueces: folds
+Uncalled bet (€0.15) returned to 00789
+00789 collected €0.25 from pot
+00789: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: noarones (button) folded before Flop (didn't bet)
+Seat 2: LuisCesarQB (small blind) folded before Flop
+Seat 3: CrujeNueces (big blind) folded before Flop
+Seat 4: 00789 collected (€0.25)
+Seat 5: Esquiruelo folded before Flop (didn't bet)
+Seat 6: inthemox folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442468405:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:20:46 CET [2025/08/22 12:20:46 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: GodZillus (€17.16 in chips)
+Seat 2: Las Vegas768 (€7.49 in chips)
+Seat 3: BPinto96 (€24.06 in chips)
+Seat 4: noarones (€10.26 in chips)
+Seat 5: grenha1972 (€11.74 in chips)
+Seat 6: RJSilva30 (€10.85 in chips)
+Las Vegas768: posts small blind €0.05
+BPinto96: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [9h 2d]
+noarones: folds
+grenha1972: calls €0.10
+RJSilva30: folds
+GodZillus: raises €0.30 to €0.40
+Las Vegas768: folds
+BPinto96: folds
+grenha1972: calls €0.30
+*** FLOP *** [9s 6h 2h]
+grenha1972: checks
+GodZillus: bets €0.30
+grenha1972: calls €0.30
+*** TURN *** [9s 6h 2h] [Jd]
+grenha1972: checks
+GodZillus: bets €1.10
+grenha1972: calls €1.10
+*** RIVER *** [9s 6h 2h Jd] [5h]
+grenha1972: bets €1.07
+GodZillus: calls €1.07
+*** SHOW DOWN ***
+grenha1972: shows [Tc Jh] (a pair of Jacks)
+GodZillus: shows [As Ac] (a pair of Aces)
+GodZillus collected €5.60 from pot
+*** SUMMARY ***
+Total pot €5.89 | Rake €0.29
+Board [9s 6h 2h Jd 5h]
+Seat 1: GodZillus (button) showed [As Ac] and won (€5.60) with a pair of Aces
+Seat 2: Las Vegas768 (small blind) folded before Flop
+Seat 3: BPinto96 (big blind) folded before Flop
+Seat 4: noarones folded before Flop (didn't bet)
+Seat 5: grenha1972 showed [Tc Jh] and lost with a pair of Jacks
+Seat 6: RJSilva30 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442468532:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:20:47 CET [2025/08/22 12:20:47 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: blhek (€9.27 in chips)
+Seat 2: noarones (€12.04 in chips)
+Seat 3: PUMAAA132 (€13.43 in chips)
+Seat 4: OG Poker7 (€10 in chips)
+Seat 5: ma6as (€11.12 in chips)
+Seat 6: *exilrun* (€6.30 in chips)
+noarones: posts small blind €0.05
+PUMAAA132: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [7d 8c]
+OG Poker7: folds
+ma6as: folds
+*exilrun*: folds
+blhek: folds
+noarones: folds
+Uncalled bet (€0.05) returned to PUMAAA132
+PUMAAA132 collected €0.10 from pot
+PUMAAA132: doesn't show hand
+*** SUMMARY ***
+Total pot €0.10 | Rake €0
+Seat 1: blhek (button) folded before Flop (didn't bet)
+Seat 2: noarones (small blind) folded before Flop
+Seat 3: PUMAAA132 (big blind) collected (€0.10)
+Seat 4: OG Poker7 folded before Flop (didn't bet)
+Seat 5: ma6as folded before Flop (didn't bet)
+Seat 6: *exilrun* folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442469168:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:20:51 CET [2025/08/22 12:20:51 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Las Vegas768 (€12.31 in chips)
+Seat 2: alexzh66 (€11.69 in chips)
+Seat 3: BPinto96 (€15.03 in chips)
+Seat 4: kastor59 (€7.16 in chips)
+Seat 5: noarones (€10.26 in chips)
+Seat 6: pope's one (€9.07 in chips)
+alexzh66: posts small blind €0.05
+BPinto96: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Tc 5h]
+kastor59: folds
+noarones: folds
+pope's one: folds
+Las Vegas768: raises €0.10 to €0.20
+alexzh66: folds
+BPinto96: raises €0.70 to €0.90
+Las Vegas768: folds
+Uncalled bet (€0.70) returned to BPinto96
+BPinto96 collected €0.45 from pot
+BPinto96: doesn't show hand
+*** SUMMARY ***
+Total pot €0.45 | Rake €0
+Seat 1: Las Vegas768 (button) folded before Flop
+Seat 2: alexzh66 (small blind) folded before Flop
+Seat 3: BPinto96 (big blind) collected (€0.45)
+Seat 4: kastor59 folded before Flop (didn't bet)
+Seat 5: noarones folded before Flop (didn't bet)
+Seat 6: pope's one folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442469347:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:20:52 CET [2025/08/22 12:20:52 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: canbas0228 (€9.08 in chips)
+Seat 2: GodZillus (€18.24 in chips)
+Seat 3: eer_miguee (€10 in chips)
+Seat 4: ma6as (€11.12 in chips)
+Seat 5: sisi_penekes (€7.84 in chips)
+Seat 6: noarones (€11.99 in chips)
+GodZillus: posts small blind €0.05
+eer_miguee: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [6c 5c]
+ma6as: folds
+sisi_penekes: raises €0.20 to €0.30
+noarones: calls €0.30
+canbas0228: folds
+GodZillus: folds
+eer_miguee: folds
+*** FLOP *** [Ah Kh As]
+sisi_penekes: bets €0.20
+noarones: folds
+Uncalled bet (€0.20) returned to sisi_penekes
+sisi_penekes collected €0.71 from pot
+sisi_penekes: doesn't show hand
+*** SUMMARY ***
+Total pot €0.75 | Rake €0.04
+Board [Ah Kh As]
+Seat 1: canbas0228 (button) folded before Flop (didn't bet)
+Seat 2: GodZillus (small blind) folded before Flop
+Seat 3: eer_miguee (big blind) folded before Flop
+Seat 4: ma6as folded before Flop (didn't bet)
+Seat 5: sisi_penekes collected (€0.71)
+Seat 6: noarones folded on the Flop
+
+
+PokerStars Zoom Hand #257442469514:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:20:52 CET [2025/08/22 12:20:52 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: luckyluke208 (€29.14 in chips)
+Seat 2: FLOW4422646 (€2.86 in chips)
+Seat 3: basurdia (€10.15 in chips)
+Seat 4: Esquiruelo (€11.38 in chips)
+Seat 5: noarones (€10 in chips)
+Seat 6: Polandrus (€10.42 in chips)
+FLOW4422646: posts small blind €0.05
+basurdia: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [8h Kh]
+Esquiruelo: raises €0.12 to €0.22
+noarones: folds
+Polandrus: raises €0.49 to €0.71
+luckyluke208: folds
+FLOW4422646: folds
+basurdia: folds
+Esquiruelo: folds
+Uncalled bet (€0.49) returned to Polandrus
+Polandrus collected €0.59 from pot
+Polandrus: doesn't show hand
+*** SUMMARY ***
+Total pot €0.59 | Rake €0
+Seat 1: luckyluke208 (button) folded before Flop (didn't bet)
+Seat 2: FLOW4422646 (small blind) folded before Flop
+Seat 3: basurdia (big blind) folded before Flop
+Seat 4: Esquiruelo folded before Flop
+Seat 5: noarones folded before Flop (didn't bet)
+Seat 6: Polandrus collected (€0.59)
+
+
+PokerStars Zoom Hand #257442470781:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:21:00 CET [2025/08/22 12:21:00 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: aprendiz1976 (€12.83 in chips)
+Seat 2: HURACATTACK (€10 in chips)
+Seat 3: noarones (€10.26 in chips)
+Seat 4: RJSilva30 (€10.85 in chips)
+Seat 5: 00789 (€14.91 in chips)
+Seat 6: Las Vegas768 (€15.27 in chips)
+HURACATTACK: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [4h Jh]
+RJSilva30: calls €0.10
+00789: folds
+Las Vegas768: folds
+aprendiz1976: calls €0.10
+HURACATTACK: calls €0.05
+noarones: checks
+*** FLOP *** [Kc 9s Js]
+HURACATTACK: checks
+noarones: checks
+RJSilva30: bets €0.38
+aprendiz1976: folds
+HURACATTACK: folds
+noarones: folds
+Uncalled bet (€0.38) returned to RJSilva30
+RJSilva30 collected €0.38 from pot
+RJSilva30: doesn't show hand
+*** SUMMARY ***
+Total pot €0.40 | Rake €0.02
+Board [Kc 9s Js]
+Seat 1: aprendiz1976 (button) folded on the Flop
+Seat 2: HURACATTACK (small blind) folded on the Flop
+Seat 3: noarones (big blind) folded on the Flop
+Seat 4: RJSilva30 collected (€0.38)
+Seat 5: 00789 folded before Flop (didn't bet)
+Seat 6: Las Vegas768 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442471286:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:21:02 CET [2025/08/22 12:21:02 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: JVN_100 (€10 in chips)
+Seat 2: eer_miguee (€10 in chips)
+Seat 3: 00789 (€13.87 in chips)
+Seat 4: noarones (€10 in chips)
+Seat 5: abuecam (€10.15 in chips)
+Seat 6: basurdia (€10 in chips)
+eer_miguee: posts small blind €0.05
+00789: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [5h 8c]
+noarones: folds
+abuecam: folds
+basurdia: raises €0.20 to €0.30
+JVN_100: raises €0.50 to €0.80
+eer_miguee: folds
+00789: folds
+basurdia: calls €0.50
+*** FLOP *** [9d 2h 6s]
+basurdia: checks
+JVN_100: bets €0.55
+basurdia: calls €0.55
+*** TURN *** [9d 2h 6s] [3d]
+basurdia: checks
+JVN_100: bets €1.36
+basurdia: calls €1.36
+*** RIVER *** [9d 2h 6s 3d] [Ah]
+basurdia: checks
+JVN_100: checks
+*** SHOW DOWN ***
+basurdia: shows [7s 7d] (a pair of Sevens)
+JVN_100: shows [Td Ts] (a pair of Tens)
+JVN_100 collected €5.29 from pot
+*** SUMMARY ***
+Total pot €5.57 | Rake €0.28
+Board [9d 2h 6s 3d Ah]
+Seat 1: JVN_100 (button) showed [Td Ts] and won (€5.29) with a pair of Tens
+Seat 2: eer_miguee (small blind) folded before Flop
+Seat 3: 00789 (big blind) folded before Flop
+Seat 4: noarones folded before Flop (didn't bet)
+Seat 5: abuecam folded before Flop (didn't bet)
+Seat 6: basurdia showed [7s 7d] and lost with a pair of Sevens
+
+
+PokerStars Zoom Hand #257442472528:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:21:09 CET [2025/08/22 12:21:09 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: OG Poker7 (€16.70 in chips)
+Seat 2: basurdia (€10 in chips)
+Seat 3: noarones (€10 in chips)
+Seat 4: toun29 (€11.85 in chips)
+Seat 5: PUMAAA132 (€13.43 in chips)
+Seat 6: BoGosss92 (€10 in chips)
+basurdia: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Ah 7s]
+toun29: folds
+PUMAAA132: folds
+BoGosss92: raises €0.10 to €0.20
+OG Poker7: folds
+basurdia: folds
+noarones: folds
+Uncalled bet (€0.10) returned to BoGosss92
+BoGosss92 collected €0.25 from pot
+BoGosss92: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: OG Poker7 (button) folded before Flop (didn't bet)
+Seat 2: basurdia (small blind) folded before Flop
+Seat 3: noarones (big blind) folded before Flop
+Seat 4: toun29 folded before Flop (didn't bet)
+Seat 5: PUMAAA132 folded before Flop (didn't bet)
+Seat 6: BoGosss92 collected (€0.25)
+
+
+PokerStars Zoom Hand #257442473298:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:21:13 CET [2025/08/22 12:21:13 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€11.69 in chips)
+Seat 2: DelaJose04 (€31.80 in chips)
+Seat 3: KIKE EL DIVI (€19.20 in chips)
+Seat 4: Las Vegas768 (€20.31 in chips)
+Seat 5: comm1_86 (€15.22 in chips)
+Seat 6: BPinto96 (€15.31 in chips)
+DelaJose04: posts small blind €0.05
+KIKE EL DIVI: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [9h 2c]
+Las Vegas768: folds
+comm1_86: folds
+BPinto96: folds
+noarones: folds
+DelaJose04: folds
+Uncalled bet (€0.05) returned to KIKE EL DIVI
+KIKE EL DIVI collected €0.10 from pot
+KIKE EL DIVI: doesn't show hand
+*** SUMMARY ***
+Total pot €0.10 | Rake €0
+Seat 1: noarones (button) folded before Flop (didn't bet)
+Seat 2: DelaJose04 (small blind) folded before Flop
+Seat 3: KIKE EL DIVI (big blind) collected (€0.10)
+Seat 4: Las Vegas768 folded before Flop (didn't bet)
+Seat 5: comm1_86 folded before Flop (didn't bet)
+Seat 6: BPinto96 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442475326:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:21:24 CET [2025/08/22 12:21:24 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: eer_miguee (€10 in chips)
+Seat 2: pope's one (€9.12 in chips)
+Seat 3: DelaJose04 (€31.75 in chips)
+Seat 4: PUMAAA132 (€13.43 in chips)
+Seat 5: noarones (€11.69 in chips)
+Seat 6: GodZillus (€19.89 in chips)
+pope's one: posts small blind €0.05
+DelaJose04: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [8s 5h]
+PUMAAA132: folds
+noarones: folds
+GodZillus: raises €0.20 to €0.30
+eer_miguee: folds
+pope's one: folds
+DelaJose04: folds
+Uncalled bet (€0.20) returned to GodZillus
+GodZillus collected €0.25 from pot
+GodZillus: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: eer_miguee (button) folded before Flop (didn't bet)
+Seat 2: pope's one (small blind) folded before Flop
+Seat 3: DelaJose04 (big blind) folded before Flop
+Seat 4: PUMAAA132 folded before Flop (didn't bet)
+Seat 5: noarones folded before Flop (didn't bet)
+Seat 6: GodZillus collected (€0.25)
+
+
+PokerStars Zoom Hand #257442477426:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:21:35 CET [2025/08/22 12:21:35 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: 00789 (€12.13 in chips)
+Seat 2: luckyluke208 (€10 in chips)
+Seat 3: noarones (€11.69 in chips)
+Seat 4: Esquiruelo (€17.72 in chips)
+Seat 5: CrujeNueces (€5 in chips)
+Seat 6: Pedronunesalves (€7.85 in chips)
+luckyluke208: posts small blind €0.05
+noarones: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [9d 2s]
+Esquiruelo: folds
+CrujeNueces: folds
+Pedronunesalves: raises €0.10 to €0.20
+00789: folds
+luckyluke208: raises €0.95 to €1.15
+noarones: folds
+Pedronunesalves: folds
+Uncalled bet (€0.95) returned to luckyluke208
+luckyluke208 collected €0.50 from pot
+luckyluke208: doesn't show hand
+*** SUMMARY ***
+Total pot €0.50 | Rake €0
+Seat 1: 00789 (button) folded before Flop (didn't bet)
+Seat 2: luckyluke208 (small blind) collected (€0.50)
+Seat 3: noarones (big blind) folded before Flop
+Seat 4: Esquiruelo folded before Flop (didn't bet)
+Seat 5: CrujeNueces folded before Flop (didn't bet)
+Seat 6: Pedronunesalves folded before Flop
+
+
+PokerStars Zoom Hand #257442477774:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:21:37 CET [2025/08/22 12:21:37 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pope's one (€9.07 in chips)
+Seat 2: noarones (€10.16 in chips)
+Seat 3: eer_miguee (€17.25 in chips)
+Seat 4: Las Vegas768 (€12.06 in chips)
+Seat 5: 1eliasnaiara (€98.27 in chips)
+Seat 6: pomkuitfromhell (€11.22 in chips)
+noarones: posts small blind €0.05
+eer_miguee: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Ts Qh]
+Las Vegas768: folds
+1eliasnaiara: folds
+pomkuitfromhell: folds
+pope's one: raises €0.15 to €0.25
+noarones: folds
+eer_miguee: folds
+Uncalled bet (€0.15) returned to pope's one
+pope's one collected €0.25 from pot
+pope's one: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: pope's one (button) collected (€0.25)
+Seat 2: noarones (small blind) folded before Flop
+Seat 3: eer_miguee (big blind) folded before Flop
+Seat 4: Las Vegas768 folded before Flop (didn't bet)
+Seat 5: 1eliasnaiara folded before Flop (didn't bet)
+Seat 6: pomkuitfromhell folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442477679:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:21:37 CET [2025/08/22 12:21:37 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: abuecam (€10 in chips)
+Seat 2: noarones (€9.90 in chips)
+Seat 3: dariotd (€7.44 in chips)
+Seat 4: Split2902 (€13.97 in chips)
+Seat 5: GodZillus (€18.24 in chips)
+Seat 6: pomkuitfromhell (€10.95 in chips)
+noarones: posts small blind €0.05
+dariotd: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [7h Jd]
+Split2902: folds
+GodZillus: folds
+pomkuitfromhell: folds
+abuecam: folds
+noarones: folds
+Uncalled bet (€0.05) returned to dariotd
+dariotd collected €0.10 from pot
+dariotd: doesn't show hand
+*** SUMMARY ***
+Total pot €0.10 | Rake €0
+Seat 1: abuecam (button) folded before Flop (didn't bet)
+Seat 2: noarones (small blind) folded before Flop
+Seat 3: dariotd (big blind) collected (€0.10)
+Seat 4: Split2902 folded before Flop (didn't bet)
+Seat 5: GodZillus folded before Flop (didn't bet)
+Seat 6: pomkuitfromhell folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442479135:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:21:45 CET [2025/08/22 12:21:45 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€11.13 in chips)
+Seat 2: Galiler (€12.27 in chips)
+Seat 3: BoGosss92 (€10.15 in chips)
+Seat 4: 1eliasnaiara (€53.60 in chips)
+Seat 5: BPinto96 (€24.06 in chips)
+Seat 6: ggalego (€15.16 in chips)
+Galiler: posts small blind €0.05
+BoGosss92: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Kd 7s]
+1eliasnaiara: raises €0.10 to €0.20
+BPinto96: folds
+ggalego: folds
+noarones: folds
+Galiler: folds
+BoGosss92: folds
+Uncalled bet (€0.10) returned to 1eliasnaiara
+1eliasnaiara collected €0.25 from pot
+1eliasnaiara: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: noarones (button) folded before Flop (didn't bet)
+Seat 2: Galiler (small blind) folded before Flop
+Seat 3: BoGosss92 (big blind) folded before Flop
+Seat 4: 1eliasnaiara collected (€0.25)
+Seat 5: BPinto96 folded before Flop (didn't bet)
+Seat 6: ggalego folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442480048:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:21:50 CET [2025/08/22 12:21:50 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€10.11 in chips)
+Seat 2: eer_miguee (€10 in chips)
+Seat 3: nildouille (€10 in chips)
+Seat 4: ma6as (€13.01 in chips)
+Seat 5: ggalego (€15.16 in chips)
+Seat 6: aprendiz1976 (€10 in chips)
+eer_miguee: posts small blind €0.05
+nildouille: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Kc 5d]
+ma6as: folds
+ggalego: folds
+aprendiz1976: folds
+noarones: raises €0.10 to €0.20
+eer_miguee: raises €0.50 to €0.70
+nildouille has timed out while disconnected
+nildouille: folds
+noarones: folds
+Uncalled bet (€0.50) returned to eer_miguee
+eer_miguee collected €0.50 from pot
+eer_miguee: doesn't show hand
+*** SUMMARY ***
+Total pot €0.50 | Rake €0
+Seat 1: noarones (button) folded before Flop
+Seat 2: eer_miguee (small blind) collected (€0.50)
+Seat 3: nildouille (big blind) folded before Flop
+Seat 4: ma6as folded before Flop (didn't bet)
+Seat 5: ggalego folded before Flop (didn't bet)
+Seat 6: aprendiz1976 folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442480346:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:21:51 CET [2025/08/22 12:21:51 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: GodZillus (€11.46 in chips)
+Seat 2: KIKE EL DIVI (€19.25 in chips)
+Seat 3: 00789 (€12.13 in chips)
+Seat 4: OG Poker7 (€10.23 in chips)
+Seat 5: blhek (€8.98 in chips)
+Seat 6: noarones (€11.13 in chips)
+KIKE EL DIVI: posts small blind €0.05
+00789: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [3d 6h]
+OG Poker7: folds
+blhek: folds
+noarones: folds
+GodZillus: folds
+KIKE EL DIVI: calls €0.05
+00789: raises €0.30 to €0.40
+KIKE EL DIVI: folds
+Uncalled bet (€0.30) returned to 00789
+00789 collected €0.20 from pot
+00789: doesn't show hand
+*** SUMMARY ***
+Total pot €0.20 | Rake €0
+Seat 1: GodZillus (button) folded before Flop (didn't bet)
+Seat 2: KIKE EL DIVI (small blind) folded before Flop
+Seat 3: 00789 (big blind) collected (€0.20)
+Seat 4: OG Poker7 folded before Flop (didn't bet)
+Seat 5: blhek folded before Flop (didn't bet)
+Seat 6: noarones folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442480318:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:21:51 CET [2025/08/22 12:21:51 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: ma6as (€10 in chips)
+Seat 2: ggalego (€9.58 in chips)
+Seat 3: stif3872 (€17.59 in chips)
+Seat 4: Benjam3232 (€25.72 in chips)
+Seat 5: alexzh66 (€11.84 in chips)
+Seat 6: noarones (€11.59 in chips)
+ggalego: posts small blind €0.05
+stif3872: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Jc Jh]
+Benjam3232 has timed out
+Benjam3232: folds
+alexzh66: folds
+noarones: raises €0.15 to €0.25
+ma6as: folds
+ggalego: folds
+stif3872: folds
+Uncalled bet (€0.15) returned to noarones
+noarones collected €0.25 from pot
+noarones: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: ma6as (button) folded before Flop (didn't bet)
+Seat 2: ggalego (small blind) folded before Flop
+Seat 3: stif3872 (big blind) folded before Flop
+Seat 4: Benjam3232 folded before Flop (didn't bet)
+Seat 5: alexzh66 folded before Flop (didn't bet)
+Seat 6: noarones collected (€0.25)
+
+
+PokerStars Zoom Hand #257442480455:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:21:52 CET [2025/08/22 12:21:52 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: noarones (€9.85 in chips)
+Seat 2: LuisCesarQB (€39.20 in chips)
+Seat 3: OG Poker7 (€16.80 in chips)
+Seat 4: Benjam3232 (€11.94 in chips)
+Seat 5: GodZillus (€11.72 in chips)
+Seat 6: pope's one (€9.22 in chips)
+LuisCesarQB: posts small blind €0.05
+OG Poker7: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [7c 4d]
+Benjam3232 has timed out
+Benjam3232: folds
+GodZillus: folds
+pope's one: raises €0.15 to €0.25
+noarones: folds
+LuisCesarQB: folds
+OG Poker7: calls €0.15
+*** FLOP *** [Ks 6c 3h]
+OG Poker7: checks
+pope's one: bets €0.16
+OG Poker7: calls €0.16
+*** TURN *** [Ks 6c 3h] [Kh]
+OG Poker7: checks
+pope's one: checks
+*** RIVER *** [Ks 6c 3h Kh] [3s]
+OG Poker7: bets €0.42
+pope's one: calls €0.42
+*** SHOW DOWN ***
+OG Poker7: shows [7d 7h] (two pair, Kings and Sevens)
+pope's one: mucks hand
+OG Poker7 collected €1.62 from pot
+*** SUMMARY ***
+Total pot €1.71 | Rake €0.09
+Board [Ks 6c 3h Kh 3s]
+Seat 1: noarones (button) folded before Flop (didn't bet)
+Seat 2: LuisCesarQB (small blind) folded before Flop
+Seat 3: OG Poker7 (big blind) showed [7d 7h] and won (€1.62) with two pair, Kings and Sevens
+Seat 4: Benjam3232 folded before Flop (didn't bet)
+Seat 5: GodZillus folded before Flop (didn't bet)
+Seat 6: pope's one mucked [5c Ah]
+
+
+PokerStars Zoom Hand #257442482069:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:22:01 CET [2025/08/22 12:22:01 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: 1eliasnaiara (€53.75 in chips)
+Seat 2: ggalego (€15.16 in chips)
+Seat 3: GodZillus (€18.19 in chips)
+Seat 4: noarones (€11.13 in chips)
+Seat 5: HURACATTACK (€10 in chips)
+Seat 6: LuisCesarQB (€19.02 in chips)
+ggalego: posts small blind €0.05
+GodZillus: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [8s 5d]
+noarones: folds
+HURACATTACK: raises €0.15 to €0.25
+LuisCesarQB: folds
+1eliasnaiara: folds
+ggalego: folds
+GodZillus: folds
+Uncalled bet (€0.15) returned to HURACATTACK
+HURACATTACK collected €0.25 from pot
+HURACATTACK: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: 1eliasnaiara (button) folded before Flop (didn't bet)
+Seat 2: ggalego (small blind) folded before Flop
+Seat 3: GodZillus (big blind) folded before Flop
+Seat 4: noarones folded before Flop (didn't bet)
+Seat 5: HURACATTACK collected (€0.25)
+Seat 6: LuisCesarQB folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442482153:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:22:01 CET [2025/08/22 12:22:01 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: JUSANAL (€11.71 in chips)
+Seat 2: JVN_100 (€10 in chips)
+Seat 3: inthemox (€12.78 in chips)
+Seat 4: noarones (€9.85 in chips)
+Seat 5: LuisCesarQB (€39.15 in chips)
+Seat 6: CrujeNueces (€5 in chips)
+JVN_100: posts small blind €0.05
+inthemox: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Jc Ks]
+noarones: folds
+LuisCesarQB: folds
+JUSANAL is disconnected
+CrujeNueces: folds
+JUSANAL has timed out while disconnected
+JUSANAL: folds
+JVN_100: raises €0.20 to €0.30
+inthemox: folds
+Uncalled bet (€0.20) returned to JVN_100
+JVN_100 collected €0.20 from pot
+JVN_100: doesn't show hand
+*** SUMMARY ***
+Total pot €0.20 | Rake €0
+Seat 1: JUSANAL (button) folded before Flop (didn't bet)
+Seat 2: JVN_100 (small blind) collected (€0.20)
+Seat 3: inthemox (big blind) folded before Flop
+Seat 4: noarones folded before Flop (didn't bet)
+Seat 5: LuisCesarQB folded before Flop (didn't bet)
+Seat 6: CrujeNueces folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442483491:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:22:08 CET [2025/08/22 12:22:08 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: LuisCesarQB (€39.15 in chips)
+Seat 2: luckyluke208 (€28.99 in chips)
+Seat 3: JVN_100 (€12.58 in chips)
+Seat 4: SANAZ61 (€8.25 in chips)
+Seat 5: ElPudao (€8.98 in chips)
+Seat 6: noarones (€10 in chips)
+luckyluke208: posts small blind €0.05
+JVN_100: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [Qh 2s]
+SANAZ61: raises €0.20 to €0.30
+ElPudao: folds
+noarones: folds
+LuisCesarQB: folds
+luckyluke208: folds
+JVN_100: folds
+Uncalled bet (€0.20) returned to SANAZ61
+SANAZ61 collected €0.25 from pot
+SANAZ61: doesn't show hand
+*** SUMMARY ***
+Total pot €0.25 | Rake €0
+Seat 1: LuisCesarQB (button) folded before Flop (didn't bet)
+Seat 2: luckyluke208 (small blind) folded before Flop
+Seat 3: JVN_100 (big blind) folded before Flop
+Seat 4: SANAZ61 collected (€0.25)
+Seat 5: ElPudao folded before Flop (didn't bet)
+Seat 6: noarones folded before Flop (didn't bet)
+
+
+PokerStars Zoom Hand #257442483804:  Hold'em No Limit (€0.05/€0.10) - 2025/08/22 18:22:10 CET [2025/08/22 12:22:10 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: SlakA22 (€10 in chips)
+Seat 2: CrujeNueces (€5 in chips)
+Seat 3: 1eliasnaiara (€53.75 in chips)
+Seat 4: alexzh66 (€11.79 in chips)
+Seat 5: SANAZ61 (€9.70 in chips)
+Seat 6: noarones (€9.91 in chips)
+CrujeNueces: posts small blind €0.05
+1eliasnaiara: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to noarones [9s 8s]
+alexzh66: folds
+SANAZ61: folds
+noarones: raises €0.15 to €0.25
+SlakA22: folds
+CrujeNueces: folds
+1eliasnaiara: calls €0.15
+*** FLOP *** [6d Th 4d]
+1eliasnaiara: checks
+noarones: checks
+*** TURN *** [6d Th 4d] [Ac]
+1eliasnaiara: checks
+noarones: checks
+*** RIVER *** [6d Th 4d Ac] [5h]
+1eliasnaiara: checks
+noarones: checks
+*** SHOW DOWN ***
+1eliasnaiara: shows [Ts Qs] (a pair of Tens)
+noarones: mucks hand
+1eliasnaiara collected €0.52 from pot
+*** SUMMARY ***
+Total pot €0.55 | Rake €0.03
+Board [6d Th 4d Ac 5h]
+Seat 1: SlakA22 (button) folded before Flop (didn't bet)
+Seat 2: CrujeNueces (small blind) folded before Flop
+Seat 3: 1eliasnaiara (big blind) showed [Ts Qs] and won (€0.52) with a pair of Tens
+Seat 4: alexzh66 folded before Flop (didn't bet)
+Seat 5: SANAZ61 folded before Flop (didn't bet)
+Seat 6: noarones mucked [9s 8s]
+
+

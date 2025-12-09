@@ -1,0 +1,2164 @@
+PokerStars Hand #257507588365:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:46:48 CET [08/27/2025 13:46:48 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player1 ($10 in chips)
+Seat 2: Player2 ($9.30 in chips)
+Seat 3: Hero ($10 in chips)
+Seat 4: Player3 ($90.95 in chips)
+Seat 5: Player4 ($56.46 in chips)
+Seat 6: Player5 ($9.55 in chips)
+Player2: posts small blind $0.05
+Hero: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [5d Qd]
+Player3: folds
+Player4: folds
+Player5: folds
+Player1: folds
+Player2: raises $0.20 to $0.30
+Hero: calls $0.20
+*** FLOP *** [8d Jd 7s]
+Player2: checks
+Hero: checks
+*** TURN *** [8d Jd 7s] [Qc]
+Player2: checks
+Hero: bets $0.10
+Player2: calls $0.10
+*** RIVER *** [8d Jd 7s Qc] [Kd]
+Player2: checks
+Hero: bets $0.76
+Player2: folds
+Uncalled bet ($0.76) returned to Hero
+Hero collected $0.76 from pot
+Hero: doesn't show hand
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04
+Board [8d Jd 7s Qc Kd]
+Seat 1: Player1 (button) folded before Flop (didn't bet)
+Seat 2: Player2 (small blind) folded on the River
+Seat 3: Hero (big blind) collected ($0.76)
+Seat 4: Player3 folded before Flop (didn't bet)
+Seat 5: Player4 folded before Flop (didn't bet)
+Seat 6: Player5 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507588971:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:46:51 CET [08/27/2025 13:46:51 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player9 ($10.05 in chips)
+Seat 2: Player10 ($5.22 in chips)
+Seat 3: Hero ($10 in chips)
+Seat 4: Player1 ($10 in chips)
+Seat 5: Player11 ($7.37 in chips)
+Seat 6: Player12 ($35.27 in chips)
+Player10: posts small blind $0.05
+Hero: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [6c Jc]
+Player1: folds
+Player11: folds
+Player12: folds
+Player9: raises $0.15 to $0.25
+Player10: folds
+Hero: calls $0.15
+*** FLOP *** [Ad Ah Tc]
+Hero: checks
+Player9: bets $0.17
+Hero: folds
+Uncalled bet ($0.17) returned to Player9
+Player9 collected $0.52 from pot
+Player9: doesn't show hand
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.03
+Board [Ad Ah Tc]
+Seat 1: Player9 (button) collected ($0.52)
+Seat 2: Player10 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded on the Flop
+Seat 4: Player1 folded before Flop (didn't bet)
+Seat 5: Player11 folded before Flop (didn't bet)
+Seat 6: Player12 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507594119:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:47:16 CET [08/27/2025 13:47:16 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player16 ($13.03 in chips)
+Seat 2: Hero ($10 in chips)
+Seat 3: Player17 ($9.05 in chips)
+Seat 4: Player12 ($19.36 in chips)
+Seat 5: Player18 ($10.61 in chips)
+Seat 6: Player9 ($10.32 in chips)
+Hero: posts small blind $0.05
+Player17: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Js 5h]
+Player12: folds
+Player18: raises $0.15 to $0.25
+Player9: folds
+Player16: calls $0.25
+Hero: folds
+Player17: folds
+*** FLOP *** [4h Qh 8s]
+Player18: bets $0.19
+Player16: calls $0.19
+*** TURN *** [4h Qh 8s] [6c]
+Player18: bets $0.74
+Player16: calls $0.74
+*** RIVER *** [4h Qh 8s 6c] [Tc]
+Player18: bets $0.71
+Player16: folds
+Uncalled bet ($0.71) returned to Player18
+Player18 collected $2.38 from pot
+Player18: doesn't show hand
+*** SUMMARY ***
+Total pot $2.51 | Rake $0.13
+Board [4h Qh 8s 6c Tc]
+Seat 1: Player16 (button) folded on the River
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: Player17 (big blind) folded before Flop
+Seat 4: Player12 folded before Flop (didn't bet)
+Seat 5: Player18 collected ($2.38)
+Seat 6: Player9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507598661:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:47:38 CET [08/27/2025 13:47:38 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player17 ($8.90 in chips)
+Seat 2: Player21 ($12.88 in chips)
+Seat 3: Player22 ($10.52 in chips)
+Seat 4: Player5 ($9.40 in chips)
+Seat 5: Player23 ($16.27 in chips)
+Seat 6: Hero ($10 in chips)
+Player21: posts small blind $0.05
+Player22: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [4d Td]
+Player5: raises $0.20 to $0.30
+Player23: calls $0.30
+Hero: folds
+Player17: folds
+Player21: calls $0.25
+Player22: folds
+*** FLOP *** [Th 3d 5s]
+Player21: bets $0.10
+Player5: calls $0.10
+Player23: calls $0.10
+*** TURN *** [Th 3d 5s] [Ks]
+Player21: bets $0.10
+Player5: raises $0.90 to $1
+Player23: calls $1
+Player21: calls $0.90
+*** RIVER *** [Th 3d 5s Ks] [8h]
+Player21: checks
+Player5: bets $2.04
+Player23: folds
+Player21: folds
+Uncalled bet ($2.04) returned to Player5
+Player5 collected $4.08 from pot
+Player5: doesn't show hand
+*** SUMMARY ***
+Total pot $4.30 | Rake $0.22
+Board [Th 3d 5s Ks 8h]
+Seat 1: Player17 (button) folded before Flop (didn't bet)
+Seat 2: Player21 (small blind) folded on the River
+Seat 3: Player22 (big blind) folded before Flop
+Seat 4: Player5 collected ($4.08)
+Seat 5: Player23 folded on the River
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507601170:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:47:50 CET [08/27/2025 13:47:50 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Hero ($10 in chips)
+Seat 2: Player26 ($17.33 in chips)
+Seat 3: Player27 ($13.07 in chips)
+Seat 4: Player28 ($9.90 in chips)
+Seat 5: Player29 ($10.83 in chips)
+Seat 6: Player30 ($9.45 in chips)
+Player26: posts small blind $0.05
+Player27: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Jh 5c]
+Player28: raises $0.15 to $0.25
+Player29: folds
+Player30: folds
+Hero: folds
+Player26: folds
+Player27: calls $0.15
+*** FLOP *** [Kd Jc 7c]
+Player27: checks
+Player28: bets $0.16
+Player27: calls $0.16
+*** TURN *** [Kd Jc 7c] [6c]
+Player27: checks
+Player28: checks
+*** RIVER *** [Kd Jc 7c 6c] [Qh]
+Player27: checks
+Player28: checks
+*** SHOW DOWN ***
+Player27: shows [Td Qd] (a pair of Queens)
+Player28: shows [Qs Ah] (a pair of Queens - Ace kicker)
+Player28 collected $0.83 from pot
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.04
+Board [Kd Jc 7c 6c Qh]
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: Player26 (small blind) folded before Flop
+Seat 3: Player27 (big blind) showed [Td Qd] and lost with a pair of Queens
+Seat 4: Player28 showed [Qs Ah] and won ($0.83) with a pair of Queens
+Seat 5: Player29 folded before Flop (didn't bet)
+Seat 6: Player30 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507601146:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:47:50 CET [08/27/2025 13:47:50 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player12 ($35.17 in chips)
+Seat 2: Hero ($10.36 in chips)
+Seat 3: Player22 ($10.14 in chips)
+Seat 4: Player34 ($7.74 in chips)
+Seat 5: Player27 ($10 in chips)
+Seat 6: Player3 ($29.82 in chips)
+Hero: posts small blind $0.05
+Player22: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Th 4s]
+Player34: folds
+Player27: folds
+Player3: folds
+Player12: folds
+Hero: folds
+Uncalled bet ($0.05) returned to Player22
+Player22 collected $0.10 from pot
+Player22: doesn't show hand
+*** SUMMARY ***
+Total pot $0.10 | Rake $0
+Seat 1: Player12 (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: Player22 (big blind) collected ($0.10)
+Seat 4: Player34 folded before Flop (didn't bet)
+Seat 5: Player27 folded before Flop (didn't bet)
+Seat 6: Player3 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507602125:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:47:54 CET [08/27/2025 13:47:54 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player9 ($15.53 in chips)
+Seat 2: Player37 ($10.64 in chips)
+Seat 3: Player38 ($12.98 in chips)
+Seat 4: Player39 ($10.15 in chips)
+Seat 5: Hero ($10 in chips)
+Seat 6: Player40 ($10.15 in chips)
+Player37: posts small blind $0.05
+Player38: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [5c As]
+Player39: folds
+Hero: folds
+Player40: folds
+Player9: folds
+Player37: folds
+Uncalled bet ($0.05) returned to Player38
+Player38 collected $0.10 from pot
+Player38: doesn't show hand
+*** SUMMARY ***
+Total pot $0.10 | Rake $0
+Seat 1: Player9 (button) folded before Flop (didn't bet)
+Seat 2: Player37 (small blind) folded before Flop
+Seat 3: Player38 (big blind) collected ($0.10)
+Seat 4: Player39 folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: Player40 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507602018:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:47:54 CET [08/27/2025 13:47:54 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Hero ($10.31 in chips)
+Seat 2: Player18 ($11.81 in chips)
+Seat 3: Player44 ($10.15 in chips)
+Seat 4: Player26 ($31.85 in chips)
+Seat 5: Player3 ($29.82 in chips)
+Seat 6: Player45 ($14.35 in chips)
+Player18: posts small blind $0.05
+Player44: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [4c 3h]
+Player26: folds
+Player3: raises $0.12 to $0.22
+Player45: folds
+Hero: folds
+Player18: folds
+Player44: calls $0.12
+*** FLOP *** [Ks Qd 5s]
+Player44: checks
+Player3: checks
+*** TURN *** [Ks Qd 5s] [5d]
+Player44: checks
+Player3: checks
+*** RIVER *** [Ks Qd 5s 5d] [4h]
+Player44: checks
+Player3: checks
+*** SHOW DOWN ***
+Player44: shows [As 6s] (a pair of Fives)
+Player3: shows [Ac 6c] (a pair of Fives)
+Player44 collected $0.24 from pot
+Player3 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02
+Board [Ks Qd 5s 5d 4h]
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: Player18 (small blind) folded before Flop
+Seat 3: Player44 (big blind) showed [As 6s] and won ($0.24) with a pair of Fives
+Seat 4: Player26 folded before Flop (didn't bet)
+Seat 5: Player3 showed [Ac 6c] and won ($0.23) with a pair of Fives
+Seat 6: Player45 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507603168:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:48:00 CET [08/27/2025 13:48:00 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player12 ($10 in chips)
+Seat 2: Hero ($10 in chips)
+Seat 3: Player27 ($10 in chips)
+Seat 4: Player28 ($11.13 in chips)
+Seat 5: Player44 ($11.70 in chips)
+Seat 6: Player26 ($17.28 in chips)
+Hero: posts small blind $0.05
+Player27: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [2c 3d]
+Player28: folds
+Player44: folds
+Player26: folds
+Player12: folds
+Hero: folds
+Uncalled bet ($0.05) returned to Player27
+Player27 collected $0.10 from pot
+Player27: doesn't show hand
+*** SUMMARY ***
+Total pot $0.10 | Rake $0
+Seat 1: Player12 (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: Player27 (big blind) collected ($0.10)
+Seat 4: Player28 folded before Flop (didn't bet)
+Seat 5: Player44 folded before Flop (didn't bet)
+Seat 6: Player26 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507603325:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:48:01 CET [08/27/2025 13:48:01 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player11 ($4.87 in chips)
+Seat 2: Player26 ($14.32 in chips)
+Seat 3: Player38 ($12.55 in chips)
+Seat 4: Player40 ($10.15 in chips)
+Seat 5: Player51 ($9.55 in chips)
+Seat 6: Hero ($10.31 in chips)
+Player26: posts small blind $0.05
+Player38: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [7h 4c]
+Player40: folds
+Player51: folds
+Hero: folds
+Player11: folds
+Player26: raises $0.20 to $0.30
+Player38: raises $0.60 to $0.90
+Player26: raises $1.80 to $2.70
+Player38: raises $9.85 to $12.55 and is all-in
+Player26: calls $9.85
+*** FLOP *** [7s Ac 8c]
+*** TURN *** [7s Ac 8c] [2h]
+*** RIVER *** [7s Ac 8c 2h] [Tc]
+*** SHOW DOWN ***
+Player26: shows [Qc Qh] (a pair of Queens)
+Player38: shows [Kc Ah] (a pair of Aces)
+Player38 collected $23.85 from pot
+*** SUMMARY ***
+Total pot $25.10 | Rake $1.25
+Board [7s Ac 8c 2h Tc]
+Seat 1: Player11 (button) folded before Flop (didn't bet)
+Seat 2: Player26 (small blind) showed [Qc Qh] and lost with a pair of Queens
+Seat 3: Player38 (big blind) showed [Kc Ah] and won ($23.85) with a pair of Aces
+Seat 4: Player40 folded before Flop (didn't bet)
+Seat 5: Player51 folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507604260:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:48:05 CET [08/27/2025 13:48:05 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player2 ($8.80 in chips)
+Seat 2: Player22 ($10.19 in chips)
+Seat 3: Player27 ($10.15 in chips)
+Seat 4: Player37 ($10.59 in chips)
+Seat 5: Hero ($10.31 in chips)
+Seat 6: Player53 ($12.22 in chips)
+Player22: posts small blind $0.05
+Player27: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Ah 3c]
+Player37: folds
+Hero: folds
+Player53: folds
+Player2: folds
+Player22: folds
+Uncalled bet ($0.05) returned to Player27
+Player27 collected $0.10 from pot
+Player27: doesn't show hand
+*** SUMMARY ***
+Total pot $0.10 | Rake $0
+Seat 1: Player2 (button) folded before Flop (didn't bet)
+Seat 2: Player22 (small blind) folded before Flop
+Seat 3: Player27 (big blind) collected ($0.10)
+Seat 4: Player37 folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: Player53 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507604418:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:48:06 CET [08/27/2025 13:48:06 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player16 ($11.75 in chips)
+Seat 2: Player12 ($10 in chips)
+Seat 3: Hero ($10 in chips)
+Seat 4: Player11 ($4.87 in chips)
+Seat 5: Player26 ($17.28 in chips)
+Seat 6: Player56 ($5.24 in chips)
+Player12: posts small blind $0.05
+Hero: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [7s 2h]
+Player11: folds
+Player26: folds
+Player56: folds
+Player16: raises $0.20 to $0.30
+Player12: folds
+Hero: folds
+Uncalled bet ($0.20) returned to Player16
+Player16 collected $0.25 from pot
+Player16: doesn't show hand
+*** SUMMARY ***
+Total pot $0.25 | Rake $0
+Seat 1: Player16 (button) collected ($0.25)
+Seat 2: Player12 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: Player11 folded before Flop (didn't bet)
+Seat 5: Player26 folded before Flop (didn't bet)
+Seat 6: Player56 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507605591:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:48:12 CET [08/27/2025 13:48:12 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player58 ($7.75 in chips)
+Seat 2: Player17 ($8.80 in chips)
+Seat 3: Hero ($10.31 in chips)
+Seat 4: Player59 ($13.36 in chips)
+Seat 5: Player60 ($14.02 in chips)
+Seat 6: Player22 ($10.14 in chips)
+Player17: posts small blind $0.05
+Hero: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [4h Qd]
+Player59: folds
+Player60: raises $0.12 to $0.22
+Player22: folds
+Player58: folds
+Player17: folds
+Hero: folds
+Uncalled bet ($0.12) returned to Player60
+Player60 collected $0.25 from pot
+Player60: doesn't show hand
+*** SUMMARY ***
+Total pot $0.25 | Rake $0
+Seat 1: Player58 (button) folded before Flop (didn't bet)
+Seat 2: Player17 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: Player59 folded before Flop (didn't bet)
+Seat 5: Player60 collected ($0.25)
+Seat 6: Player22 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507607084:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:48:19 CET [08/27/2025 13:48:19 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Hero ($10.21 in chips)
+Seat 2: Player64 ($18.42 in chips)
+Seat 3: Player18 ($14.38 in chips)
+Seat 4: Player65 ($12.34 in chips)
+Seat 5: Player11 ($4.87 in chips)
+Seat 6: Player66 ($6.27 in chips)
+Player64: posts small blind $0.05
+Player18: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [3h Ks]
+Player65: folds
+Player11: folds
+Player66: calls $0.10
+Hero: folds
+Player64: raises $0.27 to $0.37
+Player18: folds
+Player66: calls $0.27
+*** FLOP *** [6c 5d 7s]
+Player64: bets $0.26
+Player66: folds
+Uncalled bet ($0.26) returned to Player64
+Player64 collected $0.80 from pot
+Player64: doesn't show hand
+*** SUMMARY ***
+Total pot $0.84 | Rake $0.04
+Board [6c 5d 7s]
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: Player64 (small blind) collected ($0.80)
+Seat 3: Player18 (big blind) folded before Flop
+Seat 4: Player65 folded before Flop (didn't bet)
+Seat 5: Player11 folded before Flop (didn't bet)
+Seat 6: Player66 folded on the Flop
+
+
+PokerStars Hand #257507608034:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:48:24 CET [08/27/2025 13:48:24 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player69 ($11.60 in chips)
+Seat 2: Hero ($10.21 in chips)
+Seat 3: Player70 ($5.48 in chips)
+Seat 4: Player60 ($10.14 in chips)
+Seat 5: Player22 ($10.14 in chips)
+Seat 6: Player28 ($11.08 in chips)
+Hero: posts small blind $0.05
+Player70: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [8d Jc]
+Player60: folds
+Player22: raises $0.15 to $0.25
+Player28: folds
+Player69: folds
+Hero: folds
+Player70: folds
+Uncalled bet ($0.15) returned to Player22
+Player22 collected $0.25 from pot
+Player22: doesn't show hand
+*** SUMMARY ***
+Total pot $0.25 | Rake $0
+Seat 1: Player69 (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: Player70 (big blind) folded before Flop
+Seat 4: Player60 folded before Flop (didn't bet)
+Seat 5: Player22 collected ($0.25)
+Seat 6: Player28 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507609500:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:48:31 CET [08/27/2025 13:48:31 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player73 ($10.17 in chips)
+Seat 2: Player3 ($29.83 in chips)
+Seat 3: Player44 ($11.40 in chips)
+Seat 4: Player26 ($17.28 in chips)
+Seat 5: Player30 ($9.65 in chips)
+Seat 6: Hero ($10.16 in chips)
+Player3: posts small blind $0.05
+Player44: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [4h 7s]
+Player26: folds
+Player30: folds
+Hero: folds
+Player73: folds
+Player3: folds
+Uncalled bet ($0.05) returned to Player44
+Player44 collected $0.10 from pot
+Player44: doesn't show hand
+*** SUMMARY ***
+Total pot $0.10 | Rake $0
+Seat 1: Player73 (button) folded before Flop (didn't bet)
+Seat 2: Player3 (small blind) folded before Flop
+Seat 3: Player44 (big blind) collected ($0.10)
+Seat 4: Player26 folded before Flop (didn't bet)
+Seat 5: Player30 folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507610359:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:48:35 CET [08/27/2025 13:48:35 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player58 ($7.65 in chips)
+Seat 2: Player39 ($10 in chips)
+Seat 3: Player18 ($10 in chips)
+Seat 4: Hero ($10.16 in chips)
+Seat 5: Player30 ($9.45 in chips)
+Seat 6: Player45 ($19.18 in chips)
+Player39: posts small blind $0.05
+Player18: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Ts 4c]
+Hero: folds
+Player30: folds
+Player45: folds
+Player58: folds
+Player39: raises $0.15 to $0.25
+Player18: calls $0.15
+*** FLOP *** [3s 9c 3c]
+Player39: checks
+Player18: checks
+*** TURN *** [3s 9c 3c] [Ad]
+Player39: bets $0.24
+Player18: folds
+Uncalled bet ($0.24) returned to Player39
+Player39 collected $0.48 from pot
+Player39: doesn't show hand
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02
+Board [3s 9c 3c Ad]
+Seat 1: Player58 (button) folded before Flop (didn't bet)
+Seat 2: Player39 (small blind) collected ($0.48)
+Seat 3: Player18 (big blind) folded on the Turn
+Seat 4: Hero folded before Flop (didn't bet)
+Seat 5: Player30 folded before Flop (didn't bet)
+Seat 6: Player45 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507610516:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:48:36 CET [08/27/2025 13:48:36 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player44 ($10.12 in chips)
+Seat 2: Player40 ($10.30 in chips)
+Seat 3: Player9 ($16.17 in chips)
+Seat 4: Player53 ($10 in chips)
+Seat 5: Player38 ($12.98 in chips)
+Seat 6: Hero ($10 in chips)
+Player40: posts small blind $0.05
+Player9: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [2h 7h]
+Player53: folds
+Player38: raises $0.10 to $0.20
+Hero: folds
+Player44: folds
+Player40: folds
+Player9: folds
+Uncalled bet ($0.10) returned to Player38
+Player38 collected $0.25 from pot
+Player38: doesn't show hand
+*** SUMMARY ***
+Total pot $0.25 | Rake $0
+Seat 1: Player44 (button) folded before Flop (didn't bet)
+Seat 2: Player40 (small blind) folded before Flop
+Seat 3: Player9 (big blind) folded before Flop
+Seat 4: Player53 folded before Flop (didn't bet)
+Seat 5: Player38 collected ($0.25)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507611050:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:48:39 CET [08/27/2025 13:48:39 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player40 ($10.25 in chips)
+Seat 2: Player75 ($12.95 in chips)
+Seat 3: Player58 ($7.65 in chips)
+Seat 4: Player56 ($6.07 in chips)
+Seat 5: Hero ($10 in chips)
+Seat 6: Player28 ($10.22 in chips)
+Player75: posts small blind $0.05
+Player58: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [3h 8d]
+Player56 is disconnected
+Player56 has timed out while disconnected
+Player56: folds
+Hero: folds
+Player75 is disconnected
+Player28: raises $0.15 to $0.25
+Player40: folds
+Player75 has timed out while disconnected
+Player75: folds
+Player58: calls $0.15
+*** FLOP *** [6s Kc Th]
+Player58: checks
+Player28: checks
+*** TURN *** [6s Kc Th] [6h]
+Player58: bets $0.26
+Player28: calls $0.26
+*** RIVER *** [6s Kc Th 6h] [9d]
+Player58: bets $1.02
+Player28: calls $1.02
+*** SHOW DOWN ***
+Player58: shows [6d Ac] (three of a kind, Sixes)
+Player28: mucks hand
+Player58 collected $2.95 from pot
+*** SUMMARY ***
+Total pot $3.11 | Rake $0.16
+Board [6s Kc Th 6h 9d]
+Seat 1: Player40 (button) folded before Flop (didn't bet)
+Seat 2: Player75 (small blind) folded before Flop
+Seat 3: Player58 (big blind) showed [6d Ac] and won ($2.95) with three of a kind, Sixes
+Seat 4: Player56 folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: Player28 mucked [9h As]
+
+
+PokerStars Hand #257507611125:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:48:39 CET [08/27/2025 13:48:39 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player53 ($10 in chips)
+Seat 2: Player30 ($9.35 in chips)
+Seat 3: Player73 ($10.17 in chips)
+Seat 4: Player37 ($10.59 in chips)
+Seat 5: Hero ($10.16 in chips)
+Seat 6: Player9 ($10.32 in chips)
+Player30: posts small blind $0.05
+Player73: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Qh 6c]
+Player37: folds
+Hero: folds
+Player9: folds
+Player53: folds
+Player30: folds
+Uncalled bet ($0.05) returned to Player73
+Player73 collected $0.10 from pot
+Player73: doesn't show hand
+*** SUMMARY ***
+Total pot $0.10 | Rake $0
+Seat 1: Player53 (button) folded before Flop (didn't bet)
+Seat 2: Player30 (small blind) folded before Flop
+Seat 3: Player73 (big blind) collected ($0.10)
+Seat 4: Player37 folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: Player9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507612146:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:48:44 CET [08/27/2025 13:48:44 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player12 ($10 in chips)
+Seat 2: Player37 ($12.48 in chips)
+Seat 3: Hero ($10.16 in chips)
+Seat 4: Player40 ($10.25 in chips)
+Seat 5: Player53 ($10 in chips)
+Seat 6: Player39 ($28.60 in chips)
+Player37: posts small blind $0.05
+Hero: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Qh Jh]
+Player40: folds
+Player53: folds
+Player39: folds
+Player12: folds
+Player37: folds
+Uncalled bet ($0.05) returned to Hero
+Hero collected $0.10 from pot
+Hero: doesn't show hand
+*** SUMMARY ***
+Total pot $0.10 | Rake $0
+Seat 1: Player12 (button) folded before Flop (didn't bet)
+Seat 2: Player37 (small blind) folded before Flop
+Seat 3: Hero (big blind) collected ($0.10)
+Seat 4: Player40 folded before Flop (didn't bet)
+Seat 5: Player53 folded before Flop (didn't bet)
+Seat 6: Player39 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507612574:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:48:46 CET [08/27/2025 13:48:46 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Hero ($10 in chips)
+Seat 2: Player70 ($5.38 in chips)
+Seat 3: Player37 ($10.59 in chips)
+Seat 4: Player30 ($9.65 in chips)
+Seat 5: Player22 ($10.29 in chips)
+Seat 6: Player27 ($10.15 in chips)
+Player70: posts small blind $0.05
+Player37: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [5s 7c]
+Player30: folds
+Player22: folds
+Player27: folds
+Hero: folds
+Player70: calls $0.05
+Player37: checks
+*** FLOP *** [Ac 8d 6d]
+Player70: bets $0.10
+Player37: calls $0.10
+*** TURN *** [Ac 8d 6d] [6c]
+Player70: bets $0.38
+Player37: folds
+Uncalled bet ($0.38) returned to Player70
+Player70 collected $0.38 from pot
+Player70: doesn't show hand
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02
+Board [Ac 8d 6d 6c]
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: Player70 (small blind) collected ($0.38)
+Seat 3: Player37 (big blind) folded on the Turn
+Seat 4: Player30 folded before Flop (didn't bet)
+Seat 5: Player22 folded before Flop (didn't bet)
+Seat 6: Player27 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507613672:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:48:51 CET [08/27/2025 13:48:51 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Hero ($10.21 in chips)
+Seat 2: Player51 ($10.21 in chips)
+Seat 3: Player44 ($18 in chips)
+Seat 4: Player77 ($18.96 in chips)
+Seat 5: Player38 ($17.08 in chips)
+Seat 6: Player12 ($12.34 in chips)
+Player51: posts small blind $0.05
+Player44: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [6s 9d]
+Player77: raises $0.15 to $0.25
+Player38: raises $0.15 to $0.40
+Player12: folds
+Hero: folds
+Player51: folds
+Player44: folds
+Player77: calls $0.15
+*** FLOP *** [As 2h 9c]
+Player77: checks
+Player38: checks
+*** TURN *** [As 2h 9c] [Kh]
+Player77: bets $0.80
+Player38: folds
+Uncalled bet ($0.80) returned to Player77
+Player77 collected $0.90 from pot
+Player77: doesn't show hand
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.05
+Board [As 2h 9c Kh]
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: Player51 (small blind) folded before Flop
+Seat 3: Player44 (big blind) folded before Flop
+Seat 4: Player77 collected ($0.90)
+Seat 5: Player38 folded on the Turn
+Seat 6: Player12 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507613881:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:48:52 CET [08/27/2025 13:48:52 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player30 ($9.30 in chips)
+Seat 2: Hero ($10 in chips)
+Seat 3: Player22 ($10.29 in chips)
+Seat 4: Player60 ($10.09 in chips)
+Seat 5: Player53 ($10 in chips)
+Seat 6: Player18 ($14.38 in chips)
+Hero: posts small blind $0.05
+Player22: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [8s 6d]
+Player60: folds
+Player53: folds
+Player18: folds
+Player30: folds
+Hero: folds
+Uncalled bet ($0.05) returned to Player22
+Player22 collected $0.10 from pot
+Player22: doesn't show hand
+*** SUMMARY ***
+Total pot $0.10 | Rake $0
+Seat 1: Player30 (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: Player22 (big blind) collected ($0.10)
+Seat 4: Player60 folded before Flop (didn't bet)
+Seat 5: Player53 folded before Flop (didn't bet)
+Seat 6: Player18 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507614501:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:48:55 CET [08/27/2025 13:48:55 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player12 ($12.34 in chips)
+Seat 2: Player44 ($17.90 in chips)
+Seat 3: Player3 ($84.15 in chips)
+Seat 4: Player69 ($11.60 in chips)
+Seat 5: Player40 ($10.25 in chips)
+Seat 6: Hero ($10.21 in chips)
+Player44: posts small blind $0.05
+Player3: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Tc 7s]
+Player69: folds
+Player40: folds
+Hero: folds
+Player12: folds
+Player44: folds
+Uncalled bet ($0.05) returned to Player3
+Player3 collected $0.10 from pot
+Player3: doesn't show hand
+*** SUMMARY ***
+Total pot $0.10 | Rake $0
+Seat 1: Player12 (button) folded before Flop (didn't bet)
+Seat 2: Player44 (small blind) folded before Flop
+Seat 3: Player3 (big blind) collected ($0.10)
+Seat 4: Player69 folded before Flop (didn't bet)
+Seat 5: Player40 folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507614907:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:48:57 CET [08/27/2025 13:48:57 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player53 ($10 in chips)
+Seat 2: Player30 ($9.30 in chips)
+Seat 3: Player60 ($10.09 in chips)
+Seat 4: Player82 ($10.80 in chips)
+Seat 5: Hero ($10 in chips)
+Seat 6: Player51 ($10.16 in chips)
+Player30: posts small blind $0.05
+Player60: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Kh 5c]
+Player82: folds
+Hero: folds
+Player51: folds
+Player53: raises $0.15 to $0.25
+Player30: folds
+Player60: calls $0.15
+*** FLOP *** [Qs 6c Ad]
+Player60: checks
+Player53: checks
+*** TURN *** [Qs 6c Ad] [5s]
+Player60: checks
+Player53: checks
+*** RIVER *** [Qs 6c Ad 5s] [2d]
+Player60: bets $0.34
+Player53: folds
+Uncalled bet ($0.34) returned to Player60
+Player60 collected $0.52 from pot
+Player60: doesn't show hand
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.03
+Board [Qs 6c Ad 5s 2d]
+Seat 1: Player53 (button) folded on the River
+Seat 2: Player30 (small blind) folded before Flop
+Seat 3: Player60 (big blind) collected ($0.52)
+Seat 4: Player82 folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: Player51 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507615911:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:49:02 CET [08/27/2025 13:49:02 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player3 ($29.68 in chips)
+Seat 2: Player82 ($10.80 in chips)
+Seat 3: Player66 ($5.85 in chips)
+Seat 4: Player84 ($8.60 in chips)
+Seat 5: Player51 ($10.16 in chips)
+Seat 6: Hero ($10 in chips)
+Player82: posts small blind $0.05
+Player66: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Qc 5d]
+Player84: calls $0.10
+Player51: folds
+Hero: folds
+Player3: folds
+Player82: folds
+Player66: checks
+*** FLOP *** [Kd 6h Jd]
+Player66: checks
+Player84: bets $0.24
+Player66: folds
+Uncalled bet ($0.24) returned to Player84
+Player84 collected $0.24 from pot
+Player84: doesn't show hand
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01
+Board [Kd 6h Jd]
+Seat 1: Player3 (button) folded before Flop (didn't bet)
+Seat 2: Player82 (small blind) folded before Flop
+Seat 3: Player66 (big blind) folded on the Flop
+Seat 4: Player84 collected ($0.24)
+Seat 5: Player51 folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507615843:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:49:02 CET [08/27/2025 13:49:02 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player9 ($10.27 in chips)
+Seat 2: Hero ($10.21 in chips)
+Seat 3: Player38 ($13.28 in chips)
+Seat 4: Player10 ($3.36 in chips)
+Seat 5: Player86 ($9.25 in chips)
+Seat 6: Player44 ($17.85 in chips)
+Hero: posts small blind $0.05
+Player38: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [9h Qd]
+Player10: folds
+Player86: raises $0.20 to $0.30
+Player44: folds
+Player9: folds
+Hero: folds
+Player38: folds
+Uncalled bet ($0.20) returned to Player86
+Player86 collected $0.25 from pot
+Player86: doesn't show hand
+*** SUMMARY ***
+Total pot $0.25 | Rake $0
+Seat 1: Player9 (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: Player38 (big blind) folded before Flop
+Seat 4: Player10 folded before Flop (didn't bet)
+Seat 5: Player86 collected ($0.25)
+Seat 6: Player44 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507616819:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:49:06 CET [08/27/2025 13:49:06 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player39 ($10.23 in chips)
+Seat 2: Player27 ($12.36 in chips)
+Seat 3: Hero ($10 in chips)
+Seat 4: Player89 ($9.08 in chips)
+Seat 5: Player30 ($9.25 in chips)
+Seat 6: Player59 ($11.59 in chips)
+Player27: posts small blind $0.05
+Hero: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [5s Tc]
+Player89: folds
+Player30: folds
+Player59 has timed out
+Player59: folds
+Player39: folds
+Player27: folds
+Uncalled bet ($0.05) returned to Hero
+Hero collected $0.10 from pot
+Hero: doesn't show hand
+*** SUMMARY ***
+Total pot $0.10 | Rake $0
+Seat 1: Player39 (button) folded before Flop (didn't bet)
+Seat 2: Player27 (small blind) folded before Flop
+Seat 3: Hero (big blind) collected ($0.10)
+Seat 4: Player89 folded before Flop (didn't bet)
+Seat 5: Player30 folded before Flop (didn't bet)
+Seat 6: Player59 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507618059:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:49:12 CET [08/27/2025 13:49:12 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player44 ($17.85 in chips)
+Seat 2: Player10 ($3.36 in chips)
+Seat 3: Player51 ($10.16 in chips)
+Seat 4: Player9 ($10.27 in chips)
+Seat 5: Hero ($10.16 in chips)
+Seat 6: Player29 ($12.07 in chips)
+Player10: posts small blind $0.05
+Player51: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [7h 3s]
+Player9: folds
+Hero: folds
+Player29: folds
+Player44: folds
+Player10: calls $0.05
+Player51: checks
+*** FLOP *** [Jh Ac Qs]
+Player10: checks
+Player51: checks
+*** TURN *** [Jh Ac Qs] [6d]
+Player10: checks
+Player51: checks
+*** RIVER *** [Jh Ac Qs 6d] [9c]
+Player10: checks
+Player51: checks
+*** SHOW DOWN ***
+Player10: shows [8d 9d] (a pair of Nines)
+Player51: mucks hand
+Player10 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01
+Board [Jh Ac Qs 6d 9c]
+Seat 1: Player44 (button) folded before Flop (didn't bet)
+Seat 2: Player10 (small blind) showed [8d 9d] and won ($0.19) with a pair of Nines
+Seat 3: Player51 (big blind) mucked [2d 5d]
+Seat 4: Player9 folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: Player29 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507618835:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:49:16 CET [08/27/2025 13:49:16 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player37 ($12.28 in chips)
+Seat 2: Player3 ($84.20 in chips)
+Seat 3: Player9 ($10.27 in chips)
+Seat 4: Hero ($10.16 in chips)
+Seat 5: Player73 ($10.17 in chips)
+Seat 6: Player38 ($10.05 in chips)
+Player3: posts small blind $0.05
+Player9: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [9c 4s]
+Hero: folds
+Player73: raises $0.15 to $0.25
+Player38: folds
+Player37: calls $0.25
+Player3: folds
+Player9: folds
+*** FLOP *** [2c 3h 5s]
+Player73: checks
+Player37: bets $0.47
+Player73: calls $0.47
+*** TURN *** [2c 3h 5s] [Qs]
+Player73: checks
+Player37: checks
+*** RIVER *** [2c 3h 5s Qs] [6h]
+Player73: checks
+Player37: checks
+*** SHOW DOWN ***
+Player73: shows [6s 7s] (a pair of Sixes)
+Player37: mucks hand
+Player73 collected $1.51 from pot
+*** SUMMARY ***
+Total pot $1.59 | Rake $0.08
+Board [2c 3h 5s Qs 6h]
+Seat 1: Player37 (button) mucked [Ah 5h]
+Seat 2: Player3 (small blind) folded before Flop
+Seat 3: Player9 (big blind) folded before Flop
+Seat 4: Hero folded before Flop (didn't bet)
+Seat 5: Player73 showed [6s 7s] and won ($1.51) with a pair of Sixes
+Seat 6: Player38 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507620084:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:49:22 CET [08/27/2025 13:49:22 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player93 ($19.74 in chips)
+Seat 2: Player94 ($12.48 in chips)
+Seat 3: Player95 ($12.34 in chips)
+Seat 4: Hero ($10.16 in chips)
+Seat 5: Player27 ($10.15 in chips)
+Seat 6: Player21 ($11.48 in chips)
+Player94: posts small blind $0.05
+Player95: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Qh 2c]
+Hero: folds
+Player27: raises $0.15 to $0.25
+Player21: folds
+Player93: folds
+Player94: folds
+Player95: raises $0.75 to $1
+Player27: folds
+Uncalled bet ($0.75) returned to Player95
+Player95 collected $0.55 from pot
+Player95: doesn't show hand
+*** SUMMARY ***
+Total pot $0.55 | Rake $0
+Seat 1: Player93 (button) folded before Flop (didn't bet)
+Seat 2: Player94 (small blind) folded before Flop
+Seat 3: Player95 (big blind) collected ($0.55)
+Seat 4: Hero folded before Flop (didn't bet)
+Seat 5: Player27 folded before Flop
+Seat 6: Player21 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507620756:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:49:25 CET [08/27/2025 13:49:25 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player64 ($19.10 in chips)
+Seat 2: Player60 ($12.54 in chips)
+Seat 3: Hero ($10.16 in chips)
+Seat 4: Player45 ($13.95 in chips)
+Seat 5: Player39 ($28.95 in chips)
+Seat 6: Player18 ($9.95 in chips)
+Player60: posts small blind $0.05
+Hero: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [4h Qd]
+Player45: folds
+Player39: folds
+Player18: folds
+Player64: folds
+Player60: raises $0.20 to $0.30
+Hero: folds
+Uncalled bet ($0.20) returned to Player60
+Player60 collected $0.20 from pot
+Player60: doesn't show hand
+*** SUMMARY ***
+Total pot $0.20 | Rake $0
+Seat 1: Player64 (button) folded before Flop (didn't bet)
+Seat 2: Player60 (small blind) collected ($0.20)
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: Player45 folded before Flop (didn't bet)
+Seat 5: Player39 folded before Flop (didn't bet)
+Seat 6: Player18 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507621352:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:49:28 CET [08/27/2025 13:49:28 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player21 ($11.48 in chips)
+Seat 2: Player97 ($4.49 in chips)
+Seat 3: Player45 ($13.95 in chips)
+Seat 4: Hero ($10.05 in chips)
+Seat 5: Player38 ($13.28 in chips)
+Seat 6: Player86 ($9.45 in chips)
+Player97: posts small blind $0.05
+Player45: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [8s 5h]
+Hero: folds
+Player38: folds
+Player86: raises $0.20 to $0.30
+Player21: folds
+Player97: folds
+Player45: calls $0.20
+*** FLOP *** [5c 9h Kd]
+Player45: checks
+Player86: checks
+*** TURN *** [5c 9h Kd] [Jc]
+Player45: checks
+Player86: checks
+*** RIVER *** [5c 9h Kd Jc] [7h]
+Player45: bets $0.60
+Player86: folds
+Uncalled bet ($0.60) returned to Player45
+Player45 collected $0.62 from pot
+Player45: doesn't show hand
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03
+Board [5c 9h Kd Jc 7h]
+Seat 1: Player21 (button) folded before Flop (didn't bet)
+Seat 2: Player97 (small blind) folded before Flop
+Seat 3: Player45 (big blind) collected ($0.62)
+Seat 4: Hero folded before Flop (didn't bet)
+Seat 5: Player38 folded before Flop (didn't bet)
+Seat 6: Player86 folded on the River
+
+
+PokerStars Hand #257507621993:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:49:31 CET [08/27/2025 13:49:31 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Hero ($10.05 in chips)
+Seat 2: Player99 ($9.75 in chips)
+Seat 3: Player2 ($7.10 in chips)
+Seat 4: Player30 ($9.60 in chips)
+Seat 5: Player94 ($12.43 in chips)
+Seat 6: Player37 ($10.34 in chips)
+Player99: posts small blind $0.05
+Player2: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Qc 6h]
+Player30: folds
+Player94: folds
+Player37: folds
+Hero: folds
+Player99: raises $0.10 to $0.20
+Player2: folds
+Uncalled bet ($0.10) returned to Player99
+Player99 collected $0.20 from pot
+Player99: doesn't show hand
+*** SUMMARY ***
+Total pot $0.20 | Rake $0
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: Player99 (small blind) collected ($0.20)
+Seat 3: Player2 (big blind) folded before Flop
+Seat 4: Player30 folded before Flop (didn't bet)
+Seat 5: Player94 folded before Flop (didn't bet)
+Seat 6: Player37 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507622765:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:49:35 CET [08/27/2025 13:49:35 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player27 ($10 in chips)
+Seat 2: Player89 ($8.98 in chips)
+Seat 3: Player101 ($27.44 in chips)
+Seat 4: Player94 ($12.43 in chips)
+Seat 5: Hero ($10.05 in chips)
+Seat 6: Player58 ($9.07 in chips)
+Player89: posts small blind $0.05
+Player101: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [5d 4s]
+Player94: folds
+Hero: folds
+Player58: folds
+Player27: folds
+Player89: raises $0.10 to $0.20
+Player101: calls $0.10
+*** FLOP *** [8s 3d 4h]
+Player89: checks
+Player101: checks
+*** TURN *** [8s 3d 4h] [5s]
+Player89: checks
+Player101: bets $0.20
+Player89: calls $0.20
+*** RIVER *** [8s 3d 4h 5s] [7h]
+Player89: checks
+Player101: checks
+*** SHOW DOWN ***
+Player89: shows [Th 6c] (a straight, Four to Eight)
+Player101: mucks hand
+Player89 collected $0.76 from pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04
+Board [8s 3d 4h 5s 7h]
+Seat 1: Player27 (button) folded before Flop (didn't bet)
+Seat 2: Player89 (small blind) showed [Th 6c] and won ($0.76) with a straight, Four to Eight
+Seat 3: Player101 (big blind) mucked [Td Ad]
+Seat 4: Player94 folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: Player58 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507623382:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:49:38 CET [08/27/2025 13:49:38 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player38 ($13.18 in chips)
+Seat 2: Player39 ($28.95 in chips)
+Seat 3: Player30 ($9.60 in chips)
+Seat 4: Hero ($10.05 in chips)
+Seat 5: Player12 ($10 in chips)
+Seat 6: Player66 ($5.75 in chips)
+Player39: posts small blind $0.05
+Player30: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [9s 3c]
+Hero: folds
+Player12: folds
+Player66: folds
+Player38: folds
+Player39: folds
+Uncalled bet ($0.05) returned to Player30
+Player30 collected $0.10 from pot
+Player30: doesn't show hand
+*** SUMMARY ***
+Total pot $0.10 | Rake $0
+Seat 1: Player38 (button) folded before Flop (didn't bet)
+Seat 2: Player39 (small blind) folded before Flop
+Seat 3: Player30 (big blind) collected ($0.10)
+Seat 4: Hero folded before Flop (didn't bet)
+Seat 5: Player12 folded before Flop (didn't bet)
+Seat 6: Player66 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507624393:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:49:43 CET [08/27/2025 13:49:43 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player26 ($32.63 in chips)
+Seat 2: Player22 ($10.34 in chips)
+Seat 3: Hero ($10.05 in chips)
+Seat 4: Player38 ($22.85 in chips)
+Seat 5: Player66 ($5.75 in chips)
+Seat 6: Player64 ($19 in chips)
+Player22: posts small blind $0.05
+Hero: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Kd Ks]
+Player38: raises $0.10 to $0.20
+Player66: calls $0.20
+Player64: folds
+Player26: raises $1.20 to $1.40
+Player22: folds
+Hero: calls $1.30
+Player38: folds
+Player66: folds
+*** FLOP *** [Kh 9d 4d]
+Hero: checks
+Player26: bets $2.16
+Hero: raises $2.16 to $4.32
+Player26: calls $2.16
+*** TURN *** [Kh 9d 4d] [Th]
+Hero: bets $4.10
+Player26: raises $4.10 to $8.20
+Hero: calls $0.23 and is all-in
+Uncalled bet ($3.87) returned to Player26
+*** RIVER *** [Kh 9d 4d Th] [2h]
+*** SHOW DOWN ***
+Hero: shows [Kd Ks] (three of a kind, Kings)
+Player26: shows [As Ts] (a pair of Tens)
+Hero collected $19.52 from pot
+*** SUMMARY ***
+Total pot $20.55 | Rake $1.03
+Board [Kh 9d 4d Th 2h]
+Seat 1: Player26 (button) showed [As Ts] and lost with a pair of Tens
+Seat 2: Player22 (small blind) folded before Flop
+Seat 3: Hero (big blind) showed [Kd Ks] and won ($19.52) with three of a kind, Kings
+Seat 4: Player38 folded before Flop
+Seat 5: Player66 folded before Flop
+Seat 6: Player64 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507624430:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:49:43 CET [08/27/2025 13:49:43 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player105 ($4.81 in chips)
+Seat 2: Player40 ($10 in chips)
+Seat 3: Player27 ($10 in chips)
+Seat 4: Player9 ($15.16 in chips)
+Seat 5: Player97 ($14.13 in chips)
+Seat 6: Hero ($10.06 in chips)
+Player40: posts small blind $0.05
+Player27: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [2h 3d]
+Player9: folds
+Player97: folds
+Hero: folds
+Player105: raises $0.20 to $0.30
+Player40: raises $0.70 to $1
+Player27: folds
+Player105: raises $3.81 to $4.81 and is all-in
+Player40: calls $3.81
+*** FLOP *** [6d 5d 9s]
+*** TURN *** [6d 5d 9s] [Qd]
+*** RIVER *** [6d 5d 9s Qd] [As]
+*** SHOW DOWN ***
+Player40: shows [Kh Ac] (a pair of Aces)
+Player105: shows [Qc Ah] (two pair, Aces and Queens)
+Player105 collected $9.23 from pot
+*** SUMMARY ***
+Total pot $9.72 | Rake $0.49
+Board [6d 5d 9s Qd As]
+Seat 1: Player105 (button) showed [Qc Ah] and won ($9.23) with two pair, Aces and Queens
+Seat 2: Player40 (small blind) showed [Kh Ac] and lost with a pair of Aces
+Seat 3: Player27 (big blind) folded before Flop
+Seat 4: Player9 folded before Flop (didn't bet)
+Seat 5: Player97 folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507625767:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:49:50 CET [08/27/2025 13:49:50 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player18 ($10 in chips)
+Seat 2: Hero ($10.06 in chips)
+Seat 3: Player107 ($11.24 in chips)
+Seat 4: Player38 ($16.68 in chips)
+Seat 5: Player77 ($19.46 in chips)
+Seat 6: Player108 ($8.69 in chips)
+Hero: posts small blind $0.05
+Player107: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [4d 7s]
+Player38: folds
+Player77: folds
+Player108: raises $0.20 to $0.30
+Player18: folds
+Hero: folds
+Player107: folds
+Uncalled bet ($0.20) returned to Player108
+Player108 collected $0.25 from pot
+Player108: doesn't show hand
+*** SUMMARY ***
+Total pot $0.25 | Rake $0
+Seat 1: Player18 (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: Player107 (big blind) folded before Flop
+Seat 4: Player38 folded before Flop (didn't bet)
+Seat 5: Player77 folded before Flop (didn't bet)
+Seat 6: Player108 collected ($0.25)
+
+
+PokerStars Hand #257507627256:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:49:57 CET [08/27/2025 13:49:57 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Hero ($10.01 in chips)
+Seat 2: Player18 ($10 in chips)
+Seat 3: Player45 ($10 in chips)
+Seat 4: Player97 ($14.08 in chips)
+Seat 5: Player38 ($13.13 in chips)
+Seat 6: Player69 ($11.25 in chips)
+Player18: posts small blind $0.05
+Player45: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Jh Qc]
+Player97: folds
+Player38: folds
+Player69: folds
+Hero: raises $0.15 to $0.25
+Player18: folds
+Player45: folds
+Uncalled bet ($0.15) returned to Hero
+Hero collected $0.25 from pot
+Hero: doesn't show hand
+*** SUMMARY ***
+Total pot $0.25 | Rake $0
+Seat 1: Hero (button) collected ($0.25)
+Seat 2: Player18 (small blind) folded before Flop
+Seat 3: Player45 (big blind) folded before Flop
+Seat 4: Player97 folded before Flop (didn't bet)
+Seat 5: Player38 folded before Flop (didn't bet)
+Seat 6: Player69 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507631629:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:50:18 CET [08/27/2025 13:50:18 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player38 ($10 in chips)
+Seat 2: Player65 ($11.99 in chips)
+Seat 3: Player69 ($10.12 in chips)
+Seat 4: Player111 ($3.49 in chips)
+Seat 5: Hero ($10.16 in chips)
+Seat 6: Player45 ($10 in chips)
+Player65: posts small blind $0.05
+Player69: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Jd 4s]
+Player111: folds
+Hero: folds
+Player45: folds
+Player38: folds
+Player65: folds
+Uncalled bet ($0.05) returned to Player69
+Player69 collected $0.10 from pot
+Player69: doesn't show hand
+*** SUMMARY ***
+Total pot $0.10 | Rake $0
+Seat 1: Player38 (button) folded before Flop (didn't bet)
+Seat 2: Player65 (small blind) folded before Flop
+Seat 3: Player69 (big blind) collected ($0.10)
+Seat 4: Player111 folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: Player45 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507632589:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:50:23 CET [08/27/2025 13:50:23 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player30 ($10.36 in chips)
+Seat 2: Player113 ($10 in chips)
+Seat 3: Hero ($10.16 in chips)
+Seat 4: Player56 ($5.41 in chips)
+Seat 5: Player27 ($10 in chips)
+Seat 6: Player114 ($1.94 in chips)
+Player113: posts small blind $0.05
+Hero: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Qd Td]
+Player56: folds
+Player27: folds
+Player114: folds
+Player30: folds
+Player113: raises $0.10 to $0.20
+Hero: calls $0.10
+*** FLOP *** [4s 8d Jh]
+Player113: checks
+Hero: checks
+*** TURN *** [4s 8d Jh] [9c]
+Player113: checks
+Hero: bets $0.38
+Player113: folds
+Uncalled bet ($0.38) returned to Hero
+Hero collected $0.38 from pot
+Hero: doesn't show hand
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02
+Board [4s 8d Jh 9c]
+Seat 1: Player30 (button) folded before Flop (didn't bet)
+Seat 2: Player113 (small blind) folded on the Turn
+Seat 3: Hero (big blind) collected ($0.38)
+Seat 4: Player56 folded before Flop (didn't bet)
+Seat 5: Player27 folded before Flop (didn't bet)
+Seat 6: Player114 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507639181:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:50:55 CET [08/27/2025 13:50:55 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player45 ($19.94 in chips)
+Seat 2: Player101 ($26.74 in chips)
+Seat 3: Player3 ($29.59 in chips)
+Seat 4: Player17 ($15.55 in chips)
+Seat 5: Player12 ($10.05 in chips)
+Seat 6: Hero ($19.52 in chips)
+Player101: posts small blind $0.05
+Player3: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Ad Td]
+Player17: folds
+Player12: folds
+Hero: raises $0.15 to $0.25
+Player45: folds
+Player101: folds
+Player3: calls $0.15
+*** FLOP *** [8s 9s Qc]
+Player3: checks
+Hero: checks
+*** TURN *** [8s 9s Qc] [Qs]
+Player3: bets $0.27
+Hero: folds
+Uncalled bet ($0.27) returned to Player3
+Player3 collected $0.52 from pot
+Player3: doesn't show hand
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.03
+Board [8s 9s Qc Qs]
+Seat 1: Player45 (button) folded before Flop (didn't bet)
+Seat 2: Player101 (small blind) folded before Flop
+Seat 3: Player3 (big blind) collected ($0.52)
+Seat 4: Player17 folded before Flop (didn't bet)
+Seat 5: Player12 folded before Flop (didn't bet)
+Seat 6: Hero folded on the Turn
+
+
+PokerStars Hand #257507642905:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:51:13 CET [08/27/2025 13:51:13 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player118 ($5 in chips)
+Seat 2: Player114 ($1.01 in chips)
+Seat 3: Player3 ($84.30 in chips)
+Seat 4: Hero ($10.34 in chips)
+Seat 5: Player53 ($14.23 in chips)
+Seat 6: Player12 ($19.79 in chips)
+Player114: posts small blind $0.05
+Player3: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [6h 6c]
+Hero: raises $0.15 to $0.25
+Player53: folds
+Player12: folds
+Player118: folds
+Player114: calls $0.20
+Player3: folds
+*** FLOP *** [Td 5d Qc]
+Player114: checks
+Hero: bets $0.10
+Player114: raises $0.66 to $0.76 and is all-in
+Hero: calls $0.66
+*** TURN *** [Td 5d Qc] [7c]
+*** RIVER *** [Td 5d Qc 7c] [3s]
+*** SHOW DOWN ***
+Player114: shows [5s 5c] (three of a kind, Fives)
+Hero: shows [6h 6c] (a pair of Sixes)
+Player114 collected $2.01 from pot
+*** SUMMARY ***
+Total pot $2.12 | Rake $0.11
+Board [Td 5d Qc 7c 3s]
+Seat 1: Player118 (button) folded before Flop (didn't bet)
+Seat 2: Player114 (small blind) showed [5s 5c] and won ($2.01) with three of a kind, Fives
+Seat 3: Player3 (big blind) folded before Flop
+Seat 4: Hero showed [6h 6c] and lost with a pair of Sixes
+Seat 5: Player53 folded before Flop (didn't bet)
+Seat 6: Player12 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507646677:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:51:32 CET [08/27/2025 13:51:32 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player27 ($12.01 in chips)
+Seat 2: Hero ($19.27 in chips)
+Seat 3: Player38 ($10 in chips)
+Seat 4: Player120 ($12.39 in chips)
+Seat 5: Player22 ($10 in chips)
+Seat 6: Player2 ($8.97 in chips)
+Hero: posts small blind $0.05
+Player38: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [2d 6d]
+Player120: folds
+Player22: raises $0.15 to $0.25
+Player2: folds
+Player27: folds
+Hero: folds
+Player38: folds
+Uncalled bet ($0.15) returned to Player22
+Player22 collected $0.25 from pot
+Player22: doesn't show hand
+*** SUMMARY ***
+Total pot $0.25 | Rake $0
+Seat 1: Player27 (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: Player38 (big blind) folded before Flop
+Seat 4: Player120 folded before Flop (didn't bet)
+Seat 5: Player22 collected ($0.25)
+Seat 6: Player2 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507650522:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:51:50 CET [08/27/2025 13:51:50 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Hero ($19.22 in chips)
+Seat 2: Player12 ($10.48 in chips)
+Seat 3: Player123 ($12.35 in chips)
+Seat 4: Player69 ($10.73 in chips)
+Seat 5: Player38 ($12.59 in chips)
+Seat 6: Player37 ($12.14 in chips)
+Player12: posts small blind $0.05
+Player123: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [2s 9h]
+Player69: folds
+Player38: folds
+Player37: raises $0.15 to $0.25
+Hero: folds
+Player12: folds
+Player123: folds
+Uncalled bet ($0.15) returned to Player37
+Player37 collected $0.25 from pot
+Player37: doesn't show hand
+*** SUMMARY ***
+Total pot $0.25 | Rake $0
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: Player12 (small blind) folded before Flop
+Seat 3: Player123 (big blind) folded before Flop
+Seat 4: Player69 folded before Flop (didn't bet)
+Seat 5: Player38 folded before Flop (didn't bet)
+Seat 6: Player37 collected ($0.25)
+
+
+PokerStars Hand #257507650976:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:51:52 CET [08/27/2025 13:51:52 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player114 ($2.01 in chips)
+Seat 2: Hero ($10 in chips)
+Seat 3: Player12 ($19.89 in chips)
+Seat 4: Player108 ($5.40 in chips)
+Seat 5: Player60 ($23.17 in chips)
+Seat 6: Player5 ($10.68 in chips)
+Hero: posts small blind $0.05
+Player12: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Qd 3h]
+Player108: folds
+Player60: folds
+Player5: folds
+Player114: raises $0.20 to $0.30
+Hero: folds
+Player12: calls $0.20
+*** FLOP *** [Ks Ts 9h]
+Player12: checks
+Player114: bets $0.62
+Player12: folds
+Uncalled bet ($0.62) returned to Player114
+Player114 collected $0.62 from pot
+Player114: doesn't show hand
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03
+Board [Ks Ts 9h]
+Seat 1: Player114 (button) collected ($0.62)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: Player12 (big blind) folded on the Flop
+Seat 4: Player108 folded before Flop (didn't bet)
+Seat 5: Player60 folded before Flop (didn't bet)
+Seat 6: Player5 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507651232:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:51:54 CET [08/27/2025 13:51:54 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player17 ($15.99 in chips)
+Seat 2: Player38 ($12.59 in chips)
+Seat 3: Player27 ($10 in chips)
+Seat 4: Player22 ($10.15 in chips)
+Seat 5: Hero ($19.22 in chips)
+Seat 6: Player69 ($10.73 in chips)
+Player38: posts small blind $0.05
+Player27: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [8s Js]
+Player22: folds
+Hero: folds
+Player69: folds
+Player17: folds
+Player38: folds
+Uncalled bet ($0.05) returned to Player27
+Player27 collected $0.10 from pot
+Player27: doesn't show hand
+*** SUMMARY ***
+Total pot $0.10 | Rake $0
+Seat 1: Player17 (button) folded before Flop (didn't bet)
+Seat 2: Player38 (small blind) folded before Flop
+Seat 3: Player27 (big blind) collected ($0.10)
+Seat 4: Player22 folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: Player69 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507652218:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:51:58 CET [08/27/2025 13:51:58 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Hero ($10 in chips)
+Seat 2: Player60 ($11.14 in chips)
+Seat 3: Player93 ($19.81 in chips)
+Seat 4: Player123 ($12.25 in chips)
+Seat 5: Player38 ($16.70 in chips)
+Seat 6: Player120 ($12.29 in chips)
+Player60: posts small blind $0.05
+Player93: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [6s 4s]
+Player123: folds
+Player38: folds
+Player120: folds
+Hero: folds
+Player60: raises $0.20 to $0.30
+Player93: raises $0.65 to $0.95
+Player60: folds
+Uncalled bet ($0.65) returned to Player93
+Player93 collected $0.60 from pot
+Player93: doesn't show hand
+*** SUMMARY ***
+Total pot $0.60 | Rake $0
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: Player60 (small blind) folded before Flop
+Seat 3: Player93 (big blind) collected ($0.60)
+Seat 4: Player123 folded before Flop (didn't bet)
+Seat 5: Player38 folded before Flop (didn't bet)
+Seat 6: Player120 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507652436:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:51:59 CET [08/27/2025 13:51:59 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player27 ($10.95 in chips)
+Seat 2: Player97 ($14.91 in chips)
+Seat 3: Player69 ($10.73 in chips)
+Seat 4: Hero ($19.22 in chips)
+Seat 5: Player40 ($10 in chips)
+Seat 6: Player38 ($10 in chips)
+Player97: posts small blind $0.05
+Player69: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [3d 6d]
+Hero: folds
+Player40: folds
+Player38: folds
+Player27: folds
+Player97: raises $0.20 to $0.30
+Player69: folds
+Uncalled bet ($0.20) returned to Player97
+Player97 collected $0.20 from pot
+Player97: doesn't show hand
+*** SUMMARY ***
+Total pot $0.20 | Rake $0
+Seat 1: Player27 (button) folded before Flop (didn't bet)
+Seat 2: Player97 (small blind) collected ($0.20)
+Seat 3: Player69 (big blind) folded before Flop
+Seat 4: Hero folded before Flop (didn't bet)
+Seat 5: Player40 folded before Flop (didn't bet)
+Seat 6: Player38 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507653262:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:52:04 CET [08/27/2025 13:52:04 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player4 ($56.01 in chips)
+Seat 2: Player123 ($12.25 in chips)
+Seat 3: Player60 ($23.17 in chips)
+Seat 4: Player30 ($10.88 in chips)
+Seat 5: Player86 ($7.03 in chips)
+Seat 6: Hero ($10 in chips)
+Player123: posts small blind $0.05
+Player60: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [4h 8d]
+Player30: folds
+Player86: raises $0.20 to $0.30
+Hero: folds
+Player4: calls $0.30
+Player123: folds
+Player60: folds
+*** FLOP *** [3d 7d Qs]
+Player86: bets $0.23
+Player4: folds
+Uncalled bet ($0.23) returned to Player86
+Player86 collected $0.71 from pot
+Player86: doesn't show hand
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.04
+Board [3d 7d Qs]
+Seat 1: Player4 (button) folded on the Flop
+Seat 2: Player123 (small blind) folded before Flop
+Seat 3: Player60 (big blind) folded before Flop
+Seat 4: Player30 folded before Flop (didn't bet)
+Seat 5: Player86 collected ($0.71)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507653679:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:52:05 CET [08/27/2025 13:52:05 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player86 ($30.95 in chips)
+Seat 2: Player28 ($9.42 in chips)
+Seat 3: Hero ($19.22 in chips)
+Seat 4: Player37 ($12.29 in chips)
+Seat 5: Player29 ($10.93 in chips)
+Seat 6: Player3 ($29.96 in chips)
+Player28: posts small blind $0.05
+Hero: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [9c 4s]
+Player37: folds
+Player29: folds
+Player3: raises $0.12 to $0.22
+Player86: folds
+Player28: folds
+Hero: folds
+Uncalled bet ($0.12) returned to Player3
+Player3 collected $0.25 from pot
+Player3: doesn't show hand
+*** SUMMARY ***
+Total pot $0.25 | Rake $0
+Seat 1: Player86 (button) folded before Flop (didn't bet)
+Seat 2: Player28 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: Player37 folded before Flop (didn't bet)
+Seat 5: Player29 folded before Flop (didn't bet)
+Seat 6: Player3 collected ($0.25)
+
+
+PokerStars Hand #257507654040:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:52:07 CET [08/27/2025 13:52:07 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player123 ($12.20 in chips)
+Seat 2: Player3 ($84.05 in chips)
+Seat 3: Player38 ($12.54 in chips)
+Seat 4: Player10 ($7.44 in chips)
+Seat 5: Hero ($10 in chips)
+Seat 6: Player53 ($13.98 in chips)
+Player3: posts small blind $0.05
+Player38: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [5s 7h]
+Player10: folds
+Hero: folds
+Player53: folds
+Player123: raises $0.20 to $0.30
+Player3: folds
+Player38: calls $0.20
+*** FLOP *** [Qh Jh Qc]
+Player38: checks
+Player123: checks
+*** TURN *** [Qh Jh Qc] [3s]
+Player38: checks
+Player123: checks
+*** RIVER *** [Qh Jh Qc 3s] [2d]
+Player38: checks
+Player123: checks
+*** SHOW DOWN ***
+Player38: shows [As 2s] (two pair, Queens and Deuces)
+Player123: mucks hand
+Player38 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03
+Board [Qh Jh Qc 3s 2d]
+Seat 1: Player123 (button) mucked [Kd Ad]
+Seat 2: Player3 (small blind) folded before Flop
+Seat 3: Player38 (big blind) showed [As 2s] and won ($0.62) with two pair, Queens and Deuces
+Seat 4: Player10 folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: Player53 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507654679:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:52:10 CET [08/27/2025 13:52:10 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player9 ($11.56 in chips)
+Seat 2: Player12 ($12.29 in chips)
+Seat 3: Player5 ($10.68 in chips)
+Seat 4: Hero ($10 in chips)
+Seat 5: Player30 ($9.65 in chips)
+Seat 6: Player38 ($10 in chips)
+Player12: posts small blind $0.05
+Player5: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [3d 2c]
+Hero: folds
+Player30: folds
+Player38: folds
+Player9: raises $0.15 to $0.25
+Player12: folds
+Player5: folds
+Uncalled bet ($0.15) returned to Player9
+Player9 collected $0.25 from pot
+Player9: doesn't show hand
+*** SUMMARY ***
+Total pot $0.25 | Rake $0
+Seat 1: Player9 (button) collected ($0.25)
+Seat 2: Player12 (small blind) folded before Flop
+Seat 3: Player5 (big blind) folded before Flop
+Seat 4: Hero folded before Flop (didn't bet)
+Seat 5: Player30 folded before Flop (didn't bet)
+Seat 6: Player38 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507655458:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:52:14 CET [08/27/2025 13:52:14 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player94 ($10 in chips)
+Seat 2: Player22 ($11.42 in chips)
+Seat 3: Hero ($10 in chips)
+Seat 4: Player107 ($10.87 in chips)
+Seat 5: Player70 ($6.71 in chips)
+Seat 6: Player69 ($10 in chips)
+Player22: posts small blind $0.05
+Hero: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [7c 6s]
+Player107: folds
+Player70: folds
+Player69: folds
+Player94: raises $0.15 to $0.25
+Player22: raises $0.80 to $1.05
+Hero: folds
+Player94: folds
+Uncalled bet ($0.80) returned to Player22
+Player22 collected $0.60 from pot
+Player22: doesn't show hand
+*** SUMMARY ***
+Total pot $0.60 | Rake $0
+Seat 1: Player94 (button) folded before Flop
+Seat 2: Player22 (small blind) collected ($0.60)
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: Player107 folded before Flop (didn't bet)
+Seat 5: Player70 folded before Flop (didn't bet)
+Seat 6: Player69 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507657080:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:52:22 CET [08/27/2025 13:52:22 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player30 ($11.95 in chips)
+Seat 2: Hero ($19.12 in chips)
+Seat 3: Player97 ($15.01 in chips)
+Seat 4: Player107 ($10.87 in chips)
+Seat 5: Player37 ($20.35 in chips)
+Seat 6: Player130 ($13.53 in chips)
+Hero: posts small blind $0.05
+Player97: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [2h As]
+Player107: folds
+Player37 is disconnected
+Player37 has timed out while disconnected
+Player37: folds
+Player130: raises $0.20 to $0.30
+Player30: folds
+Hero: folds
+Player97: folds
+Uncalled bet ($0.20) returned to Player130
+Player130 collected $0.25 from pot
+Player130: doesn't show hand
+*** SUMMARY ***
+Total pot $0.25 | Rake $0
+Seat 1: Player30 (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: Player97 (big blind) folded before Flop
+Seat 4: Player107 folded before Flop (didn't bet)
+Seat 5: Player37 folded before Flop (didn't bet)
+Seat 6: Player130 collected ($0.25)
+
+
+PokerStars Hand #257507657553:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:52:24 CET [08/27/2025 13:52:24 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player38 ($10 in chips)
+Seat 2: Hero ($10 in chips)
+Seat 3: Player40 ($11.29 in chips)
+Seat 4: Player53 ($13.93 in chips)
+Seat 5: Player64 ($19.05 in chips)
+Seat 6: Player60 ($23.02 in chips)
+Hero: posts small blind $0.05
+Player40: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [3h 3c]
+Player53: raises $0.15 to $0.25
+Player64: folds
+Player60: folds
+Player38: folds
+Hero: folds
+Player40: folds
+Uncalled bet ($0.15) returned to Player53
+Player53 collected $0.25 from pot
+Player53: doesn't show hand
+*** SUMMARY ***
+Total pot $0.25 | Rake $0
+Seat 1: Player38 (button) folded before Flop (didn't bet)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: Player40 (big blind) folded before Flop
+Seat 4: Player53 collected ($0.25)
+Seat 5: Player64 folded before Flop (didn't bet)
+Seat 6: Player60 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507660686:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:52:40 CET [08/27/2025 13:52:40 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Hero ($10 in chips)
+Seat 2: Player27 ($10 in chips)
+Seat 3: Player134 ($10 in chips)
+Seat 4: Player2 ($10 in chips)
+Seat 5: Player30 ($10.13 in chips)
+Seat 6: Player86 ($30.85 in chips)
+Player27: posts small blind $0.05
+Player134: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [6h 9d]
+Player2: folds
+Player30 has timed out
+Player30: folds
+Player86: raises $0.20 to $0.30
+Hero: folds
+Player27: folds
+Player134: folds
+Uncalled bet ($0.20) returned to Player86
+Player86 collected $0.25 from pot
+Player86: doesn't show hand
+*** SUMMARY ***
+Total pot $0.25 | Rake $0
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: Player27 (small blind) folded before Flop
+Seat 3: Player134 (big blind) folded before Flop
+Seat 4: Player2 folded before Flop (didn't bet)
+Seat 5: Player30 folded before Flop (didn't bet)
+Seat 6: Player86 collected ($0.25)
+
+
+PokerStars Hand #257507661113:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:52:42 CET [08/27/2025 13:52:42 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player107 ($10.72 in chips)
+Seat 2: Player135 ($4.38 in chips)
+Seat 3: Player29 ($11.72 in chips)
+Seat 4: Hero ($19.07 in chips)
+Seat 5: Player111 ($3.90 in chips)
+Seat 6: Player44 ($17.70 in chips)
+Player135: posts small blind $0.05
+Player29: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Ac 7d]
+Hero: folds
+Player111: folds
+Player44: folds
+Player107: folds
+Player135: folds
+Uncalled bet ($0.05) returned to Player29
+Player29 collected $0.10 from pot
+Player29: doesn't show hand
+*** SUMMARY ***
+Total pot $0.10 | Rake $0
+Seat 1: Player107 (button) folded before Flop (didn't bet)
+Seat 2: Player135 (small blind) folded before Flop
+Seat 3: Player29 (big blind) collected ($0.10)
+Seat 4: Hero folded before Flop (didn't bet)
+Seat 5: Player111 folded before Flop (didn't bet)
+Seat 6: Player44 folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507665236:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:53:02 CET [08/27/2025 13:53:02 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player94 ($10 in chips)
+Seat 2: Player134 ($9.60 in chips)
+Seat 3: Player45 ($22 in chips)
+Seat 4: Player29 ($11.77 in chips)
+Seat 5: Player66 ($2.25 in chips)
+Seat 6: Hero ($10 in chips)
+Player134: posts small blind $0.05
+Player45: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [6s Js]
+Player29: raises $0.15 to $0.25
+Player66: calls $0.25
+Hero: folds
+Player94: folds
+Player134: calls $0.20
+Player45: folds
+*** FLOP *** [As 3d 2h]
+Player134: checks
+Player29: checks
+Player66: checks
+*** TURN *** [As 3d 2h] [Qc]
+Player134: bets $0.41
+Player29: folds
+Player66: folds
+Uncalled bet ($0.41) returned to Player134
+Player134 collected $0.81 from pot
+Player134: doesn't show hand
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04
+Board [As 3d 2h Qc]
+Seat 1: Player94 (button) folded before Flop (didn't bet)
+Seat 2: Player134 (small blind) collected ($0.81)
+Seat 3: Player45 (big blind) folded before Flop
+Seat 4: Player29 folded on the Turn
+Seat 5: Player66 folded on the Turn
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+PokerStars Hand #257507667496:  Hold'em No Limit ($0.05/$0.10) - 2025/08/27 19:53:13 CET [08/27/2025 13:53:13 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Player12 ($10.28 in chips)
+Seat 2: Player114 ($2.76 in chips)
+Seat 3: Player11 ($8 in chips)
+Seat 4: Player69 ($10.10 in chips)
+Seat 5: Hero ($10 in chips)
+Seat 6: Player53 ($10.68 in chips)
+Player114: posts small blind $0.05
+Player11: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Jd 4d]
+Player69: folds
+Hero: folds
+Player53: folds
+Player12: folds
+Player114: folds
+Uncalled bet ($0.05) returned to Player11
+Player11 collected $0.10 from pot
+Player11: doesn't show hand
+*** SUMMARY ***
+Total pot $0.10 | Rake $0
+Seat 1: Player12 (button) folded before Flop (didn't bet)
+Seat 2: Player114 (small blind) folded before Flop
+Seat 3: Player11 (big blind) collected ($0.10)
+Seat 4: Player69 folded before Flop (didn't bet)
+Seat 5: Hero folded before Flop (didn't bet)
+Seat 6: Player53 folded before Flop (didn't bet)
+
