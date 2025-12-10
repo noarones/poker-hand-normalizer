@@ -1,6 +1,8 @@
 from pathlib import Path
 from typing import List
+import re
 
+HAND_ID_PATTERN = re.compile(r"^\s*\ufeff?PokerStars(?:\s+Zoom)?\s+Hand\s+#(\d+):")
 class BaseParser:
     def __init__(self, processor):
         self.processor = processor
@@ -16,14 +18,18 @@ class BaseParser:
         lines = text.splitlines()
         hands = []
         current = []
+
         for line in lines:
-            if line.startswith("PokerStars Hand #") and current:
+            if HAND_ID_PATTERN.search(line) and current:
                 hands.append("\n".join(current))
                 current = []
             current.append(line)
+
         if current:
             hands.append("\n".join(current))
+
         return hands
+
 
     def parse_folder(self, input_folder: Path, output_folder: Path):
         for file in input_folder.glob("*.txt"):

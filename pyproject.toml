@@ -4,6 +4,9 @@ version = "0.1.0"
 description = "Poker hand normalizer/cleaner for US format."
 requires-python = ">=3.9"
 authors = [{name="Your Name"}]
+dependencies = [
+    "sqlalchemy>=2.0"
+]
 
 [project.scripts]
 handnormalizer = "handnormalizer.cli:main"
@@ -13,3 +16,5 @@ line-length = 88
 
 [tool.ruff]
 line-length = 88
+
+
